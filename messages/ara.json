@@ -1,0 +1,1147 @@
+{
+  "Index": {},
+
+  "AkilMotto": {
+    "title": "خدم، تواصل، انمو"
+  },
+
+  "LoginPage": {
+    "title": "مرحبًا!",
+    "welcome": "مرحبًا",
+    "continueWithGoogle": "تابع مع جوجل",
+    "loginWithEmail": "أو تسجيل الدخول بالبريد الإلكتروني",
+    "username": "اسم المستخدم",
+    "emailAddressLabel": "عنوان البريد الإلكتروني",
+    "emailAddressPlaceholder": "أدخل عنوان بريدك الإلكتروني",
+    "passwordAreaPlaceholder": "أدخل كلمة المرور",
+    "passwordAreaLabel": "كلمة المرور",
+    "forgotPassword": "نسيت كلمة المرور؟",
+    "submit": "تسجيل الدخول",
+    "noAccount": "ليس لديك حساب بعد؟",
+    "signup": "سجل"
+  },
+
+  "ForgotPasswordPage": {
+    "title": "نسيت كلمة المرور؟",
+    "message": "لا تقلق، يحدث ذلك. فقط أرسل لنا بريدك الإلكتروني",
+    "emailAddressLabel": "عنوان البريد الإلكتروني",
+    "emailAddressPlaceholder": "أدخل عنوان بريدك الإلكتروني",
+    "continue": "تابع",
+    "resetPassword": {
+      "title": "إعادة تعيين كلمة المرور",
+      "verificationMessage": "لقد أرسلنا رمز التحقق إلى عنوان البريد الإلكتروني الذي قدمته. لإعادة تعيين كلمة المرور، يرجى إدخال الرمز مع كلمة المرور الجديدة هنا.",
+      "otpFieldLabel": "أدخل رمز OTP",
+      "newPasswordFieldLabel": "كلمة المرور الجديدة",
+      "newPasswordFieldPlaceholder": "أدخل كلمة المرور الجديدة",
+      "confirmPasswordFieldLabel": "تأكيد كلمة المرور",
+      "confirmPasswordFieldPlaceholder": "أعد إدخال كلمة المرور",
+      "continue": "تابع"
+    }
+  },
+
+  "SignupPage": {
+    "title": "إنشاء حساب",
+    "pleaseUseTelegramOrMobile": "يرجى استخدام بوت تيليجرام HOOPOE أو تطبيق الهاتف المحمول للتسجيل كمتطوع",
+    "toMasarBot": "اذهب إلى بوت تيليجرام HOOPOE",
+    "organization": "منظمة",
+    "volunteer": "متطوع",
+    "continueWithGoogle": "تابع مع جوجل",
+    "signupWithEmail": "أو سجل بالبريد الإلكتروني",
+    "fullName": "الاسم الكامل",
+    "nameAreaPlaceholder": "أدخل اسمك الكامل",
+    "emailAddressLabel": "عنوان البريد الإلكتروني",
+    "emailAddressPlaceholder": "أدخل عنوان بريدك الإلكتروني",
+    "passwordAreaLabel": "كلمة المرور",
+    "passwordAreaPlaceholder": "أدخل كلمة المرور",
+    "confirmPassword": "تأكيد كلمة المرور",
+    "confirmPasswordPlaceholder": "أعد إدخال كلمة المرور",
+    "alreadyHaveAccount": "هل لديك حساب بالفعل؟",
+    "login": "تسجيل الدخول",
+    "continue": "تابع",
+    "terms": {
+      "acceptanceMessage": "بالنقر على 'تابع'، فإنك تقر بأنك قد قرأت ووافقت على <ts>شروط الخدمة</ts> و<pp>سياسة الخصوصية</pp>."
+    }
+  },
+
+  "RoleSelectionPage": {
+    "title": "هل أنت ممثل منظمة أم باحث عن فرص؟",
+    "pleaseUseTelegramOrMobile": "يرجى استخدام بوت تيليجرام HOOPOE أو تطبيق الهاتف المحمول للتسجيل كمتطوع",
+    "OpportunitySeekerDesc": "اختر هذا الخيار إذا كنت تبحث عن استكشاف الفرص",
+    "OrganizationRepresentativeDesc": "اختر هذا الخيار إذا كنت تمثل منظمة",
+    "volunteer": {
+      "welcome": "مرحبًا!",
+      "title": "هذا الموقع حاليًا مخصص فقط للمنظمات",
+      "message": "يرجى استخدام بوت تيليجرام HOOPOE أو تطبيق الهاتف المحمول للتسجيل كمتطوع",
+      "buttonText": {
+        "toMasarBot": "اذهب إلى بوت تيليجرام HOOPOE",
+        "aboutMasar": "عن HOOPOE"
+      }
+    }
+  },
+
+  "VolunteerHomePage": {
+    "welcome": "مرحبًا بعودتك، {name}!",
+    "message": "نعمل حاليًا على تحسين موقعنا الإلكتروني ليكون متاحًا للمتطوعين مثلك. في غضون ذلك، نوصي باستخدام تطبيق الهاتف المحمول أو بوت تيليجرام للبقاء على اتصال والوصول إلى فرص التطوع",
+    "buttonText": {
+      "toMasarBot": "اذهب إلى بوت تيليجرام HOOPOE",
+      "aboutMasar": "عن HOOPOE"
+    }
+  },
+
+  "AboutUsPage": {
+    "aboutMasar": {
+      "title": "عن HOOPOE",
+      "description": "HOOPOE هي منصة مركزية مصممة لربط الشباب بمجموعة واسعة من الفرص، بما في ذلك الوظائف، التدريب الداخلي، وأدوار التطوع. إنها تجسر الفجوة بين المنظمات الباحثة عن المواهب والأفراد الشباب الذين يبحثون عن تجارب تتناسب مع مهاراتهم وشغفهم. من خلال توفير فضاء موحد، تعمل HOOPOE على تبسيط عملية العثور على الفرص والتقديم لها، مما يجعل من الأسهل للشباب تطوير حياتهم المهنية وتقديم مساهمات ذات معنى لمجتمعاتهم، مع تمكين المنظمات من عرض مهامها، سرد الفرص، وإدارة التوظيف بكفاءة."
+    },
+    "mission": {
+      "title": "مهمتنا",
+      "description": "في HOOPOE، مهمتنا هي تحويل طريقة ارتباط المنظمات بالشباب الموهوب من خلال تقديم منصة مبتكرة تبسط عملية التوظيف. نحن ملتزمون بالتغلب على التحديات التي تواجهها المنظمات في العثور على أفراد متحمسين وماهرين لمبادراتهم ذات المعنى. هدفنا هو جعل التوظيف أبسط وأكثر فعالية، والقضاء على العوائق التي تستغرق وقتًا طويلاً حتى تتمكن المنظمات من التركيز على تعزيز مهامها الحيوية."
+    },
+    "vision": {
+      "title": "رؤيتنا",
+      "description": "نتصور عالمًا يمكن للجميع فيه العثور على فرص تتناسب مع مهاراتهم وشغفهم والتفاعل معها. تسعى HOOPOE لبناء مجتمع عالمي حيث تكون الفرص متاحة، شاملة، ومؤثرة للشباب."
+    },
+    "aboutA2SV": {
+      "title": "من نحن",
+      "description": "نحن فريق ديناميكي مكون من عشرة مهندسي برمجيات وكهرباء. كل واحد منا يجلب منظورًا فريدًا إلى الطاولة، متجذرًا في فهم عميق للتحديات التي تواجهها مجتمعاتنا. رحلتنا مدعومة بإرشاد مرشدين متمرسين، الذين لا يجلبون عقودًا من الخبرة في الصناعة فحسب، بل يشاركوننا أيضًا التزامنا باستخدام التكنولوجيا للصالح الاجتماعي."
+    },
+    "contactUsForm": {
+      "title": "اتصل بنا",
+      "nameAreaLabel": "الاسم",
+      "emailAddressLabel": "البريد الإلكتروني",
+      "messageAreaLabel": "الرسالة",
+      "submitButtonText": "إرسال",
+      "errorMessages": {
+        "nameIsRequired": "الاسم مطلوب",
+        "emailIsRequired": "البريد الإلكتروني مطلوب",
+        "message": "يرجى ترك رسالة."
+      }
+    },
+    "loginAsAnOrganization": "تسجيل الدخول كمنظمة",
+    "copyright": "جميع الحقوق محفوظة."
+  },
+
+  "OrganizationSignupPage": {
+    "organizationDetailsSection": {
+      "basicInformation": {
+        "title": "معلومات أساسية",
+        "description": "هذه معلومات المنظمة التي يمكنك تحديثها في أي وقت."
+      },
+      "organizationLogo": {
+        "title": "شعار المنظمة",
+        "description": "سيتم عرض هذه الصورة علنًا كشعار لمنظمتك.",
+        "uploadImageAreaText": "<upload>انقر للتحميل</upload> أو اسحب وأفلت <imageForm>SVG، PNG، JPG أو GIF (بحد أقصى 400 × 400 بكسل)</imageForm>"
+      },
+      "organizationDetails": {
+        "title": "تفاصيل المنظمة",
+        "description": "املأ معلومات منظمتك الأساسية للمستخدمين من خلال تعبئة تفاصيل المنظمة.",
+        "inputAreaLabels": {
+          "organizationName": "اسم المنظمة",
+          "shorthandName": "الاسم المختصر",
+          "oldName": "الاسم القديم",
+          "location": "الموقع",
+          "operationalReach": "النطاق التشغيلي",
+          "organizationType": "نوع المنظمة",
+          "yearFounded": "سنة التأسيس",
+          "areaOfCause": "مجال القضية",
+          "googleMaps": "خرائط جوجل",
+          "locationDetails": "الموقع على خريطة جوجل",
+          "locationDetailsDescription": "لضمان دقة موقعك على منصتنا، يرجى تحديد موقعك الدقيق",
+          "donation": "أضف معلومات التبرع الخاصة بك",
+          "chooseBank": "اختر البنك",
+          "bankInfo": "رقم الحساب",
+          "donateWebsite": "رابط موقع التبرع",
+          "addMoreBank": "أضف بنك آخر",
+          "remove": "إزالة"
+        }
+      },
+      "contactInformations": {
+        "title": "معلومات الاتصال",
+        "description": "أعطنا رقم هاتف منظمتك والبريد الإلكتروني. سيساعد ذلك في تعزيز مجتمعك.",
+        "inputAreaLabels": {
+          "primaryPhoneNumber": "رقم الهاتف الأساسي",
+          "secondaryPhoneNumber": "رقم الهاتف الثانوي",
+          "emailAddress": "عنوان البريد الإلكتروني"
+        }
+      }
+    },
+    "aboutOrganizationSection": {
+      "Invalid url": "رابط غير صالح",
+      "aboutOrganization": {
+        "title": "عن المنظمة",
+        "description": "قدم نظرة عامة موجزة عن كيفية نشأة منظمتك، والقيم الأساسية التي تقوم عليها، ومجالات التأثير الرئيسية لعملك."
+      },
+      "mission": {
+        "title": "المهمة",
+        "description": "صف المهمة الأساسية لمنظمتك - الغرض الرئيسي الذي يحفز فريقك ويوجه مبادراتك."
+      },
+      "vision": {
+        "title": "الرؤية",
+        "description": "حدد المستقبل الذي تعمل من أجله من خلال جهود منظمتك. ما التغيير أو التأثير الذي تهدف إلى تحقيقه على المدى الطويل؟"
+      },
+      "futurePlan": {
+        "title": "الخطة المستقبلية",
+        "description": "فصل الأهداف القادمة، أو المشاريع، أو الاستراتيجيات التي تخطط منظمتك لتنفيذها من أجل الاقتراب من تحقيق رؤيتها."
+      },
+      "certificate": {
+        "title": "رخصة الأعمال",
+        "description": "يرجى إرفاق وثائقك القانونية التجارية لسجلاتنا والتحقق. يرجى ملاحظة أن هذه الوثائق غير مطلوبة لأي نشر بل للتحقق من الكيان التجاري."
+      },
+      "organizationSocials": {
+        "title": "وسائل التواصل الاجتماعي للمنظمة",
+        "description": "سرد ملفات وسائل التواصل الاجتماعي النشطة لمنظمتك ورابط الموقع لتسهيل الاتصالات، والتحديثات، والتفاعل المجتمعي."
+      },
+      "inputAreaLabels": {
+        "description": "الوصف",
+        "mission": "المهمة",
+        "vision": "الرؤية",
+        "futurePlan": "الخطة المستقبلية",
+        "facebook": "فيسبوك",
+        "website": "الموقع الإلكتروني",
+        "linkedIn": "لينكدإن",
+        "telegram": "تيليجرام",
+        "whatsapp": "واتساب",
+        "instagram": "إنستغرام"
+      }
+    },
+    "reviewSection": {
+      "notProvided": "غير مقدم",
+      "labelTitles": {
+        "facebook": "فيسبوك",
+        "linkedIn": "لينكدإن",
+        "telegram": "تيليجرام",
+        "website": "الموقع الإلكتروني",
+        "whatsapp": "واتساب",
+        "instagram": "إنستغرام",
+        "primaryPhoneNumber": "رقم الهاتف الأساسي",
+        "secondaryPhoneNumber": "رقم الهاتف الثانوي",
+        "email": "البريد الإلكتروني",
+        "oldName": "الاسم القديم",
+        "ngoType": "النطاق التشغيلي",
+        "organizationType": "نوع المنظمة",
+        "yearFounded": "تأسست",
+        "location": "الموقع",
+        "contact": "جهات الاتصال",
+        "socialMedia": "وسائل التواصل الاجتماعي",
+        "areaOfCause": "مجال القضية",
+        "about": "عن",
+        "vision": "الرؤية",
+        "mission": "المهمة",
+        "futurePlan": "الخطة المستقبلية",
+        "googleMaps": "خرائط جوجل",
+        "certificateOfRegistration": "شهادة التسجيل"
+      }
+    },
+    "successPopup": {
+      "title": "شكرًا لتسجيلك في HOOPOE",
+      "subTitle": "يرجى الانتظار حتى نتحقق من طلبك. سنرسل إليك إشعارًا بالبريد الإلكتروني بعد التحقق من منظمتك.",
+      "buttonText": "حسنًا"
+    },
+    "buttonText": {
+      "next": "التالي",
+      "back": "رجوع",
+      "finish": "إنهاء",
+      "logout": "تسجيل الخروج"
+    }
+  },
+
+  "editOrganizationProfilePage": {
+    "title": "تعديل الملف الشخصي",
+    "basicInformation": {
+      "title": "معلومات أساسية",
+      "description": "هذه معلومات المنظمة التي يمكنك تحديثها في أي وقت."
+    },
+    "organizationLogo": {
+      "title": "شعار المنظمة",
+      "description": "سيتم عرض هذه الصورة علنًا كشعار الشركة."
+    },
+    "certificate": {
+      "title": "شهادة التسجيل",
+      "description": "قم بتحميل شهادة تسجيل منظمتك أو أي وثيقة أخرى ذات صلة مثل خطاب التأكيد من الحكومة."
+    },
+    "buttonText": "حفظ",
+    "successPopup": {
+      "title": "تم تحديث الملف الشخصي بنجاح",
+      "subTitle": "انقر على حسنًا لرؤية ملفك الشخصي",
+      "buttonText": "حسنًا"
+    }
+  },
+
+  "PostOpportunityPage": {
+    "pageTitle": "نشر فرصة",
+    "detailsSection": {
+      "details": {
+        "title": "التفاصيل",
+        "description": "قدم معلومات مفصلة عن الفرصة، بما في ذلك العنوان، الوصف، المتطلبات، المسؤوليات، ملف المرشح المثالي، والفئة."
+      },
+      "opportunityTitle": {
+        "title": "العنوان",
+        "description": "قدم عنوانًا واضحًا وموجزًا يصف منصبًا واحدًا.",
+        "inputAreaPlaceholder": "مثال: مدرس اللغة الإنجليزية"
+      },
+      "opportunityDescription": {
+        "title": "الوصف",
+        "description": "قدم وصفًا مفصلاً للفرصة، مع التركيز على الدور وتأثيره.",
+        "inputAreaPlaceholder": "مثال: انضم إلى فريقنا كمدرس إنجليزي متطوع، وساعد المتعلمين على تحسين مهاراتهم في اللغة الإنجليزية في القراءة، الكتابة، التحدث، والاستماع."
+      },
+      "requirements": {
+        "title": "المتطلبات",
+        "description": "سرد المؤهلات أو المهارات الأساسية اللازمة للمنصب.",
+        "inputAreaPlaceholder": "مثال: إجادة اللغة الإنجليزية"
+      },
+      "responsibilities": {
+        "title": "المسؤوليات",
+        "description": "حدد المهام والواجبات الرئيسية المرتبطة بالمنصب.",
+        "inputAreaPlaceholder": "مثال: تدريس القواعد، المفردات، النطق، ومهارات المحادثة"
+      },
+      "idealCandidate": {
+        "title": "المرشح المثالي",
+        "description": "صف مؤهلات وخلفية المرشح المثالي للدور.",
+        "inputAreaPlaceholder": "مثال: خلفية في تدريس اللغة الإنجليزية أو مجال ذي صلة"
+      },
+      "opportunityVisibility": {
+        "title": "رؤية الفرصة",
+        "description": "اختر الرؤية لفرصتك، اختر 'خاص' أو 'عام'."
+      },
+      "privateOpportunity": {
+        "title": "إضافة بريد إلكتروني للمرشحين",
+        "description": "حدد عناوين البريد الإلكتروني للمستخدمين الذين يمكنهم رؤية هذه الفرصة الخاصة. افصل بينهم بفواصل.",
+        "inputAreaPlaceholder": "مثال: jane@example.com, john@example.com"
+      },
+      "opportunityVisibilityOptions": {
+        "Private": "خاص",
+        "Public": "عام"
+      },
+      "categories": {
+        "title": "الفئات",
+        "description": "اختر أو أدخل الفئات ذات الصلة التي تصف هذه الفرصة بشكل أفضل.",
+        "inputAreaPlaceholder": "مثال: التعليم اللغوي، التطوع",
+        "label": "اختر فئات الفرص"
+      },
+      "fields": {
+        "title": "العنوان",
+        "description": "الوصف",
+        "requirements": "المتطلبات",
+        "responsibilities": "المسؤوليات",
+        "idealCandidate": "المرشح المثالي",
+        "categories": "اختر فئات الفرص"
+      }
+    },
+    "opportunityInformationSection": {
+      "or": "أو",
+      "basicInformation": {
+        "title": "معلومات أساسية",
+        "description": "قدم معلومات شاملة عن الفرصة، مع ضمان الوضوح في الجوانب والتوقعات الرئيسية."
+      },
+      "country": {
+        "title": "الدولة",
+        "description": "حدد الدولة"
+      },
+      "city": {
+        "title": "المدينة",
+        "description": "حدد المدينة"
+      },
+      "engagementType": {
+        "title": "نوع الفرصة",
+        "description": "حدد نوع الفرصة"
+      },
+      "opType": {
+        "title": "موقع العمل",
+        "description": "حدد موقع العمل"
+      },
+      "startDate": {
+        "title": "تاريخ بدء العمل",
+        "description": "حدد تاريخ بدء العمل"
+      },
+      "EndDate": {
+        "title": "تاريخ انتهاء العمل",
+        "description": "حدد تاريخ انتهاء العمل"
+      },
+      "isPaid": {
+        "title": "مدفوع",
+        "description": "هل هي فرصة مدفوعة؟"
+      },
+      "salary": {
+        "title": "الراتب",
+        "description": "حدد الراتب للفرصة مع العملة",
+        "inputAreaPlaceholder": "1000"
+      },
+      "deadline": {
+        "title": "الموعد النهائي للتقديم",
+        "description": "حدد الموعد النهائي لتقديم الطلب",
+        "label": "الموعد النهائي",
+        "placeHolder": "حدد الموعد النهائي"
+      },
+      "rolling": {
+        "title": "مستمر",
+        "description": "هذه الفرصة ليس لها موعد نهائي ومدة محددة."
+      },
+      "location": {
+        "title": "المدينة",
+        "description": "حدد المدينة التي تقع فيها الفرصة، يمكنك اختيار مدن متعددة"
+      },
+      "locationOnMap": {
+        "title": "الموقع على الخريطة",
+        "description": "لضمان دقة موقعك على منصتنا، يرجى تحديد موقعك الدقيق"
+      },
+      "requiredSkills": {
+        "title": "المهارات المطلوبة",
+        "description": "حدد المهارات التي يجب أن يمتلكها المتقدم للفرصة",
+        "inputAreaLabel": "أضف مهارة"
+      },
+      "perksAndBenefits": {
+        "title": "المزايا والفوائد",
+        "description": "يرجى سرد المزايا والفوائد التي ستقدمها منظمتك في هذا القسم.",
+        "inputAreaLabel": "أضف مزايا وفوائد"
+      },
+      "onboardingSession": {
+        "title": "متى وأين",
+        "description": "قدم تفاصيل حول جلسة الإعداد، بما في ذلك التاريخ، والوقت، والموقع.",
+        "inputAreaPlaceholder": "مثال: سيقام الحدث في 18 يناير 2023 في قاعة AAU"
+      }
+    },
+    "reviewSection": {
+      "title": "مراجعة",
+      "notProvided": "غير مقدم",
+      "isPaid": "مدفوع",
+      "Yes": "نعم",
+      "No": "لا",
+      "postedOn": "نشر في",
+      "deadline": "الموعد النهائي",
+      "engagementType": "نوع الفرصة",
+      "opType": "موقع العمل",
+      "description": "الوصف",
+      "requirements": "المتطلبات",
+      "responsibilities": "المسؤوليات",
+      "idealCandidate": "المرشح المثالي",
+      "whenAndWhere": "متى وأين",
+      "locationOnGoogleMap": "الموقع على خريطة جوجل",
+      "timeline": {
+        "title": "المدة",
+        "startDate": "تاريخ بدء العمل",
+        "endDate": "تاريخ انتهاء العمل"
+      },
+      "city": "المدينة",
+      "country": "الدولة",
+      "categories": "الفئات",
+      "requiredSkills": "المهارات المطلوبة",
+      "perksAndBenefits": "المزايا والفوائد",
+      "successPopupModal": {
+        "title": "تم إنشاء الفرصة بنجاح!",
+        "subTitle": "انقر على حسنًا لرؤية صفحة قائمة الفرص",
+        "buttonText": "حسنًا"
+      }
+    },
+    "saveButton": "حفظ التغييرات",
+    "successPopup": {
+      "title": "تم تحديث الفرصة بنجاح",
+      "subTitle": "انقر على حسنًا لرؤية الفرصة",
+      "buttonText": "حسنًا"
+    }
+  },
+
+  "RepostOpportunityPage": {
+    "postedOn": "نشر في",
+    "pageTitle": "إعادة نشر الفرصة",
+    "opportunityTitle": "عنوان الفرصة",
+    "startEndDate": {
+      "title": "تاريخ البدء وانتهاء العمل",
+      "placeHolder": "اختر نطاق التاريخ"
+    },
+    "deadline": {
+      "title": "الموعد النهائي للتقديم",
+      "description": "حدد الموعد النهائي لتقديم الطلب",
+      "placeHolder": "حدد الموعد النهائي"
+    },
+    "or": "أو",
+    "rolling": {
+      "title": "مستمر",
+      "description": "هذه للفرصة التي ليس لها موعد نهائي محدد."
+    },
+    "buttonText": "إعادة النشر"
+  },
+
+  "ThreeStageStepper": {
+    "steps": {
+      "step1": "الخطوة 1/3",
+      "step2": "الخطوة 2/3",
+      "step3": "الخطوة 3/3"
+    },
+    "postOpportuntySteps": {
+      "step1": "الخطوة 1/4",
+      "step2": "الخطوة 2/4",
+      "step3": "الخطوة 3/4",
+      "step4": "الخطوة 4/4"
+    },
+    "organizationSignup": {
+      "organizationDetails": "إعداد ملف المنظمة",
+      "aboutOrganization": "تفاصيل المنظمة",
+      "review": "مراجعة"
+    },
+    "postOpportunity": {
+      "opportunityDescription": "تفاصيل الفرصة",
+      "opportunityInformation": "معلومات الفرصة",
+      "additionalQuestions": "أسئلة إضافية",
+      "review": "مراجعة"
+    }
+  },
+
+  "orgOpportunities": {
+    "pageTitle": "قوائم الفرص",
+    "subTitle": "عرض وإدارة الفرص التي نشرتها منظمتك هنا",
+    "headerButtonText": "نشر فرصة",
+    "tableHeaders": {
+      "role": "الدور",
+      "status": "الحالة",
+      "datePosted": "تاريخ النشر",
+      "deadline": "الموعد النهائي",
+      "engagementType": "نوع الفرصة",
+      "opportunityType": "نوع الفرصة",
+      "applicants": "المتقدمون",
+      "title": "الفرص",
+      "subTitle": "معلومات حول الفرص في منظمتك"
+    }
+  },
+
+  "orgProfile": {
+    "title": "ملف المنظمة",
+    "headerButtonText": "تعديل التفاصيل"
+  },
+
+  "SideBarOptions": {
+    "opportunities": "الفرص",
+    "organizationProfile": "ملف المنظمة",
+    "pricing": "التسعير",
+    "settings": "الإعدادات",
+    "helpCenter": "مركز المساعدة",
+    "logout": "تسجيل الخروج",
+    "representatives": "الممثلون",
+    "changeEmail": "تغيير البريد الإلكتروني",
+    "editProfile": "تعديل الملف الشخصي",
+    "volunteerPool": "مجموعة المواهب",
+    "otherOrganizations": "المنظمات"
+  },
+
+  "EmptyDashboard": {
+    "welcome": "مرحبًا بعودتك، {name}!",
+    "info": "حاليًا، لا توجد منشورات فرص لمنظمتك. ابدأ بإضافة فرصة جديدة.",
+    "postButtonText": "نشر فرصة",
+    "viewOrgProfileButtonText": "عرض صفحة الملف الشخصي",
+    "contactUsButtonText": "اتصل بـ HOOPOE",
+    "editOrgProfileButtonText": "تعديل ملف المنظمة",
+    "declinedAccount": {
+      "title": "تم رفض الحساب!",
+      "message": "نأسف، لكن حسابك تم رفضه. يرجى تعديل ملفك الشخصي ومحاولة مرة أخرى أو التواصل معنا للحصول على مزيد من المعلومات أو المساعدة."
+    },
+    "disabledAccount": {
+      "title": "تم تعطيل الحساب!",
+      "message": "نأسف، لكن حسابك تم تعطيله. يرجى التواصل معنا للحصول على مزيد من المعلومات أو المساعدة."
+    },
+    "notVerifiedAccount": {
+      "title": "الحساب غير موثق!",
+      "message": "لم يتم التحقق من حسابك بعد. نحن نراجع حسابك حاليًا وسنكمل عملية التحقق في أقرب وقت ممكن. شكرًا لصبرك."
+    },
+    "opportunityListing": {
+      "title": "قوائم الفرص",
+      "subTitle": "عرض وإدارة الفرص التي نشرتها منظمتك هنا."
+    }
+  },
+
+  "ViewOpportunityInfoPage": {
+    "topSection": {
+      "editButtonText": "تعديل الفرصة",
+      "postedOn": "نشر في",
+      "deadline": "الموعد النهائي",
+      "engagementType": "نوع الفرصة",
+      "opType": "موقع العمل"
+    },
+    "tabs": {
+      "opportunityDetails": "تفاصيل الفرصة",
+      "applicants": "المتقدمون",
+      "certificate": "الشهادة"
+    },
+    "openOpportunity": {
+      "buttonText": "إعادة فتح",
+      "confirmationPopup": {
+        "title": "هل أنت متأكد؟",
+        "subTitle": "بمجرد إعادة فتح المنشور، سيتمكن المتطوعون من التقديم."
+      }
+    },
+    "closeOpportunity": {
+      "buttonText": "إغلاق",
+      "confirmationPopup": {
+        "title": "هل أنت متأكد؟",
+        "subTitle": "بمجرد إغلاق المنشور، لن يتمكن المتطوعون من التقديم بعد الآن."
+      }
+    },
+    "repostOpportunity": {
+      "buttonText": "إعادة النشر",
+      "confirmationPopup": {
+        "title": "هل أنت متأكد؟",
+        "subTitle": "بمجرد إعادة نشر المنشور، سيظهر في الأعلى كفرصة جديدة."
+      }
+    },
+    "statusChangePopup": {
+      "deadline": "الموعد النهائي",
+      "applicants": "المتقدمون",
+      "inReview": "قيد المراجعة",
+      "accepted": "مقبول",
+      "declined": "مرفوض",
+      "cancelButton": "إلغاء"
+    },
+    "OP_TYPE_OPTIONS": {
+      "In Person": "حضوري",
+      "Remote": "عن بُعد",
+      "Hybrid": "هجين"
+    },
+    "OP_PAID_OPTIONS": {
+      "Yes": "نعم",
+      "No": "لا"
+    },
+    "NGO_TYPE_OPTIONS": {
+      "Local": "محلي",
+      "International": "دولي"
+    }
+  },
+
+  "ApplicantDetailPage": {
+    "pageTitle": "تفاصيل المتقدم",
+    "dateApplied": "تاريخ التقديم",
+    "status": "الحالة",
+    "personalInformation": {
+      "age": "العمر",
+      "gender": "الجنس",
+      "location": "الموقع",
+      "associatedOrganization": "المنظمات المرتبطة",
+      "about": "عن",
+      "contact": {
+        "title": "جهات الاتصال",
+        "email": "البريد الإلكتروني",
+        "phone": "الهاتف",
+        "linkedIn": "لينكدإن",
+        "whatsapp": "واتساب",
+        "telegram": "تيليجرام"
+      }
+    },
+    "documents": {
+      "title": "الوثائق",
+      "resume": "السيرة الذاتية/السيرة الذاتية"
+    },
+    "applicantProfile": "ملف المتقدم",
+    "workHistory": "سجل العمل",
+    "additionalResponses": "ردود إضافية",
+    "participationType": "نوع المشاركة",
+    "skillSets": "مجموعة المهارات",
+    "categories": "الفئات",
+    "response": "الرد",
+    "notProvided": "غير مقدم",
+    "organizationsRatesAndReviews": "تقييمات ومراجعات المنظمات",
+    "acceptButtonText": "قبول",
+    "declineButtonText": "رفض",
+    "inReviewButtonText": "قيد المراجعة",
+    "inProgressButtonText": "قيد التقدم",
+    "completedButtonText": "مكتمل",
+    "certifyButtonText": "تصديق",
+    "confirmationPopup": {
+      "title": "هل أنت متأكد؟",
+      "declined": "هذا الإجراء سيرسل إشعارًا إلى المتقدم بأنه لم يتم قبوله لهذه الفرصة.",
+      "accepted": "هذا الإجراء سيرسل إشعارًا إلى المتقدم بأنه تم قبوله لهذه الفرصة.",
+      "inReview": "هذا الإجراء سيرسل إشعارًا إلى المتقدم بأن طلبه قيد المراجعة.",
+      "inProgress": "هل المتقدم يتطوع حاليًا في منظمتك؟ يرجى تحديث حالته إلى قيد التقدم إذا تطوع مرة واحدة على الأقل منذ قبوله.",
+      "completed": "هل أكمل المتقدم عمله التطوعي في منظمتك؟ يرجى تحديث حالته إلى مكتمل إذا أنهى عمله التطوعي.",
+      "certified": "هذا الإجراء سيرسل إشعارًا إلى المتقدم بأنه تم تصديقه."
+    }
+  },
+
+  "validationErrors": {
+    "Full name is required": "الاسم الكامل مطلوب",
+    "Email is required": "البريد الإلكتروني مطلوب",
+    "Invalid email": "بريد إلكتروني غير صالح",
+    "Password is required": "كلمة المرور مطلوبة",
+    "String must contain at least 6 character(s)": "يجب أن تتكون كلمة المرور من 6 أحرف على الأقل",
+    "String must contain at least 1 character(s)": "يجب أن يحتوي النص على حرف واحد على الأقل",
+    "String must contain at least 2 character(s)": "يجب أن يحتوي الاسم على حرف واحد على الأقل",
+    "Passwords don't match": "كلمات المرور غير متطابقة",
+    "OTP is required": "رمز OTP مطلوب",
+    "OTP must be 4 characters long": "يجب أن يتكون رمز OTP من 4 أحرف",
+    "Year must be an integer between 1800 and the current year": "يرجى إدخال سنة صالحة بين 1800 والآن",
+    "Organization name cannot be empty": "اسم المنظمة لا يمكن أن يكون فارغًا",
+    "Location cannot be empty": "الموقع لا يمكن أن يكون فارغًا",
+    "Organization Type needs to be a valid option": "يجب أن يكون نوع المنظمة خيارًا صالحًا",
+    "Year Founded needs to be a valid option": "يجب أن تكون سنة التأسيس خيارًا صالحًا",
+    "You need to select at least one Organization Area": "يجب عليك اختيار مجال منظمة واحد على الأقل",
+    "Primary phone number is required": "رقم الهاتف الأساسي مطلوب",
+    "Primary phone number is not valid": "رقم الهاتف الأساسي غير صالح",
+    "Secondary phone number is not valid": "رقم الهاتف الثانوي غير صالح",
+    "Title cannot be empty": "العنوان لا يمكن أن يكون فارغًا",
+    "Description cannot be empty": "الوصف لا يمكن أن يكون فارغًا",
+    "Description cannot exceed 500 characters": "الوصف لا يمكن أن يتجاوز 500 حرف",
+    "Vision cannot be empty": "الرؤية لا يمكن أن تكون فارغة",
+    "Mission cannot be empty": "المهمة لا يمكن أن تكون فارغة",
+    "Future Plans cannot be empty": "الخطط المستقبلية لا يمكن أن تكون فارغة",
+    "Opportunity title is required": "عنوان الفرصة مطلوب",
+    "Responsibilities cannot be empty": "المسؤوليات لا يمكن أن تكون فارغة",
+    "Responsibilities cannot exceed 500 characters": "المسؤوليات لا يمكن أن تتجاوز 500 حرف",
+    "Requirements cannot be empty": "المتطلبات لا يمكن أن تكون فارغة",
+    "Requirements cannot exceed 500 characters": "المتطلبات لا يمكن أن تتجاوز 500 حرف",
+    "Ideal Candidate description cannot exceed 500 characters": "وصف المرشح المثالي لا يمكن أن يتجاوز 500 حرف",
+    "You need to select at least one Category": "يجب عليك اختيار فئة واحدة على الأقل",
+    "You need to select at least one Opportunity Type": "يجب عليك اختيار نوع فرصة واحد على الأقل",
+    "Job Start Date is required": "تاريخ بدء العمل مطلوب",
+    "Job End Date is required": "تاريخ انتهاء العمل مطلوب",
+    "Deadline is required": "الموعد النهائي مطلوب",
+    "You need to select at least one City": "يجب عليك اختيار مدينة واحدة على الأقل",
+    "You need to select at least one Required Skill": "يجب عليك اختيار مهارة مطلوبة واحدة على الأقل",
+    "When and Where information is required": "معلومات متى وأين مطلوبة",
+    "You need to select at least one skill": "يجب عليك اختيار مهارة واحدة على الأقل",
+    "You need to select at least one language": "يجب عليك اختيار لغة واحدة على الأقل",
+    "Required": "المهنة الحالية مطلوبة",
+    "Invalid phone number": "رقم الهاتف غير صالح",
+    "Phone number is required": "رقم الهاتف مطلوب",
+    "Name must be at least 3 characters long": "يجب أن يتكون الاسم من 3 أحرف على الأقل",
+    "Work Location cannot be empty": "موقع العمل لا يمكن أن يكون فارغًا",
+    "Please specify whether the opportunity is paid or not": "يرجى تحديد ما إذا كانت الفرصة مدفوعة أم لا",
+    "Job Start Date cannot be in the past": "تاريخ بدء العمل لا يمكن أن يكون في الماضي",
+    "Job End Date cannot be in the past": "تاريخ انتهاء العمل لا يمكن أن يكون في الماضي",
+    "Deadline cannot be in the past": "الموعد النهائي لا يمكن أن يكون في الماضي",
+    "You need to select at least one operational area": "يجب عليك اختيار منطقة تشغيلية واحدة على الأقل",
+    "User already exists with the given email": "المستخدم موجود بالفعل مع البريد الإلكتروني المعطى"
+  },
+
+  "editOrgUserProfilePage": {
+    "title": "تعديل ملفك الشخصي",
+    "saveButtonText": "حفظ التغيير",
+    "saveName": "حفظ الاسم",
+    "labels": {
+      "profile": "صورة الملف الشخصي",
+      "name": "الاسم",
+      "email": "عنوان البريد الإلكتروني"
+    }
+  },
+
+  "updateEmailPage": {
+    "title": "هل تريد تغيير البريد الإلكتروني؟",
+    "subtitle": "يجب أن يكون الأمر سهلاً، فقط أرسل لنا بريدك الإلكتروني الجديد",
+    "continueButtonText": "تابع",
+    "emailFieldPlaceholder": "أدخل عنوان بريدك الإلكتروني الجديد",
+    "labels": {
+      "email": "عنوان البريد الإلكتروني"
+    },
+    "verifiyEmail": {
+      "title": "التحقق من البريد الإلكتروني الجديد",
+      "subtitle": "لقد أرسلنا رمز التحقق إلى عنوان البريد الإلكتروني الذي قدمته. لتغيير بريدك الإلكتروني بنجاح، يرجى إدخال الرمز هنا.",
+      "otpFieldLabel": "أدخل رمز OTP"
+    }
+  },
+
+  "LocaleSwitcher": {
+    "label": "اللغة",
+    "switchLocale": "{locale, select, am {አማ} en {En} om {Om} ar {عر} other {غير معروف}}"
+  },
+
+  "tableInfo": {
+    "previous": "السابق",
+    "next": "التالي",
+    "page": "صفحة",
+    "of": "من",
+    "search": "بحث"
+  },
+
+  "volunteerPool": {
+    "title": "المواهب المتاحة",
+    "details": {
+      "opportunitySeekers": "الباحثون عن الفرص",
+      "subtitle": "هذه قائمة بالأشخاص الذين اختاروا قبول الدعوة"
+    },
+    "tableFilters": {
+      "all": "الكل",
+      "interested": "مهتم",
+      "saved": "محفوظ",
+      "myPool": "مجموعتي"
+    },
+    "tableHeaders": {
+      "user": "المستخدم",
+      "skills": "المهارات",
+      "interestInYourCompany": "الاهتمام بشركتك",
+      "gender": "الجنس",
+      "invitedBy": "دعوة من",
+      "status": "الحالة",
+      "invitedOn": "تاريخ الدعوة"
+    },
+    "page": "صفحة",
+    "of": "من"
+  },
+
+  "volunteerSide": {
+    "navBar": {
+      "home": "الرئيسية",
+      "findOpportunities": "البحث عن فرص",
+      "browseOrganizations": "تصفح المنظمات",
+      "aboutUs": "عنّا",
+      "logIn": "تسجيل الدخول",
+      "signUp": "التسجيل",
+      "profile": "الملف الشخصي",
+      "applications": "الطلبات",
+      "logOut": "تسجيل الخروج",
+      "bookMark": "الإشارات المرجعية",
+      "MyBookMark": "إشاراتي المرجعية"
+    },
+    "homePage": {
+      "grow": "انمو.",
+      "connect": "تواصل،",
+      "serve": "خدم،",
+      "description": "تربط HOOPOE الأفراد المتحمسين بالمنظمات المؤثرة، وتمكّن المجتمعات في جميع أنحاء العالم.",
+      "startHereButton": "ابدأ هنا",
+      "findOpportunities": "البحث عن فرص",
+      "browseOrganizations": "تصفح المنظمات",
+      "login": "تسجيل الدخول",
+      "signUp": "التسجيل"
+    },
+    "impactPage": {
+      "title1": "هل أنت متطوع تبحث عن",
+      "title2": "إحداث تأثير إيجابي",
+      "title3": "في مجتمعك؟",
+      "subtitle1": "تقضي HOOPOE على الحاجة للتنقل عبر منصات التواصل الاجتماعي المختلفة والتواصل الشفهي",
+      "subtitle2": "توفر منصتنا وصولاً مبسطًا إلى مركزية",
+      "subtitle3": "ومجموعة واسعة من الفرص المتنوعة.",
+      "button": "البحث عن فرصة"
+    },
+    "makeDifferencePage": {
+      "title1": "صنع",
+      "title2": "فرق",
+      "description": "تواصل مع المنظمات غير الحكومية المتحمسة وابحث عن فرص مؤثرة تتماشى مع مهاراتك واهتماماتك.",
+      "description1": "استكشف أدوار تطوع متنوعة مصممة حسب اهتماماتك وخبراتك",
+      "description2": "تقدم بسهولة للفرص وتتبع طلباتك في مكان واحد",
+      "description3": "انضم إلى شبكة من الأفراد والمنظمات المتحمسين المكرسين لخلق عالم أفضل",
+      "subtitle1": "اكتشف الفرص",
+      "subtitle2": "تقديم طلب بسهولة",
+      "subtitle3": "مجتمع التغيير",
+      "button": "تحميل التطبيق"
+    },
+    "elevatePage": {
+      "title1": "ارفع مستوى",
+      "title2": "إدارة المتطوعين",
+      "title3": "مع HOOPOE",
+      "description": "تغيير طريقة ارتباط المتطوعين بالمنظمات غير الحكومية، تستخدم HOOPOE التكنولوجيا لتسهيل التوظيف والتواصل.",
+      "subtitle1": "عرض المشاريع المؤثرة",
+      "subtitle1description": "ارفع رؤية منظمتك غير الحكومية: سلط الضوء على المشاريع، الإنجازات، والفرص القادمة لشبكة المتطوعين المخصصة لدينا.",
+      "subtitle2": "تقييم المتطوعين المبسط",
+      "subtitle2description": "راجع الطلبات، أصدر الشهادات، وأدر بسهولة عملية اختيار القوائم القصيرة، القبول، أو رفض المتقدمين.",
+      "button": "سجل اليوم"
+    },
+    "applicationPage": {
+      "title": "هل أنت مستعد لتبسيط عملية تقديم طلبك؟",
+      "description": "ابدأ رحلتك الآن بالتسجيل اليوم!",
+      "button": "انضم إلينا"
+    },
+    "footer": {
+      "resourcesButton": {
+        "title": "الموارد",
+        "getTheApp": "احصل على التطبيق",
+        "aboutUs": "عنّا",
+        "tryTelegramBot": "جرب بوت تيليجرام"
+      },
+      "description": "HOOPOE هي منصة مصممة لربط المنظمات بالشباب الباحثين عن فرص. من خلال تبسيط عملية إدارة الفرص وتعزيز التواصل، تساعد HOOPOE المنظمات في العثور على المواهب المناسبة مع تقديم فرص مخصصة تتماشى مع مهارات واهتمامات الأفراد.",
+      "contactUs": "اتصل بنا",
+      "copyRight": "2025 HOOPOE. جميع الحقوق محفوظة.",
+      "quickContact": "اتصال سريع: تواصل معنا"
+    },
+    "experiancePage": {
+      "title1": "تجربة",
+      "title2": "تقديم طلب سلس",
+      "title3": "مع HOOPOE",
+      "card1": {
+        "title1": "تطوع",
+        "title2": "مبسط",
+        "description1": "نربط الأفراد المتحمسين",
+        "description2": "بالمنظمات غير الحكومية، ونقدم",
+        "description3": "تجارب تطوع مخصصة."
+      },
+      "card2": {
+        "title1": "قضايا",
+        "title2": "متنوعة",
+        "description1": "تمكين الأفراد من",
+        "description2": "دعم مبادرات متنوعة و",
+        "description3": "تعزيز مجتمع عالمي."
+      },
+      "card3": {
+        "title1": "تمكين",
+        "title2": "المجتمعات",
+        "description1": "تبسط التواصل مع المنظمات غير الحكومية",
+        "description2": "وتطابق المتطوعين",
+        "description3": "لتدفع التغيير العالمي."
+      }
+    }
+  },
+
+  "findOpportunities": {
+    "title": "البحث عن فرص",
+    "subtitle": "ابحث عن فرص بالقرب من منطقتك",
+    "searchOpportunities": "البحث عن فرص",
+    "city": "المدينة",
+    "search": "بحث",
+    "opportunities": "الفرص",
+    "operationalReach": "النطاقات التشغيلية",
+    "sortBy": "ترتيب حسب",
+    "showingResults": "إظهار النتائج",
+    "previous": "السابق",
+    "next": "التالي",
+    "page": "صفحة",
+    "of": "من",
+    "sortOptions": {
+      "mostRecent": "الأحدث",
+      "oldestFirst": "الأقدم أولاً",
+      "mostApplicants": "الأكثر متقدمين",
+      "leastApplicants": "الأقل متقدمين",
+      "farthestDeadline": "الموعد النهائي الأبعد",
+      "nearestDeadline": "الموعد النهائي الأقرب",
+      "mostViewed": "الأكثر مشاهدة",
+      "leastViewed": "الأقل مشاهدة"
+    },
+    "typeOfEmployment": "أنواع المشاركة",
+    "organizationType": "نوع المنظمة",
+    "categories": "الفئات"
+  },
+
+  "browseOrganizations": {
+    "title": "تصفح المنظمات",
+    "subtitle": "ابحث عن منظمات بالقرب من منطقتك",
+    "searchOrganization": "البحث عن منظمات",
+    "city": "المدينة",
+    "search": "بحث",
+    "organizations": "المنظمات",
+    "operationalReach": "النطاقات التشغيلية",
+    "allOrganizations": "المنظمات",
+    "sortBy": "ترتيب حسب",
+    "showingResults": "إظهار النتائج",
+    "previous": "السابق",
+    "next": "التالي",
+    "page": "صفحة",
+    "of": "من",
+    "sortOptions": {
+      "newestFirst": "الأحدث أولاً",
+      "oldestFirst": "الأقدم أولاً",
+      "mostOpportunities": "الأكثر فرصًا",
+      "leastOpportunities": "الأقل فرصًا",
+      "ascendingOrder": "ترتيب تصاعدي",
+      "descendingOrder": "ترتيب تنازلي"
+    },
+    "NGO_TYPE_OPTIONS": {
+      "Local": "محلي",
+      "International": "دولي"
+    },
+    "ORGANIZATION_TYPE_OPTIONS": {
+      "Non-Profit": "غير ربحية",
+      "For-Profit": "ربحية"
+    },
+    "causeArea": "مجالات القضية",
+    "organizationType": "أنواع المنظمات",
+    "opportunities": "الفرص",
+    "opportunity": "فرصة",
+    "noOpportunities": "لا توجد فرص"
+  },
+
+  "ngoAreaOptions": {
+    "Education and Literacy": "التعليم ومحو الأمية",
+    "Technology": "التكنولوجيا",
+    "Children and Youth": "الأطفال والشباب",
+    "Health and Medicine": "الصحة والطب",
+    "People with Disabilities": "الأشخاص ذوي الإعاقة",
+    "Sports and Recreation": "الرياضة والترفيه",
+    "Homeless and Housing": "المشرّدون والإسكان",
+    "Environment": "البيئة",
+    "Community Development": "تنمية المجتمع",
+    "Women's Empowerment": "تمكين المرأة",
+    "Media and Broadcasting": "الإعلام والبث",
+    "Maintenance": "الصيانة",
+    "Project management": "إدارة المشاريع",
+    "Project Developement": "تطوير المشاريع",
+    "Marketing": "التسويق",
+    "Maternity Care": "رعاية الأمومة",
+    "Social Media": "وسائل التواصل الاجتماعي"
+  },
+
+  "underlineTabs": {
+    "Home": "الرئيسية",
+    "Organizations": "المنظمات",
+    "Profile": "الملف الشخصي",
+    "Opportunities": "الفرص",
+    "Reviews": "المراجعات",
+    "Opportunity Seekers": "الباحثون عن الفرص",
+    "Other Organizations": "المنظمات",
+    "Opportunities By Other Organizations": "الفرص من منظمات أخرى",
+    "Opportunity Details": "تفاصيل الفرصة",
+    "Applicants": "المتقدمون",
+    "Certificate": "الشهادة",
+    "Applicant Profile": "ملف المتقدم",
+    "Experiences": "الخبرات",
+    "Additional Responses": "ردود إضافية"
+  },
+
+  "EditProfile": {
+    "Skills": "المهارات",
+    "Skills Description": "إضافة مهاراتك تسلط الضوء على خبراتك وتساعد القائمين بالتوظيف على مطابقتك مع الفرص المناسبة.",
+    "Edit Skills": "تعديل المهارات",
+    "Save": "حفظ",
+    "Edit About Me": "تعديل عني",
+    "About Me": "عني",
+    "About": "عن",
+    "About Description": "إكمال قسم عني يعطي القائمين بالتوظيف لمحة عن شخصيتك، أهدافك، وما يجعلك فريدًا.",
+    "Uploading": "جارٍ التحميل...",
+    "Resume/CV": "السيرة الذاتية/السيرة الذاتية",
+    "Resume Updated successfully!": "تم تحديث السيرة الذاتية بنجاح!",
+    "Edit": "تعديل",
+    "Socials": "وسائل التواصل الاجتماعي",
+    "Cancel": "إلغاء",
+    "Skills updated successfully!": "تم تحديث المهارات بنجاح!",
+    "Languages updated successfully!": "تم تحديث اللغات بنجاح!",
+    "Edit your social": "تعديل وسائل التواصل الاجتماعي الخاصة بك",
+    "Contact": "جهات الاتصال",
+    "Profile updated successfully!": "تم تحديث الملف الشخصي بنجاح!",
+    "Edit your contact": "تعديل جهات الاتصال الخاصة بك",
+    "About Me Updated successfully!": "تم تحديث عني بنجاح!",
+    "Invalid file type": "نوع ملف غير صالح. يرجى تحميل مستند PDF أو Word.",
+    "File size should not exceed 5MB": "حجم الملف يجب ألا يتجاوز 5 ميغابايت",
+    "Only image files are allowed": "يُسمح بملفات الصور فقط",
+    "No resume uploaded": "لم يتم تحميل سيرة ذاتية",
+    "Certificate": "الشهادات",
+    "No Certificate Received": "لم يتم استلام شهادة",
+    "Certificate of Completion": "شهادة الإكمال",
+    "Organization reviews": "مراجعات المنظمة",
+    "Resume Deleted successfully!": "تم حذف السيرة الذاتية بنجاح!",
+    "No reviews yet": "لا توجد مراجعات بعد",
+    "Deleting": "جارٍ الحذف",
+    "Languages": "اللغات",
+    "Languages Description": "إضافة لغاتك تسلط الضوء على خبراتك وتساعد القائمين بالتوظيف على مطابقتك مع الفرص المناسبة.",
+    "Edit Language": "تعديل اللغة",
+    "Language updated successfully!": "تم تحديث اللغة بنجاح!",
+    "Personal Details": "التفاصيل الشخصية",
+    "Email": "البريد الإلكتروني",
+    "Phone Number": "رقم الهاتف",
+    "Location": "الموقع",
+    "Contacts Description": "إضافة معلومات الاتصال الخاصة بك تجعل من السهل على القائمين بالتوظيف التواصل معك بسرعة.",
+    "LinkedIn": "لينكدإن",
+    "X": "X",
+    "Website": "الموقع الإلكتروني",
+    "Socials Description": "ربط ملفاتك الشخصية على وسائل التواصل الاجتماعي يسمح للقائمين بالتوظيف بمعرفة المزيد عن رحلتك المهنية والتواصل معك بسلاسة.",
+    "Profile Completion": "إكمال الملف الشخصي",
+    "Profile picture removed successfully": "تم إزالة صورة الملف الشخصي بنجاح."
+  },
+
+  "LandingPage": {
+    "heroSection": {
+      "moto": { "serve": "خدم،", "connect": "تواصل،", "grow": "انمو" },
+      "description": "خدمة المجتمعات بتفانٍ، ربط الشباب بالهدف، والنمو معًا من أجل مستقبل أفضل.",
+      "btn": {
+        "findOpportunities": "البحث عن فرص",
+        "postOpportunities": "نشر فرص"
+      }
+    },
+    "forOrganizations": {
+      "title": {
+        "for": "لـ",
+        "organizations": "المنظمات"
+      },
+      "text1": "في HOOPOE، نحن نفهم التحديات التي تواجهها المنظمات في نشر مهمتها وتوظيف أفراد ماهرين.",
+      "text2": "منصتنا توفر لك الأدوات لـ:",
+      "cards": {
+        "expandYourReach": {
+          "title": "توسيع نطاقك",
+          "description": "الوصول المباشر إلى مجتمع HOOPOE سريع النمو من الشباب الموهوبين."
+        },
+        "manageOpportunities": {
+          "title": "إدارة الفرص",
+          "description": "نشر وإدارة الفرص بسهولة، مع تتبع الطلبات بسهولة."
+        },
+        "donationChannel": {
+          "title": "قناة التبرع",
+          "description": "قناة بديلة للتبرعات للمنظمات غير الربحية."
+        }
+      }
+    },
+    "GetYourIdeal": {
+      "title": {
+        "main": "احصل على مرشحيك المثاليين",
+        "steps": "في 3 خطوات بسيطة"
+      },
+      "cards": {
+        "registerOrg": {
+          "title": "تسجيل منظمتك",
+          "description": "أنشئ ملفًا شخصيًا مفصلاً لتقديم منظمتك إلى الباحثين عن الفرص."
+        },
+        "postOpportunities": {
+          "title": "نشر الفرص",
+          "description": "استخدم كاتب الذكاء الاصطناعي المدمج لدينا لإنشاء منشورات جذابة."
+        },
+        "manageApplications": {
+          "title": "إدارة الطلبات",
+          "description": "راجع الطلبات بسهولة، اقبل أو ارفض المتقدمين وتابع تقدمهم."
+        }
+      }
+    },
+    "ForVolunteers": {
+      "words": {
+        "for": "لـ",
+        "opportunitySeekers": "الباحثين عن الفرص"
+      },
+      "paragraph": {
+        "text1": "اكتشف الفرص التي تتناسب مع مهاراتك، اهتماماتك، وتوافرك.",
+        "text2": "توفر HOOPOE لك الأدوات لـ:"
+      },
+      "cards": {
+        "discoverOpportunities": {
+          "title": "اكتشف الفرص",
+          "description": "الوصول إلى العديد من المنظمات والفرص المتنوعة."
+        },
+        "aiAssistance": {
+          "title": "مساعدة الذكاء الاصطناعي",
+          "description": "مطابقة ذكية للفرص باستخدام الذكاء الاصطناعي."
+        },
+        "trackApplications": {
+          "title": "تتبع الطلبات",
+          "description": "تتبع الطلبات والردود بسهولة."
+        }
+      }
+    },
+    "DownloadMobile": {
+      "title": "تحميل التطبيق",
+      "description": "الفرص في متناول يديك."
+    },
+    "BrowseOpportunity": {
+      "title": {
+        "text1": "تصفح الفرص",
+        "text2": "حسب الفئة"
+      },
+      "description": "اكتشف الفرص التي تتناسب مع مهاراتك، اهتماماتك، وتوافرك."
+    },
+    "ForThrive": {
+      "title": {
+        "text1": "نحن نسعى",
+        "text2": "لبناء مجتمع عالمي"
+      },
+      "description": "تسعى HOOPOE لبناء مجتمع عالمي حيث تكون الفرص متاحة، شاملة، ومؤثرة للشباب."
+    },
+    "RecentOpportunity": {
+      "title": "الفرص الحديثة",
+      "description": "اكتشف الفرص التي تتناسب مع مهاراتك، اهتماماتك، وتوافرك.",
+      "seeAll": "رؤية الكل"
+    },
+    "FactsAndFigures": {
+      "community": "المجتمع",
+      "impact": "التأثير",
+      "description": "تمكين صانعي التغيير من خلال خلق مجتمع نابض بالحياة حيث يكون كل تفاعل ذا معنى ويساهم في مجتمع أكثر شمولية.",
+      "facts": {
+        "orgRegistered": "المنظمات المسجلة",
+        "opportunitySeekers": "الباحثون عن الفرص",
+        "opportunitiesConnected": "الفرص المرتبطة"
+      }
+    },
+    "OurPartners": {
+      "title": {
+        "our": "شركاؤنا",
+        "partners": "الشركاء"
+      },
+      "description": "نحن فخورون بالشراكة مع المنظمات التي تدفع التغيير المؤثر."
+    }
+  }
+}

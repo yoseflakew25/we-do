@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "org.a2sv.akil_mobile",
+      "sha256_cert_fingerprints": [
+        "09:a7:33:ac:d2:fd:c7:66:c1:a5:83:50:c4:3c:0b:49:4d:bd:0c:be:de:7d:4f:93:39:a1:c0:0c:64:d9:6a:2c",
+        "76:28:81:01:E7:9F:91:23:50:64:2A:19:6D:DB:3B:18:BF:3F:78:08:A5:C8:A8:00:A1:FC:D3:68:9D:0C:D0:90"
+      ]
+    }
+  }
+]

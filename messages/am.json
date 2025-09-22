@@ -1,0 +1,1170 @@
+{
+  "Index": {},
+  "AkilMotto": {
+    "title": "ማገልገል ፣ መግባባት ፣ ማደግ"
+  },
+
+  "LoginPage": {
+    "title": "እንኳን ደህና መጡ!",
+    "welcome": "እንኳን ደህና መጡ!",
+    "continueWithGoogle": "በጉግል ይግቡ",
+    "loginWithEmail": "ወይም በኢሜል ይግቡ",
+    "username": "ስም",
+    "emailAddressLabel": "የ ኢሜል አድራሻ",
+    "emailAddressPlaceholder": "የኢሜይል አድራሻዎን ያስገቡ",
+    "passwordAreaPlaceholder": "የይለፍ ቃልዎን ያስገቡ",
+    "passwordAreaLabel": "የይለፍ ቃል",
+    "forgotPassword": "የይለፍ ቃል ረሱ?",
+    "submit": "ግባ",
+    "noAccount": "አካውንት የለዎትም?",
+    "signup": "ይመዝገቡ"
+  },
+  "ForgotPasswordPage": {
+    "title": "የይለፍ ቃል ረስተዋል?",
+    "message": "አይጨነቁ፣ ይከሰታል። ኢሜልዎን ይላኩልን",
+    "emailAddressLabel": "ኢሜል አድራሻ",
+    "emailAddressPlaceholder": "ኢሜል አድራሻዎን ያስገቡ",
+    "continue": "ቀጥል",
+    "resetPassword": {
+      "title": "የይለፍ ቃልህን ዳግም አስጀምር",
+      "verificationMessage": "የማረጋገጫ ኮድ ወዳቀረቡት ኢሜል አድራሻ ልከናል።። የይለፍ ቃልዎን ለመቀየር፣ እባክዎ ኮዱን ከአዲሱ የይለፍ ቃልዎ ጋር እዚህ ያስገቡ።",
+      "otpFieldLabel": "ኮዱን ያስገቡ",
+      "newPasswordFieldLabel": "አዲስ የይለፍ ቃል",
+      "newPasswordFieldPlaceholder": "አዲስ የይለፍ ቃል ያስገቡ",
+      "confirmPasswordFieldLabel": "የይለፍ ቃል ያረጋግጡ",
+      "confirmPasswordFieldPlaceholder": "የይለፍ ቃሉን ደግመዉ ያስገቡ",
+      "continue": "ቀጥል"
+    }
+  },
+
+  "SignupPage": {
+    "title": "ይመዝገቡ!",
+    "pleaseUseTelegramOrMobile": "በጎ ፈቃደኛ ከሆኑ እባክዎ Masar Telegram Bot ወይም የሞባይል መተግበሪያችንን በመጠቀም ይመዝገቡ",
+    "toMasarBot": "ወደ አኪል ቴሌግራም ቦት ለመሄድ",
+    "organization": "ድርጅት",
+    "volunteer": "በጎ ፈቃደኛ",
+    "continueWithGoogle": "በጉግል ይመዝገቡ",
+    "signupWithEmail": "ወይም በኢሜል ይመዝገቡ",
+    "fullName": "ሙሉ ስም",
+    "nameAreaPlaceholder": "ሙሉ ስምዎን ያስገቡ",
+
+    "emailAddressLabel": "የ ኢሜል አድራሻ",
+    "emailAddressPlaceholder": "የኢሜይል አድራሻዎን ያስገቡ",
+
+    "passwordAreaLabel": "የይለፍ ቃል",
+    "passwordAreaPlaceholder": "የይለፍ ቃልዎን ያስገቡ",
+
+    "confirmPassword": "የይለፍ ቃል ማረጋገጥ",
+    "confirmPasswordPlaceholder": "የይለፍ ቃሉን እንደገና ያስገቡ",
+
+    "alreadyHaveAccount": "ቀድሞውኑ ተመዝግበዋል?",
+    "login": "ይግቡ",
+    "continue": "ቀጥል",
+    "terms": {
+      "privacyPolicy": "የግላዊነት መመሪያ",
+      "termsOfService": "የአገልግሎት ውል",
+      "acceptanceMessage": "'ቀጥል' የሚለውን በመጫን <ts>የአገልግሎት ውል</ts> እና <pp>የግላዊነት መመሪያን</pp> አንብበው እንደተቀበሉ ይገነዘባሉ"
+    }
+  },
+
+  "RoleSelectionPage": {
+    "title": "እርስዎ የድርጅት ተወካይ ነዎት ወይስ በጎ ፈቃደኛ ?",
+    "pleaseUseTelegramOrMobile": "በጎ ፈቃደኛ ከሆኑ እባክዎ Masar Telegram Bot ወይም የሞባይል መተግበሪያችንን በመጠቀም ይመዝገቡ",
+    "volunteer": {
+      "welcome": "እንኳን በደህና መጡ !",
+      "title": "ይህ ድህረ ገጽ በአሁኑ ጊዜ ለድርጅት ተወካዮች ብቻ ነው",
+      "message": "በጎ ፈቃደኛ ከሆኑ እባክዎ Masar Telegram Bot ወይም የሞባይል መተግበሪያችንን በመጠቀም ይመዝገቡ",
+      "buttonText": {
+        "toMasarBot": "ወደ አኪል ቴሌግራም ቦት ለመሄድ",
+        "aboutMasar": "ስለ አኪል"
+      }
+    }
+  },
+
+  "VolunteerHomePage": {
+    "welcome": "እንኳን በደህና መጡ፣ {name} !",
+    "message": "ይህ ድህረ ገጽ በአሁኑ ጊዜ ለድርጅት ተወካዮች ብቻ ነው። እንደ እርስዎ ላሉ በጎ ፈቃደኞች ተደራሽ እንዲሆን ድረ-ገጻችንን ለማሻሻል እየሰራን ነው። እስከዚያው ድረስ የበጎ ፈቃደኝነት እድሎችን ለማግኘት የሞባይል መተግበሪያችንን ወይም የቴሌግራም ቦታችንን እንዲጠቀሙ እንመክራለን",
+    "buttonText": {
+      "toMasarBot": "ወደ አኪል ቴሌግራም ቦት ለመሄድ",
+      "aboutMasar": "ስለ አኪል"
+    }
+  },
+
+  "AboutUsPage": {
+    "aboutMasar": {
+      "title": "አኪል",
+      "description": "አኪል ብዙ መንግሥታዊ ያልሆኑ ድርጅቶች ለተለያዩ ተነሳሽነታቸው ብቁ በጎ ፈቃደኞችን ለማግኘት ሲሞክሩ የሚያጋጥሟቸውን ችግሮች በተሳካ ሁኔታ የሚፈታ የበጎ ፈቃደኝነት አስተዳደር ሥርዓትን የሚያቀላጥፍ የድረ-ገጽ መድረክ ነው። አኪል የተለያዩ የማህበራዊ ሚዲያ የድረ-ፆችን እና የቃላት ግንኙነትን የመዳሰስ አስፈላጊነትን ያስወግዳል። የእኛ የድረ-ገጽ መድረክ የበጎ ፈቃድ ምልመላ ሂደትን በማቀላጠፍ እና በማመቻቸት አድካሚ እና ጊዜ የሚወስዱ ሂደቶችን ጫና ለመቀነስ ይሰራል።"
+    },
+    "mission": {
+      "title": "ተልዕኳችን",
+      "description": "በአኪል ያለን ራዕይ መንግስታዊ ያልሆኑ ድርጅቶች ከሰለጠኑ እና ስሜታዊ ከሆኑ በጎ ፈቃደኞች ጋር በቀላሉ የሚገናኙበት አለም መፍጠር ሲሆን ይህም አላማቸውን በብቃት እና በብቃት ማሳካት ነው። ለሁሉም መጠን ላሉ ድርጅቶች የበጎ ፈቃድ ምልመላን የሚያመቻች እና የሚያመቻች የመፍትሄ መንገድ ለመሆን ዓላማችን ነው። በመንግሥታዊ ያልሆኑ ድርጅቶች እና በጎ ፈቃደኞች መካከል ትርጉም ያለው ሽርክና በማመቻቸት በዓለም ዙሪያ ባሉ ማህበረሰቦች ውስጥ አዎንታዊ ለውጥ እና መሻሻል ላይ አስተዋፅዖ እናደርጋለን ብለን ተስፋ እናደርጋለን።"
+    },
+
+    "vision": {
+      "title": "ራዕያችን",
+      "description": "በአኪል ያለን ራዕይ መንግስታዊ ያልሆኑ ድርጅቶች ከሰለጠኑ እና ስሜታዊ ከሆኑ በጎ ፈቃደኞች ጋር በቀላሉ የሚገናኙበት አለም መፍጠር ሲሆን ይህም አላማቸውን በብቃት እና በብቃት ማሳካት ነው። ለሁሉም መጠን ላሉ ድርጅቶች የበጎ ፈቃድ ምልመላን የሚያመቻች እና የሚያመቻች የመፍትሄ መንገድ ለመሆን ዓላማችን ነው። በመንግሥታዊ ያልሆኑ ድርጅቶች እና በጎ ፈቃደኞች መካከል ትርጉም ያለው ሽርክና በማመቻቸት በዓለም ዙሪያ ባሉ ማህበረሰቦች ውስጥ አዎንታዊ ለውጥ እና መሻሻል ላይ አስተዋፅዖ እናደርጋለን ብለን ተስፋ እናደርጋለን።"
+    },
+
+    "aboutA2SV": {
+      "title": "እኛ ማን ነን",
+      "description": "አኪል በበጎ ፈቃድ ምልመላ ሂደትን በማቀላጠፍ እና በማመቻቸት አድካሚ እና ጊዜ የሚወስዱ ሂደቶችን ጫና ለመቀነስ ይሰራል። ለ መንግስታዊ ያልሆኑ ድርጅቶች፣ አኪል ተነሳሽነታቸውን ለማሳየት እና ታታሪ ከበጎ ፈቃደኞች ጋር ለመገናኘት የተማከለ መድረክ ይሰጣል። ለበጎ ፈቃደኞች ደሞ ትርጉም ያላቸው እድሎችን ለማግኘት እና በማህበረሰባቸው ውስጥ ተጨባጭ ተፅእኖ ለመፍጠር ለተጠቃሚ ምቹ የሆነ በይነገጽ ይሰጣል።"
+    },
+
+    "contactUsForm": {
+      "title": "ያነጋግሩን",
+      "nameAreaLabel": "ስም",
+      "emailAddressLabel": "ኢሜል",
+      "messageAreaLabel": "መልእክት",
+      "submitButtonText": "ላክ",
+      "errorMessages": {
+        "nameIsRequired": "ስም ያስፈልጋል",
+        "emailIsRequired": "ኢሜል ያስፈልጋል",
+        "message": "እባክዎ መልእክት ያስቀምጡ"
+      }
+    },
+    "loginAsAnOrganization": "ወደ ድርጅቱ አካውንት ለመግባት",
+    "copyright": "መብቱ በህግ የተጠበቀ ነው."
+  },
+
+  "OrganizationSignupPage": {
+    "organizationDetailsSection": {
+      "basicInformation": {
+        "title": "መሰረታዊ መረጃ",
+        "description": "ይህ በማንኛውም ጊዜ ሊያሻሽሉት የሚችሉት የድርጅት መረጃ ነው።"
+      },
+      "organizationLogo": {
+        "title": "የድርጅት አርማ",
+        "description": "ይህ ምስል በይፋ እንደ ድርጅት አርማ ይታያል።",
+        "uploadImageAreaText": "<upload>ምስሉን ለመስቀል እዚህ ይጫኑ</upload> ወይም ምስሉን ወደዚህ ጎትተው ጣሉት <imageForm>SVG፣ PNG፣ JPG ወይም GIF (ቢበዛ 400 x 400 ፒክስል) </imageForm> "
+      },
+
+      "organizationDetails": {
+        "title": "የድርጅት ዝርዝር መረጃ",
+        "description": "የድርጅት ዝርዝሮችን በመሙላት የድርጅትዎን ዋና መረጃ በፍጥነት ለተጠቃሚዎች ያስተዋውቁ።",
+        "inputAreaLabels": {
+          "organizationName": "የድርጅት ስም",
+          "shorthandName": "አጭር ስም",
+          "oldName": "የድሮ ስም",
+          "location": "የድርጅቱ መገኛ ቦታ",
+          "operationalReach": "የአሠራር ዓይነት",
+          "organizationType": "የድርጅት ዓይነት",
+          "yearFounded": "የተመሰረተበት አመት",
+          "areaOfCause": "የስራ መስክ ወይም አካባቢ",
+          "googleMaps": "የድርጅቱ መገኛ ቦታ በGoogle ካርታ",
+          "locationDetails": " የድርጅቱ መገኛ ቦታ በGoogle ካርታ",
+          "locationDetailsDescription": "የድርጅቱ መገኛ ትክክለኛነት ለማረጋገጥ እባክዎን በGoogle ካርታ ትክክለኛ ቦታዎን ያስገቡ"
+        }
+      },
+
+      "contactInformations": {
+        "title": "የመገናኛ ዘዴዎች መረጃ",
+        "description": "የድርጅትዎን ስልክ ቁጥር እና ኢሜል ያስገቡ። ማህበረሰብዎን ለማስፋት ይረዳል።",
+        "inputAreaLabels": {
+          "primaryPhoneNumber": "ዋና ስልክ ቁጥር",
+          "secondaryPhoneNumber": "ሁለተኛ ስልክ ቁጥር",
+          "emailAddress": "የ ኢሜል አድራሻ"
+        }
+      }
+    },
+
+    "aboutOrganizationSection": {
+      "Invalid url": "የማይሰራ አድራሻ",
+      "aboutOrganization": {
+        "title": "ስለ ድርጅቱ",
+        "description": "የድርጅትዎን መነሻ እንዴት እንደሆነ፣ የተመሠረተበትን እሴቶች እና ሥራዎን በትልቅ መጠን የሚገነባበትን ዋና አካላት በአጭር እና በግልጽ መግለጫ ያቅርቡ።"
+      },
+      "mission": {
+        "title": "ተልዕኮ",
+        "description": "የድርጅትዎን አስፈላጊ ተልዕኮ ይግለጹ - ዋና እንቅስቃሴ ምንድን ነው።"
+      },
+
+      "vision": {
+        "title": "ራዕይ",
+        "description": "በረጅም ጊዜ ውስጥ ምን አይነት ለውጥ ወይም ተፅእኖ ለማምጣት አስበዋል "
+      },
+
+      "futurePlan": {
+        "title": "የወደፊት እቅድ",
+        "description": "ድርጅትዎ ራዕዩን ወደ ማሳካት መቅረብ እንዲችል ሊተገብራቸው ያቀዳቸውን የወደፊት ግቦችን፣ ፕሮጀክቶችን ወይም ስልቶችን ዘርዝር።"
+      },
+      "Business Licence": {
+        "title": "የምዝገባ ማረጋገጫ",
+        "description": "የድርጅትዎን የምዝገባ ማረጋገጫ ወይም መንግሥት ከሰጠ ማንነት የሚያረጋግጥ ማንኛውንም ሰነድ አስቀምጡ።"
+      },
+
+      "organizationSocials": {
+        "title": "የድርጅት ማህበራዊ ሚዲያዎች",
+        "description": "የድርጅቱን ማህበራዊ ሚዲያ ያስገቡ። ማህበረሰብዎን ለማስፋት ይረዳል።"
+      },
+
+      "inputAreaLabels": {
+        "description": "ገለፃ",
+        "mission": "ተልዕኮ",
+        "vision": "ራዕይ",
+        "futurePlan": "የወደፊት እቅድ",
+        "facebook": "ፌስቡክ",
+        "website": "ድህረገፅ",
+        "linkedIn": "ሊንክዲን",
+        "telegram": "ቴሌግራም",
+        "whatsapp": "ዋትሳፕ",
+        "instagram": "ኢንስታግራም"
+      }
+    },
+
+    "reviewSection": {
+      "notProvided": "መረጃዉ አልቀረበም",
+      "labelTitles": {
+        "facebook": "ፌስቡክ",
+        "website": "ድህረገፅ",
+        "linkedIn": "ሊንክዲን",
+        "telegram": "ቴሌግራም",
+        "whatsapp": "ዋትሳፕ",
+        "instagram": "ኢንስታግራም",
+        "primaryPhoneNumber": "ዋና ስልክ ቁጥር",
+        "secondaryPhoneNumber": "ሁለተኛ ስልክ ቁጥር",
+        "email": "ኢሜል",
+        "googleMaps": "Google Maps",
+        "organizationName": "የድርጅት ስም",
+        "organizationType": "የድርጅት ዓይነት",
+        "shorthandName": "አጭር ስም",
+        "oldName": "የድሮ ስም",
+        "location": "የድርጅቱ መገኛ ቦታ",
+        "ngoType": "የአሠራር ወሰን",
+        "Organization Type": "የድርጅት ዓይነት",
+        "yearFounded": "የምስረታ ዓመት",
+        "areaOfCause": "የመንስኤ አካባቢ",
+        "contact": "የመገናኛ ዘዴዎች",
+        "socialMedia": "ማህበራዊ ሚዲያዎች",
+        "about": "ስለ ድርጅቱ",
+        "vision": "ራዕይ",
+        "mission": "ተልዕኮ",
+        "futurePlan": "የወደፊት እቅድ",
+        "certificateOfRegistration": "የምዝገባ ማረጋገጫ"
+      }
+    },
+    "successPopup": {
+      "title": "አኪል ላይ ስለተመዘገቡ እናመሰግናለን",
+      "subTitle": "እባክዎን ጥያቄዎን እስክናረጋግጥ ድረስ ይጠብቁ። ድርጅትዎን ካረጋገጥን በኋላ የኢሜይል ማሳወቂያ እንልክልዎታለን።",
+      "buttonText": "እሺ"
+    },
+
+    "buttonText": {
+      "next": "ቀጣይ",
+      "back": "ወደ ኋላ",
+      "finish": "መዝግብ",
+      "logout": "ውጣ"
+    }
+  },
+
+  "editOrganizationProfilePage": {
+    "title": "የድርጅት መረጃ ማስተካከያ",
+    "basicInformation": {
+      "title": "መሰረታዊ መረጃ",
+      "description": "ይህ በማንኛውም ጊዜ ሊያሻሽሉት የሚችሉት የድርጅት መረጃ ነው።"
+    },
+    "organizationLogo": {
+      "title": "የድርጅት አርማ",
+      "description": "ይህ ምስል በይፋ እንደ ድርጅት አርማ ይታያል።"
+    },
+    "certificate": {
+      "title": "የምዝገባ ማረጋገጫ",
+      "description": "የድርጅትዎን የምዝገባ ማረጋገጫ ወይም መንግሥት ከሰጠ ማንነት የሚያረጋግጥ ማንኛውንም ሰነድ አስቀምጡ።"
+    },
+    "buttonText": "መዝግብ",
+    "successPopup": {
+      "title": "መለያዉ በተሳካ ሁነታ ተቀይሯል",
+      "subTitle": "መለያዎን ለማየት እሺን ይጫኑ",
+      "buttonText": "እሺ"
+    }
+  },
+
+  "PostOpportunityPage": {
+    "pageTitle": "የሥራ ዕድል ለመለጠፍ",
+    "detailsSection": {
+      "details": {
+        "title": "ዝርዝሮች",
+        "description": "ለሥራ ዕድል አስፈላጊ የሆኑትን የሥራ ዕድል, ኃላፊነቶች, ምድቦች እና ሰነዶች መግለጫ ያክሉ"
+      },
+      "opportunityTitle": {
+        "title": "የስራ ዕድል ርዕስ",
+        "description": "የሥራው ዕድል ርዕስ አንድ የሥራ ቦታን መግለጽ አለበት",
+        "inputAreaPlaceholder": "ለምሳሌ. የአማርኛ አስተማሪ"
+      },
+
+      "opportunityDescription": {
+        "title": "ገለጻ",
+        "description": "የሥራ ዕድሉ መግለጫ አንድ መደብን መግለጽ አለበት",
+        "inputAreaPlaceholder": "ለምሳሌ. ቡድናችንን እንደ በጎ ፍቃደኛ አማርኛ አስጠኚ ተቀላቀሉ እና ግለሰቦች የአማርኛ ቋንቋ ችሎታቸውን እንዲያሻሽሉ እርዷቸው። እንደ ሞግዚትነት ተማሪዎች የማንበብ፣ የመጻፍ፣ የመናገር እና የማዳመጥ ችሎታቸውን እንዲያዳብሩ ትረዳቸዋለህ። ይህ በአንድ ሰው ህይወት ላይ በጎ ተጽዕኖ ለማሳደር እና ለትምህርታዊ ጉዟቸው አስተዋፅኦ ለማድረግ ጥሩ አጋጣሚ ነው።"
+      },
+
+      "requirements": {
+        "title": "መስፈርቶች",
+        "description": "የስራ መደቡን መስፈርቶች ይግለጹ",
+        "inputAreaPlaceholder": "ለምሳሌ. የአማርኛ ቋንቋ ብቃት"
+      },
+
+      "responsibilities": {
+        "title": "ኃላፊነቶች",
+        "description": "የሥራ መደቡ ዋና ዋና ኃላፊነቶችን ይግለጹ",
+        "inputAreaPlaceholder": "ለምሳሌ. የሰዋስው፣ የቃላት አነጋገር፣ የቃላት አነባበብ እና የንግግር ችሎታዎችን ማስተማር"
+      },
+
+      "idealCandidate": {
+        "title": "ምርጥ እጩ",
+        "description": "ለቦታው ተስማሚ እጩ መገለጫ",
+        "inputAreaPlaceholder": "ለምሳሌ. በአማርኛ ቋንቋ ማስተማር ወይም ተዛማጅ መስክ ውስጥ የሰራ"
+      },
+
+      "opportunityVisibility": {
+        "title": "ዕድል ታይነት",
+        "description": "የእይታ እድልን ይምረጡ፣ 'የግል' ወይም 'የህዝብ'ን ይምረጡ።"
+      },
+
+      "privateOpportunity": {
+        "title": "የእጩ ኢሜይሎችን ያክሉ",
+        "description": "ይህንን የግል እድል ማየት የሚችሉ የተጠቃሚዎችን ኢሜይል አድራሻ ይግለጹ። በነጠላ ሰረዞች ይለያቸዋል።",
+        "inputAreaPlaceholder": "e.g. jane@example.com, john@example.com"
+      },
+
+      "categories": {
+        "title": " ምድቦች",
+        "description": "ከ አንድ በላይ የስራ እድል ምድቦችን መምረጥ ወይም ማስገባት  ይችላሉ",
+        "label": "የሥራ ዕድል ምድቦችን ይምረጡ ወይም ያስገቡ"
+      }
+    },
+
+    "opportunityInformationSection": {
+      "or": "ወይም",
+
+      "basicInformation": {
+        "title": "የስራዉ መሰረታዊ መረጃ",
+        "description": "ይህ መረጃ በይፋ ይታያል እና በማንኛውም ጊዜ ማሻሻል ይችላሉ።"
+      },
+      "engagementType": {
+        "title": "የዕድል ዓይነት",
+        "description": "የዕድል ዓይነት ይግለጹ"
+      },
+
+      "country": {
+        "title": "ሀገር",
+        "description": "የስራውን ሀገር ይምረጡ"
+      },
+
+      "city": {
+        "title": "ቀይር",
+        "description": "የስራውን ቀይር ይምረጡ"
+      },
+
+      "opType": {
+        "title": "የስራ ቦታ",
+        "description": "የሥራውን ቦታ ይግለጹ"
+      },
+
+      "opportunityType": {
+        "title": "የሥራ ዕድል ዓይነት",
+        "description": "የሥራውን ዓይነት ይግለጹ"
+      },
+      "isPaid": {
+        "title": "የሚከፈል",
+        "description": "የሚከፈልበት እድል ነው?"
+      },
+
+      "startEndDate": {
+        "title": "መጀመሪያ እና መጨረሻ ቀን",
+        "description": "የመጀመሪያ እና የመጨረሻ ቀን ይግለጹ"
+      },
+      "startDate": {
+        "title": "የሥራ መጀመሪያ ቀን",
+        "description": "ሥራ የሚጀምርበትን ቀን ይግለጹ"
+      },
+
+      "EndDate": {
+        "title": "የሥራ መጨረሻ ቀን",
+        "description": "የሥራ የመጨረሻ ቀን ይግለጹ"
+      },
+      "salary": {
+        "title": "ደሞዝ",
+        "description": "ደመወዙን በገንዘቡ ይግለጹ",
+        "inputAreaPlaceholder": "1000"
+      },
+
+      "deadline": {
+        "title": "የማመልከቻ ቀነ-ገደብ",
+        "description": "ማመልከቻ ለማስገባት የመጨረሻውን ቀን ይግለጹ",
+        "label": "ቀነ-ገደብ",
+        "placeHolder": "ቀነ-ገደብ ያስቀምጡ"
+      },
+      "rolling": {
+        "title": "ቋሚ ቀነ-ገደብ የሌለው",
+        "description": "ይህ የተወሰነ የቀነ ገደብ ለሌላቸው እድሎች ነው"
+      },
+      "location": {
+        "title": "ሥፍራዎች",
+        "description": "ከ አንድ በላይ ቦታዎችን መምረጥ ይችላሉ"
+      },
+
+      "locationOnMap": {
+        "title": "አድራሻ ካርታ ላይ",
+        "description": "በካርታው ላይ ትክክለኛ አድራሻዎን ይጠቁሙ"
+      },
+
+      "requiredSkills": {
+        "title": "የሚያስፈልጉ ክህሎቶች",
+        "description": "አስፈላጊ ክህሎቶችን ያክሉ",
+        "inputAreaLabel": "ችሎታ ለማከል"
+      },
+
+      "perksAndBenefits": {
+        "title": "ጥቅማ ጥቅሞች",
+        "description": "እባክዎ ድርጅትዎ የሚያቀርበውን ጥቅማጥቅሞች ይዘርዝሩ።",
+        "inputAreaLabel": "ጥቅማጥቅሞችን ለመጨመር"
+      },
+
+      "onboardingSession": {
+        "title": "መቼ እና የት",
+        "description": "ሰራ የማስጀመሪያ ሂደቶች",
+        "inputAreaPlaceholder": "ለምሳሌ. ዝግጅቱ ጃንዋሪ 18፣ 2023 በAAU አዳራሽ ውስጥ ይካሄዳል"
+      }
+    },
+
+    "reviewSection": {
+      "notProvided": "መረጃዉ አልቀረበም",
+      "title": "Review",
+      "isPaid": "የሚከፈልበት እድል",
+      "Yes": "አዎ",
+      "No": "አይደለም",
+      "postedOn": "የተለጠፈበት ቀን",
+      "deadline": "የሚያበቃበት ቀን",
+      "opportunityType": "የሥራ ዕድል ዓይነት",
+      "description": "ገለጻ",
+      "requirements": "መስፈርቶች",
+      "responsibilities": "ኃላፊነቶች",
+      "idealCandidate": "ምርጥ እጩ",
+      "whenAndWhere": "መቼ እና የት",
+      "locationOnGoogleMap": "አድራሻ ካርታ ላይ",
+      "timeline": {
+        "title": "የጊዜ ሰንጠረዥ",
+        "startDate": "የሚጀምርበት ቀን",
+        "endDate": "ማብቂያ ቀን"
+      },
+      "locations": "ሥፍራዎች",
+      "categories": "ምድቦች",
+      "city": "City",
+      "country": "Country",
+      "requiredSkills": "የሚያስፈልጉ ክህሎቶች",
+      "perksAndBenefits": "ጥቅማ ጥቅሞች",
+      "successPopupModal": {
+        "title": "የስራ እድል በተሳካ ሁኔታ ተፈጥሯል !",
+        "subTitle": "የስራ እድል ዝርዝር ገጹን ለማየት እሺን ይጫኑ",
+        "buttonText": "እሺ"
+      }
+    },
+
+    "saveButton": "ለውጦችን መዝግብ",
+
+    "successPopup": {
+      "title": "የሥራ ዕድል በተሳካ ሁኔታ ዘምኗል",
+      "subTitle": "የስራ እድሉን ለማየት እሺን ይጫኑ",
+      "buttonText": "እሺ"
+    }
+  },
+
+  "RepostOpportunityPage": {
+    "postedOn": "የተለጠፈበት ቀን",
+    "pageTitle": "የሥራ ዕድሉን እንደ አዲስ ለመለጠፍ",
+    "opportunityTitle": "የስራ ዕድል ርዕስ",
+    "startEndDate": {
+      "title": "መጀመሪያ እና መጨረሻ ቀን",
+      "description": "የመጀመሪያ እና የመጨረሻ ቀን ይግለጹ",
+      "placeHolder": "የቀን ክልል ይምረጡ"
+    },
+
+    "deadline": {
+      "title": "የማመልከቻ ቀነ-ገደብ",
+      "description": "ማመልከቻ ለማስገባት የመጨረሻውን ቀን ይግለጹ",
+      "placeHolder": "ቀነ-ገደብ ያስቀምጡ"
+    },
+    "or": "ወይም",
+
+    "rolling": {
+      "title": "ቋሚ ቀነ-ገደብ የሌለው",
+      "description": "ይህ የተወሰነ የቀነ ገደብ ለሌላቸው እድሎች ነው"
+    },
+    "buttonText": "ለጥፍ"
+  },
+
+  "editOpportunityPage": {},
+
+  "ThreeStageStepper": {
+    "steps": {
+      "step1": "ደረጃ 1/3",
+      "step2": "ደረጃ 2/3",
+      "step3": "ደረጃ 3/3"
+    },
+
+    "postOpportuntySteps": {
+      "step1": "ደረጃ 1/4",
+      "step2": "ደረጃ 2/4",
+      "step3": "ደረጃ 3/4",
+      "step4": "ደረጃ 4/4"
+    },
+
+    "organizationSignup": {
+      "organizationDetails": "የድርጅት መገለጫ",
+      "aboutOrganization": "የድርጅቱ ዝርዝሮች",
+      "review": "ግምገማ"
+    },
+
+    "postOpportunity": {
+      "opportunityDescription": "የሥራ ዕድል ገለጻ",
+      "opportunityInformation": "የሥራ ዕድል መረጃ",
+      "additionalQuestions": "ተጨማሪ ጥያቄዎች",
+      "review": "ግምገማ"
+    }
+  },
+
+  "orgOpportunities": {
+    "pageTitle": "የሥራ ዕድሎች ዝርዝር",
+    "subTitle": "በእርስዎ የተለጠፉ የስራ እድሎች ዝርዝር",
+    "headerButtonText": "የስራ እድል ለመለጠፍ",
+    "tableHeaders": {
+      "role": "ሚና",
+      "status": "የማመልከቻ ሁኔታ",
+      "datePosted": "የተለጠፈበት ቀን",
+      "deadline": "ቀነ ገደብ",
+      "opportunityType": "የሥራ ዕድል ዓይነት",
+      "applicants": "አመልካቾች",
+      "title": "የሥራ ዕድሎች",
+      "subTitle": "በድርጅትዎ ውስጥ ስላሉ የሥራ እድሎች መረጃ"
+    }
+  },
+
+  "orgProfile": {
+    "title": "የድርጅት መገለጫ",
+    "headerButtonText": "የድርጅት ዝርዝሮችን ለማስተካከል"
+  },
+
+  "SideBarOptions": {
+    "opportunities": "የስራ እድሎች",
+    "organizationProfile": "የድርጅት መለያ",
+    "pricing": "ዋጋ እና ጥቅሎች",
+    "settings": "ማስተካከያ",
+    "helpCenter": "ድጋፍ ማዕከል",
+    "logout": "መዉጫ",
+    "representatives": "ተወካዮች",
+    "changeEmail": "ኢሜል ለመቀየር",
+    "editProfile": "ፕሮፋይልን ለማርትዕ",
+    "volunteerPool": "በጎ ፈቃደኞችን ያግኙ",
+    "otherOrganizations": "ሌሎች ድርጅቶች"
+  },
+
+  "EmptyDashboard": {
+    "welcome": "እንኳን ደህና መጡ፣ {name} !",
+    "info": "ለጊዜዉ ለድርጅትዎ ምንም የስራ እድል አለጠፉም። አዲስ የስራ እድል በማከል ይጀምሩ።",
+    "postButtonText": "የስራ እድል ለመለጠፍ",
+    "viewOrgProfileButtonText": "የመገለጫ ገጽን ለማየት",
+    "contactUsButtonText": "እኛን ለማነጋገር",
+    "editOrgProfileButtonText": "የድርጅት መረጃ ማስተካከያ",
+    "declinedAccount": {
+      "title": "የድርጅቱ መለያ ተቀባይነት አላገኘም !",
+      "message": "እናዝናለን፣ ነገር ግን መለያህ ውድቅ ተደርጓል። እባክዎ መገለጫዎን ያርትዑ እና እንደገና ይሞክሩ ወይም ለተጨማሪ መረጃ ወይም እርዳታ ያግኙን።"
+    },
+    "disabledAccount": {
+      "title": "መለያ ታግዷል !",
+      "message": "እናዝናለን፣ ነገር ግን መለያህ ታግዷል። ለተጨማሪ መረጃ ወይም እርዳታ እባክዎን ያነጋግሩን።"
+    },
+
+    "notVerifiedAccount": {
+      "title": "መለያ አልተረጋገጠም !",
+      "message": "መለያህ እስካሁን አልተረጋገጠም። በአሁኑ ጊዜ መለያህን እየገመገምን ነው እና የማረጋገጫ ሂደቱን በተቻለ ፍጥነት እናጠናቅቃለን። ስለትግስትዎ አናመሰግናልን."
+    },
+
+    "opportunityListing": {
+      "title": "የሥራ ዕድል ዝርዝር",
+      "subTitle": "የስራ እድሎች ዝርዝር ሁኔታ እዚህ ጋር ይቀመጣል"
+    }
+  },
+
+  "ViewOpportunityInfoPage": {
+    "topSection": {
+      "editButtonText": "የስራ እድል መረጃ ኣርትዕ",
+      "postedOn": "የተለጠፈበት ቀን",
+      "deadline": "የሚያበቃበት ቀን",
+      "opportunityType": "የሥራ ዕድል ዓይነት"
+    },
+    "tabs": {
+      "opportunityDetails": "የሥራ ዕድሉ ዝርዝሮች",
+      "applicants": "አመልካቾች",
+      "certificate": "የምስክር ወረቀት"
+    },
+    "openOpportunity": {
+      "buttonText": "ክፈት",
+      "confirmationPopup": {
+        "title": "እርግጠኛ ነህ",
+        "subTitle": "ይህ የስራ ማስታወቅያ እንደገና ከተከፈተ በጎ ፈቃደኞች ማመልከት ይችላሉ።"
+      }
+    },
+    "closeOpportunity": {
+      "buttonText": "ዝጋዉ",
+      "confirmationPopup": {
+        "title": "እርግጠኛ ነህ",
+        "subTitle": "ይህ የስራ ማስታወቅያ ከተዘጋ በጎ ፈቃደኞች ማመልከት አይችሉም።"
+      }
+    },
+
+    "repostOpportunity": {
+      "buttonText": "እንደገና ለጥፍ",
+      "confirmationPopup": {
+        "title": "እርግጠኛ ነህ",
+        "subTitle": "የስራ ማስታወቅያ እንደገና ሲለጠፈ እንደ አዲስ ከላይ ይቀመጣል።"
+      }
+    },
+
+    "statusChangePopup": {
+      "deadline": "ቀነ ገደብ",
+      "applicants": "አመልካቾች",
+      "inReview": "በግምገማ ላይ",
+      "accepted": "ተቀባይነት ያገኙ",
+      "declined": "ተቀባይነት ያላገኙ",
+      "cancelButton": "ሰርዝ"
+    },
+
+    "OP_TYPE_OPTIONS": {
+      "In Person": "በአካል",
+      "Remote": "የርቀት",
+      "Hybrid": "በአካል አና በርቀት"
+    },
+    "OP_PAID_OPTIONS": {
+      "Yes": "አዎ",
+      "No": "አይደለም"
+    },
+    "NGO_TYPE_OPTIONS": {
+      "Local": "ሀገር ዉስጥ",
+      "International": "አለምአቀፍ"
+    }
+  },
+
+  "ApplicantDetailPage": {
+    "pageTitle": "የአመልካች ዝርዝር መረጃ",
+    "dateApplied": "ማመልከቻ የገባበት ቀን",
+    "status": "ሁኔታ",
+    "personalInformation": {
+      "age": "እድሜ",
+      "gender": "ጾታ",
+      "location": "ቦታ",
+      "about": "ስለ አመልካቹ",
+      "associatedOrganization": "የተቆራኘ ድርጅት",
+      "contact": {
+        "title": "የመገናኛ ዘዴዎች",
+        "email": "ኢመይል",
+        "phone": "ስልክ",
+        "linkedIn": "ሊንክድን",
+        "whatsapp": "ዋትሳፕ",
+        "telegram": "ቴሌግራም"
+      }
+    },
+    "documents": {
+      "title": "ሰነዶች",
+      "resume": "የ ስራ ልምድ"
+    },
+
+    "applicantProfile": "የአመልካች መገለጫ",
+    "workHistory": "የስራ ልምድ",
+    "participationType": "የተሳትፎ አይነት",
+    "skillSets": "ክህሎቶች",
+    "categories": "ምድቦች",
+    "response": "መልስ",
+    "additionalResponses": "ተጨማሪ ምላሾች",
+    "notProvided": "መረጃዉ አልቀረበም",
+    "organizationsRatesAndReviews": "የድርጅቶች አስተያየቶች እና ደረጃዎች",
+
+    "acceptButtonText": "ተቀበል",
+    "declineButtonText": "ውድቅ አድርግ",
+    "inReviewButtonText": "በግምገማ ላይ",
+    "inProgressButtonText": "በሂደት ላይ",
+    "completedButtonText": "ተጠናቀቀ",
+    "certifyButtonText": "የምስክር ወረቀት መስጠት",
+    "confirmationPopup": {
+      "title": "እርግጠኛ ነህ",
+      "declined": "ይህ እርምጃ ማመልከቻቸው ለዚህ እድል ውድቅ መደረጉን ለአመልካቹ ማሳወቂያ ይልካል።",
+      "accepted": "ይህ እርምጃ አመልካች ማመልከቻቸው ተቀባይነት አንዳገኘ ማሳወቂያ ይልካል.",
+      "inReview": "This action will send a notification to the applicant that their application is in review.",
+      "inProgress": "The applicant is currently volunteering at your organization? Please update their status to In Progress if they have volunteered at least once since being accepted.",
+      "completed": "The applicant has completed their volunteer work at your organization? Please update their status to Completed if they have finished their volunteer work.",
+      "certified": "This action will send a notification to the applicant that they are certified."
+    }
+  },
+  "validationErrors": {
+    "Full name is required": "ሙሉ ስም ያስፈልጋል",
+    "Email is required": "ኢሜል ያስፈልጋል",
+    "Invalid email": "ልክ ያልሆነ ኢሜይል",
+    "Password is required": "የይለፍ ቃል ያስፈልጋል",
+    "String must contain at least 6 character(s)": "የይለፍ ቃል ቢያንስ 6 ቁልፎች መሆን አለበት",
+    "String must contain at least 1 character(s)": "ባዶ መሆን አይችልም",
+    "Passwords don't match": "የይለፍ ቃል መመሳሰል አለበት",
+    "OTP is required": "የሚስጥር ኮድ ያስፈልጋል",
+    "OTP must be 4 characters long": "የሚስጥር ኮድ አራት ቁልፎች መሆን አለበት",
+    "Year must be an integer between 1800 and the current year": "ዓመቱ ከ1800 እስከ አሁኑ ዓመት መካከል ከሆነ ቁጥር መሆን አለበት።",
+    "Organization name cannot be empty": "የድርጅት ስም ባዶ መሆን አይችልም",
+    "Location cannot be empty": "የድርጅቱ መገኛ ቦታ ባዶ መሆን አይችልም",
+    "NGO Type needs to be a valid option": "ትክክለኛ አማራጭ መምረጥ አለቦት",
+    "Year Founded needs to be a valid option": "የተመሰረተበት አመት ትክክለኛ አማራጭ መሆን አለበት",
+    "You need to select at least one Organization Area": "ቢያንስ አንድ የድርጅት የትኩረት ዘርፍ መምረጥ አለብዎት",
+
+    "Primary phone number is required": "ዋና ስልክ ቁጥር ያስፈልጋል",
+    "Primary phone number is not valid": "ያስገቡት ስልክ ቁጥር ልክ አይደለም",
+    "Secondary phone number is not valid": "ያስገቡት ስልክ ቁጥር ልክ አይደለም",
+    "Description cannot be empty": "መግለጫ ባዶ መሆን አይችልም",
+    "Description cannot exceed 500 characters": "መግለጫ ከ 500 ፊደሎች መብለጥ አይችልም",
+    "Vision cannot be empty": "ራዕይ ባዶ መሆን አይችልም",
+    "Mission cannot be empty": "ተልዕኮ ባዶ መሆን አይችልም",
+    "Future Plans cannot be empty": "የወደፊት እቅዶች መስክ ባዶ መሆን አይችልም",
+    "You need to select at least one language": "ቢያንስ አንድ ቋንቋ መምረጥ ያስፈልግዎታል",
+    "Opportunity title is required": "የስራ እድሉ ርዕስ ያስፈልጋል",
+    "Responsibilities cannot be empty": "የሥራ ኃላፊነቶች ባዶ ሊሆኑ አይችሉም",
+    "Responsibilities cannot exceed 500 characters": "የሥራ ኃላፊነቶች መግለጫ ከ 500 ፊደሎች መብለጥ አይችልም",
+    "Requirements cannot be empty": "መስፈርቶች ባዶ ሊሆኑ አይችሉም",
+    "Requirements cannot exceed 500 characters": "የመስፈርሽቶች መግለጫ ከ 500 ፊደሎች መብለጥ አይችልም",
+    "Ideal Candidate description cannot exceed 500 characters": "ለቦታው ተስማሚ እጩ መግለጫ ከ 500 ፊደሎች መብለጥ አይችልም",
+    "You need to select at least one Category": "ቢያንስ አንድ ምድብ መምረጥ ያስፈልግዎታል",
+    "Opportunity type is required": "የሥራ ዕድል ዓይነት ያስፈልጋል",
+    "Job Start Date is required": "መጀመሪያ ቀን መገለጽ አለበት",
+    "Job End Date is required": "ማብቂያ ቀን መገለጽ አለበት",
+    "Deadline is required": "ቀነ ገደብ ማስገባት አለቦት",
+    "You need to select at least one Location": "ቢያንስ አንድ ቦታ መምረጥ ያስፈልግዎታል",
+    "You need to select at least one Required Skill": "ቢያንስ አንድ ተፈላጊ ችሎታ መምረጥ አለቦት",
+    "When and Where information is required": "መቼ እና የት መረጃ ያስፈልጋል",
+
+    "You need to select at least one skill": "ቢያንስ አንድ ክህሎት መምረጥ ያስፈልግዎታል",
+    "Required": "አሁን ያለዎትን ሙያ መሙላት አለብዎት",
+    "Invalid phone number": "ልክ ያልሆነ ስልክ ቁጥር",
+    "Phone number is required": "ስልክ ቁጥር ያስፈልጋል",
+    "Name must be at least 3 characters long": "ስም ቢያንስ 3 ቁምፊዎች መሆን አለበት።"
+  },
+
+  "editOrgUserProfilePage": {
+    "title": "የእርስዎን መገለጫ ለማስተካከል",
+    "saveButtonText": "ለውጦችን ሴቭ አድርግ",
+    "saveName": "ስም ሴቭ አድርግ",
+    "labels": {
+      "profile": "የመገለጫ ሥዕል",
+      "name": "ስም",
+      "email": "የ ኢሜል አድራሻ"
+    }
+  },
+
+  "updateEmailPage": {
+    "title": "ኢሜል መቀየር ይፈልጋሉ ?",
+    "subtitle": "ቀላል መሆን አለበት፣ አዲሱን ኢሜልዎን ይላኩልን።",
+
+    "continueButtonText": "ቀጥል",
+    "emailFieldPlaceholder": "አዲሱን የኢሜል አድራሻዎን ያስገቡ",
+    "labels": {
+      "email": "የ ኢሜል አድራሻ"
+    },
+    "verifiyEmail": {
+      "title": "አዲሱን ኢሜል ያረጋግጡ",
+      "subtitle": "የማረጋገጫ ኮድ ወደ ሰጡት ኢሜይል አድራሻ ልከናል። ኢሜልዎን በተሳካ ሁኔታ ለመለወጥ፣ እባክዎ እዚህ ከታች ኮዱን ያስገቡ።",
+      "otpFieldLabel": "የአንድ ጊዜ የይለፍ ቃል ያስገቡ"
+    }
+  },
+
+  "LocaleSwitcher": {
+    "label": "ቋንቋ",
+    "switchLocale": "{locale, select, am {አማ} en {En} om {Om} other {Unknown}}"
+  },
+
+  "volunteerPool": {
+    "title": "አሁን ያሉ በጎ ፈቃደኞች",
+    "details": {
+      "volunteers": "በጎ ፈቃደኞች",
+      "subtitle": "ይህ ለወደፊት እድሎች በድርጅቶ ለመጠራት የመረጡ የበጎ ፈቃደኞች ዝርዝር ነው።"
+    },
+    "tableFilters": {
+      "all": "ሁሉም",
+      "interested": "ፍላጎት ያላቸው",
+      "saved": "የተቀመጡ",
+      "myPool": "አባላት"
+    },
+    "tableHeaders": {
+      "user": "ስም",
+      "skills": "ችሎታ",
+      "interestInYourCompany": "ለድርጅቶ ያላቸው ፍላጎት",
+      "gender": "ፆታ"
+    }
+  },
+
+  "tableInfo": {
+    "previous": "የቀድሞ",
+    "next": "ቀጣይ",
+    "page": "ገጽ",
+    "of": "ከ",
+    "search": "ፈልግ/ጊ"
+  },
+
+  "volunteerSide": {
+    "navBar": {
+      "home": "መነሻ ገጽ",
+      "findOpportunities": "እድሎችን ያግኙ",
+      "browseOrganizations": "ድርጅቶችን አስስ",
+      "aboutUs": "ስለ እኛ",
+      "logIn": "ግባ",
+      "signUp": "ይመዝገቡ",
+      "profile": "መገለጫ",
+      "applications": "ያመለከቷቸው ቦታዎች",
+      "logOut": "ውጣ",
+      "bookMark": "የወደዷቸው እድሎች",
+      "MyBookMark": "የወደዷቸው እድሎች"
+    },
+    "homePage": {
+      "grow": "ማደግ።",
+      "connect": "መግባባት፣",
+      "serve": "ማገልገል፣",
+      "description": "አኪል በዓለም ዙሪያ ተፅዕኖ ፈጣሪ መንግስታዊ ያልሆኑ ድርጅቶች እና ግለሰቦች ያገናኛል።",
+      "startHereButton": "እዚህ ጀምሩ",
+      "findOpportunities": "እድሎችን ያግኙ",
+      "browseOrganizations": "ድርጅቶችን አስስ",
+      "login": "ይግቡ",
+      "signUp": "ይመዝገቡ"
+    },
+    "impactPage": {
+      "title1": "በማህበረሰብዎ ውስጥ  ",
+      "title2": "አዎንታዊ ተጽእኖ ለመፍጠር",
+      "title3": "እየፈለጉ ያሉ በጎ ፈቃደኞች ነዎት?.",
+      "subtitle1": "አኪል ፕላትፎርም የተለያዩ የማህበራዊ ሚዲያ መድረኮችን እና የአፍ ቃላትን ",
+      "subtitle2": " ማሰስ ሳያስፈልግ ብዙ የተለያዩ እድሎችን ይሰጣል።",
+      "subtitle3": "",
+      "button": "እድሎችን ያግኙ"
+    },
+    "makeDifferencePage": {
+      "title1": "ለውጥ ",
+      "title2": " ፍጠሩ",
+      "description": "መንግስታዊ ያልሆኑ ድርጅቶችን ያገናኙ እና ከእርስዎ ችሎታ እና ፍላጎት ጋር የሚጣጣሙ ተፅዕኖ ፈጣሪ እድሎችን ያግኙ",
+      "description1": "ለሙያዎ የተበጁ የተለያዩ የበጎ ፈቃደኞች ሚናዎችን ያስሱ",
+      "description2": "በቀላሉ ዕድሎችን ያመልክቱ እና ማመልከቻዎን በአንድ ቦታ ይከታተሉ",
+      "description3": "የተሻለ ዓለም ለመፍጠር የተነደፉ የግለሰቦችን እና ድርጅቶችን መረብ ይቀላቀሉ",
+      "subtitle1": "እድሎችን ያግኙ",
+      "subtitle2": "ቀላል መተግበሪያ",
+      "subtitle3": "የለውጥ ማህበረሰብ",
+      "button": "መተግበሪያ አውርዱ "
+    },
+    "elevatePage": {
+      "title1": "ከአኪል ጋር  ",
+      "title2": " የበጎ ፈቃደኞች ምልመላ",
+      "title3": "ያሳድጉ",
+      "description": "በጎ ፈቃደኞች መንግስታዊ ያልሆኑ ድርጅቶችን እንዴት እንደሚገናኙ በመቀየር፣ አኪል ቴክኖሎጂን ለቀላል ምልመላ እና ግንኙነት ይጠቀማል።",
+      "subtitle1": "ተፅዕኖ ፈጣሪ ፕሮጀክቶችን ማሳየት",
+      "subtitle1description": "የእርስዎን መንግሥታዊ ያልሆነ ድርጅት ታይነት ያሳድጉ፡ ፕሮጀክቶችን፣ ስኬቶችን እና መጪ እድሎችን ለታቀደው የበጎ ፈቃደኝነት አውታር ማድመቅ። ",
+      "subtitle2": "የተሳለጠ የበጎ ፈቃደኞች ግምገማ",
+      "subtitle2description": "በእኛ መተግበሪያ፣ የምስክር ወረቀቶችን እንሰጣለን እና አመልካቾችን የመመዝገብ፣ የመቀበል ወይም የመቀነስ ሂደትን በቀላሉ ያስተዳድሩ።",
+      "button": "ዛሬ ይመዝገቡ"
+    },
+    "applicationPage": {
+      "title": "የምልመላ ሂደትዎን ለማቀላጠፍ ዝግጁ ነዎት?",
+      "description": "ዛሬ በመመዝገብ ጉዞዎን አሁን ይጀምሩ!",
+      "button": "ይቀላቀሉን"
+    },
+    "footer": {
+      "resourcesButton": {
+        "title": "ዝርዝር",
+        "getTheApp": "መተግበሪያ አውርድ ",
+        "aboutUs": "ስለ እኛ",
+        "tryTelegramBot": "ቴሌግራም ቦት ይሞክሩ"
+      },
+      "description": "አኪል መንግስታዊ ያልሆኑ ድርጅቶችን ብቁ በጎ ፈቃደኞችን በብቃት የሚያገናኝ ለተጠቃሚ ምቹ የሆነ የኢንተርኔት መድረክ ነው። የአኪል ልዩ ጥራት ያለው የተማከለ መድረክ፣ የበጎ ፈቃድ አስተዳደር ሂደትን በማቀላጠፍ እና በመያዶች እና በጎ ፈቃደኞች መካከል ቀልጣፋ ግንኙነትን በማጎልበት ላይ ነው።",
+      "contactUs": "አግኙን",
+      "copyRight": "2024 አኪል. መብቱ በህግ የተጠበቀ ነው.",
+      "quickContact": "ፈጣን መልዕክት"
+    },
+    "experiancePage": {
+      "title1": "እንከን የለሽ  ",
+      "title2": "የመተግበሪያ ሂደትን",
+      "title3": "ከአኪል ጋር ይለማመዱ",
+      "card1": {
+        "title1": "የተሳለጠ በጎ ",
+        "title2": "ፈቃደኝነት",
+        "description1": "የበጎ ፈቃደኝነት እድሎች  በማቅረብ",
+        "description2": "መንግስታዊ ካልሆኑት ድርጅቶች",
+        "description3": "ጋር እናገናኛለን።"
+      },
+      "card2": {
+        "title1": "የተለያየ ",
+        "title2": "ተጽእኖ",
+        "description1": "የተለያዩ ተነሳሽነቶችን እንዲደግፉ",
+        "description2": "እና እንዲያሳድጉ ",
+        "description3": "ግለሰቦችን ማበረታታት።"
+      },
+      "card3": {
+        "title1": "ማህበረሰቦችን ",
+        "title2": "ማጎልበት",
+        "description1": "መንግሥታዊ ያልሆኑ ድርጅቶችን",
+        "description2": "ተደራሽነት ያመቻቻል እና ",
+        "description3": "በጎ ፈቃደኞችን ያዛምዳል።"
+      }
+    }
+  },
+
+  "findOpportunities": {
+    "title": "እድሎችን ያግኙ",
+    "subtitle": "በአካባቢዎ ያሉ ምርጥ የበጎ ፈቃደኞች እድሎችን ያግኙ",
+    "searchOpportunities": "የበጎ ፈቃድ እድሎችን ይፈልጉ",
+    "city": "ከተማ",
+    "search": "ፈልግ/ጊ",
+    "operationalReach": "የአሠራር ዓይነት",
+    "opportunities": "እድሎች",
+    "sortBy": "ደርድር",
+    "showingResults": "ውጤቶች",
+    "previous": "የቀድሞ",
+    "next": "ቀጣይ",
+    "page": "ገጽ",
+    "of": "ከ",
+    "sortOptions": {
+      "mostRecent": "የቅርብ ጊዜ",
+      "oldestFirst": "የቆዩ",
+      "mostApplicants": "ብዙ አመልካቾች",
+      "leastApplicants": "ትንሽ አመልካቾች",
+      "farthestDeadline": "የራቀ ቀነ ገደብ",
+      "nearestDeadline": "ቅርብ ቀነ ገደብ",
+      "mostViewed": "በብዛት የታየ",
+      "leastViewed": "ትንሽ የታየ"
+    },
+    "typeOfEmployment": "የተሳትፎ አይነት",
+    "organizationType": "የድርጅት አይነት",
+    "categories": "ምድቦች"
+  },
+  "browseOrganizations": {
+    "title": "ድርጅትን አስስ",
+    "subtitle": "በእርስዎ አካባቢ ያሉ የበጎ ፈቃደኞች ድርጅቶችን ያግኙ",
+    "searchOrganization": "የበጎ አድራጎት ድርጅቶችን ፈልጉ",
+    "city": "ከተማ",
+    "search": "ፈልግ/ጊ",
+    "organizations": "ድርጅቶች",
+    "operationalReach": "የአሠራር ዓይነት",
+    "allOrganizations": "ድርጅቶች",
+    "sortBy": "አደራደር",
+    "showingResults": "ውጤቶች",
+    "previous": "የቀድሞ",
+    "next": "ቀጣይ",
+    "page": "ገጽ",
+    "of": "ከ",
+    "sortOptions": {
+      "newestFirst": "አዲሱ መጀመሪያ",
+      "oldestFirst": "የቀደመው መጀመሪያ",
+      "mostOpportunities": "ብዙ እድሎች",
+      "leastOpportunities": "ትንሽ እድሎች",
+      "ascendingOrder": "ሚጨምር ቅደም ተከተል",
+      "descendingOrder": "ሚቀንስ ቅደም ተከተል"
+    },
+    "NGO_TYPE_OPTIONS": {
+      "Local": "ሀገር ዉስጥ",
+      "International": "አለምአቀፍ"
+    },
+    "ORGANIZATION_TYPE_OPTIONS": {
+      "Non-Profit": "ለትርፍ ያልተቋቋመ",
+      "For-Profit": "ለትርፍ የተቋቋመ"
+    },
+    "causeArea": "ምድቦች",
+    "organizationType": "የድርጅት አይነት",
+    "opportunities": "የስራ እድሎች",
+    "opportunity": "የስራ እድል",
+    "noOpportunities": "የስራ እድሎች የሉም"
+  },
+
+  "ngoAreaOptions": {
+    "Education and Literacy": "ትምህርት እና ችሎታ",
+    "Technology": "ቴክኖሎጂ",
+    "Children and Youth": "ህጻናት እና ወጣቶች",
+    "Health and Medicine": "ጤና እና ህክምና",
+    "People with Disabilities": "አካል ጉዳተኞች",
+    "Sports and Recreation": "ስፖርት እና መዝናኛ",
+    "Homeless and Housing": "ቤት የሌላቸው እና መኖሪያ",
+    "Environment": "አከባቢ",
+    "Community Development": "የማህበረሰብ ልማት",
+    "Women's Empowerment": "ሴቶች ማብቃት",
+    "Media and Broadcasting": "ሚዲያ እና ስርጭት",
+    "Maintenance": "ጥገና",
+    "Project management": "የፕሮጀክት አስተዳደር",
+    "Project Developement ": "የፕሮጀክት ልማት",
+    "Marketing": "ማርኬቲንግ",
+    "Maternity Care": " የእናትነት እንክብካቤ",
+    "Social Media": "ሶሻል ሚዲያ ማኔጀር"
+  },
+
+  "underlineTabs": {
+    "Home": "መነሻ ገጽ",
+    "NGOs": "ድርጅቶች",
+    "Profile": "መገለጫ",
+    "Opportunities": "እድሎች",
+    "Reviews": "ግምገማ",
+    "Volunteers": "በጎ ፈቃደኞች",
+    "Other Organizations": "ሌሎች ድርጅቶች",
+    "Opportunities By Other Organizations": "በሌሎች ድርጅቶች የተለጠፉ እድሎች",
+    "Opportunity Details": "የሥራ ዕድሉ ዝርዝሮች",
+    "Applicants": "አመልካቾች",
+    "Certificate": "የምስክር ወረቀት",
+    "Applicant Profile": "የአመልካች መገለጫ",
+    "Experiences": "Experiences",
+    "Additional Responses": "የተሳትፎ አይነት"
+  },
+  "EditProfile": {
+    "Skills": "ችሎታዎች",
+    "Edit Skills": "ችሎታዎች",
+    "SAVE": "መዝግብ",
+    "Edit About Me": "ስለ እኔ አስተካክል",
+    "About Me": "ስለ እኔ",
+    "Uploading": "በመጫን ላይ...",
+    "Resume/CV": "ሲቪ",
+    "Resume Updated successfully!": "ሲቪ ተቀይሯል",
+    "Edit": "መለወጥ",
+    "Social": "ማህበራዊ ትስስር",
+    "Cancel": "ሰርዝ",
+    "Skills updated successfully!": "ችሎታዎች ተቀይሯል",
+    "Edit your social": "ማህበራዊ ትስስርዎን አስተካክል",
+    "Contact": "የግንኙነት መረጃ",
+    "Profile updated successfully!": "መገለጫዎ ተቀይሯል",
+    "Edit your contact": "የግንኙነት መረጃዎን አስተካክል",
+    "About Me Updated successfully!": "ስለ እኔ ተቀይሯል",
+    "Invalid file type": "የማይሰራ ፋይል አይነት። እባክዎን PDF ወይም ወርድ ሰነድ ያስገቡ።",
+    "File size should not exceed 5MB": "ፋይል መጠኑ 5MB ከታች መሆን አለበት።",
+    "Only image files are allowed": "ፋይሎት ምስል አይደለም።",
+    "No resume uploaded": "ምንም ሲቪ አልተሰጠም።",
+    "Certificate": "የምስክር ወረቀት",
+    "No Ceritifcate Received": "ምንም የምስክር ወረቀት አልተሰጠም።",
+    "Certificate of Completion": "የምስክር ወረቀት",
+    "Organization reviews": "የድርጅት ግምገማዎች",
+    "Resume Deleted successfully!": "ሲቪ ተሰርዟል",
+    "No reviews yet": " እስከምንለዋወጥ የድርጅት ግምገማ የለም",
+    "Languages updated successfully!": "ቋንቋዎች ተቀይሯል",
+    "Deleting": "ማጥፋት ላይ"
+  },
+
+  "LandingPage": {
+    "heroSection": {
+      "moto": {
+        "grow": "ማደግ",
+        "connect": "መግባባት፣",
+        "serve": "ማገልገል፣"
+      },
+      "description": "ማህበረሰብን በትጋት ማገልገል፣ ወጣቶችን ከዓላማ ጋር ማገናኘት፣ ለብሩህ ነገ ዛሬ አብሮ ማደግ",
+      "btn": {
+        "findOpportunities": "የስራ እድሎችን ይፈልጉ",
+        "postOpportunities": "የስራ እድሎችን ይለጥፉ"
+      }
+    },
+
+    "forOrganizations": {
+      "title": {
+        "for": "ለ",
+        "organizations": "ድርጅቶች"
+      },
+      "text1": "በአኪል ውስጥ ድርጅቶች ተልዕኳቸውን በማስፋፋት እና የሰለጠኑ ግለሰቦችን በመመልመል ረገድ የሚያጋጥሟቸውን ፈተናዎች እንረዳለን።",
+      "text2": "አኪል የሚከተሉትን መሳሪያዎች ይሰጥዎታል፡-",
+      "cards": {
+        "expandYourReach": {
+          "title": "ተደራሽነትዎን ያስፋፉ",
+          "description": "በፍጥነት እያደገ  ካለው ብቁ የሆነ ወጣት የአኪል ማህበረሰብ ጋር በቀጥታ ይገናኙ።"
+        },
+        "manageOpportunities": {
+          "title": "የስራ እና በጎ ፈቃድ እድሎችን ይቆጣጠሩ",
+          "description": "በጣም በቀላሉ የስራ እና በጎ ፈቃድ እድሎችን በእኛ መድረክ ይለጥፉ እና ይቆጣጠሩ።"
+        },
+        "donationChannel": {
+          "title": "የልገሳ ቻናል",
+          "description": "ለግብረ ሰናይ ድርጅቶች የልገሳ አማራጭ ቻናል።"
+        }
+      }
+    },
+
+    "GetYourIdeal": {
+      "title": {
+        "main": "ተስማሚ እጩዎችዎን",
+        "steps": "በ 3 ቀላል ደረጃዎች ያግኙ"
+      },
+      "cards": {
+        "registerOrg": {
+          "title": "ድርጅትዎን ያስመዝግቡ",
+          "description": "ድርጅትዎን ለዕድል ፈላጊዎቻችን ለማስተዋወቅ ዝርዝር መገለጫ ይፍጠሩ።"
+        },
+        "postOpportunities": {
+          "title": "የስራ እና በጎ ፈቃድ እድሎችን ይለጥፉ",
+          "description": "በሰው ሰራሽ አስተውሎ የታገዘ መሳርያችንን ተጠቅመው ሳቢ የሆኑ የስራ እና በጎ ፈቃድ እድል መግለጫዎችን ይጻፉ።"
+        },
+        "manageApplications": {
+          "title": "ያዎጧቸዉን  የስራ እና በጎ ፈቃድ እድሎችን ይቆጣጠሩ",
+          "description": "በቀላሉ  የሥራ ማመልከቻዎችን ይገምግሙ፣ ይቀበሉ ወይም ይጣሉ እንዲሁም ሂደቱን ይቆጣጠሩ።"
+        }
+      }
+    },
+
+    "ForVolunteers": {
+      "words": {
+        "for": "ለዕድል",
+        "opportunitySeekers": "ፈላጊዎች"
+      },
+      "paragraph": {
+        "text1": "ከእርስዎ ችሎታዎች፣ ፍላጎቶች እና ግዜ ጋር የሚዛመዱ እድሎችን ያግኙ።",
+        "text2": "አኪል የሚከተሉትን መሳሪያዎች ይሰጥዎታል፡-"
+      },
+      "cards": {
+        "discoverOpportunities": {
+          "title": "የስራ እና በጎ ፈቃድ እድሎችን ያግኙ",
+          "description": "የተለያዩ ድርጅቶችን እና የስራ እና በጎ ፍቃድ እድሎችን ያግኙ።"
+        },
+        "aiAssistance": {
+          "title": "የሰው ሰራሽ አስተውሎ እገዛ",
+          "description": "በሰው ሰራሽ አስተውሎ የታገዘ ዉጤታማ ችሎታን እና እድልን ማዛመድ።"
+        },
+        "trackApplications": {
+          "title": "ተመዝጋቢዎችን ይከታተሉ",
+          "description": "ተመዝጋቢዎችን እና ምላሾችን ያለምንም ጥረት ይከታተሉ"
+        }
+      }
+    },
+
+    "DownloadMobile": {
+      "title": "መተግበሪያችንን ያውርዱ",
+      "description": "በመዳፍዎ ላይ እድሎችን ያግኙ።"
+    },
+
+    "BrowseOpportunity": {
+      "title": {
+        "text1": "እድሎችን  ",
+        "text2": "በየምድቡ ያስሱ"
+      },
+      "description": "ከእርስዎ ችሎታዎች፣ ፍላጎቶች እና ግዜ ጋር የሚዛመዱ እድሎችን ያግኙ።"
+    },
+
+    "ForThrive": {
+      "title": {
+        "text1": "ዓለም አቀፋዊ ",
+        "text2": "ማህበረሰብን ለመገንባት እንሰራለን"
+      },
+      "description": " አኪል እድሎች ተደራሽ፣ አካታች እና ለወጣቶች ጠቃሚ የሆኑበት ዓለም አቀፍ ማህበረሰብን በመገንባት ይሰራል።"
+    },
+
+    "RecentOpportunity": {
+      "title": "የቅርብ ጊዜ እድሎች",
+      "description": "ከእርስዎ ችሎታዎች፣ ፍላጎቶች እና ግዜ ጋር የሚዛመዱ እድሎችን ያግኙ።",
+      "seeAll": "ሁሉንም ይመልከቱ"
+    },
+
+    "FactsAndFigures": {
+      "community": "ማህበራዊ",
+      "impact": "ተጽእኖ",
+      "description": "እያንዳንዱ መስተጋብር የሚጠቅምበት እና የበለጠ ማህበረሰብን የሚደግፍ ታላቅ ማህበረሰብ በመገንባት ለውጥ ፍጣሪዎችን ማበረታታት።",
+      "facts": {
+        "orgRegistered": "የተመዘገቡ ድርጅቶች",
+        "opportunitySeekers": "እድል ፈላጊዎች",
+        "opportunitiesConnected": "የተሳኩ የስራ ግንኙነቶች"
+      }
+    },
+
+    "OurPartners": {
+      "title": {
+        "our": "የስራ",
+        "partners": "አጋሮችቻችን"
+      },
+      "description": "ትርጉም ያለው ለውጥ ከሚያመጡ ድርጅቶች ጋር በመተባበር ኩራት ይሰማናል።"
+    }
+  }
+}

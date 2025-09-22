@@ -1,0 +1,30 @@
+{
+  "extends": ["next/core-web-vitals", "prettier"],
+  "plugins": ["check-file", "unused-imports"],
+  "rules": {
+    "no-console": "warn",
+    "react/no-unescaped-entities": "off",
+    "@next/next/no-page-custom-font": "off",
+    "check-file/no-index": "off",
+    "check-file/filename-naming-convention": [
+      "error",
+      {
+        "**/components/**/!(index).{jsx,tsx}": "PASCAL_CASE",
+        "src/**/*.{js,ts,css,json}": "KEBAB_CASE"
+      }
+    ],
+    "check-file/folder-naming-convention": [
+      "error",
+      {
+        "src/!(app)/**": "KEBAB_CASE"
+      }
+    ],
+    "no-unused-vars": "off", // or "@typescript-eslint/no-unused-vars": "off",
+    "unused-imports/no-unused-imports-ts": 2,
+    "unused-imports/no-unused-imports": "error",
+    "unused-imports/no-unused-vars": [
+      "error",
+      { "vars": "all", "varsIgnorePattern": "^_", "args": "after-used", "argsIgnorePattern": "^_" }
+    ]
+  }
+}

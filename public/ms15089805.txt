@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "masar.qa",
+  "Id": "d901984c-5876-48ae-8916-24ee54d92c34"
+}

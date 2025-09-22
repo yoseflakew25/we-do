@@ -1,0 +1,1106 @@
+{
+  "AboutUsPage": {
+    "aboutA2SV": {
+      "description": "Nuti garee injinaroota sooftiweerii fi elektirikii kudhan of keessaa qabnudha. Tokkoon tokkoon keenya ilaalcha addaa, kan hundee isaa hubannoo gadi fagoo qormaata hawaasni keenya mudatu irratti hudaa'ee  minjaala irratti fidna. Imalli keenyas qajeelfama gorsitoota muuxannoo qabaniin kan gabbatee you ta'u, goorsitoonni keenya muuxannoo industirii waggoota kurnaniif ol kan qabanniifi kutannoo tajaajiila hawaasaaf teeknooloojii fayyadamuuf qabnu qooddatanidha.",
+      "title": "Nuyi Eenyu?"
+    },
+    "aboutMasar": {
+      "description": "Masar  wiirtuu giddugaleessaa dargaggoota hojii, leenjii hojii, fi gahee tola ooltummaa dabalatee carraa bal'aa waliin wal qunnamsiisuuf qophaa'eedha. Dhaabbileen kalaqa barbaaddanifi dargargoota muxannoo dandeettiifi fedhiisaani waliin walsimu barbaadan gidduutti riqicha ta'un tajaajjiila. Waltajjiin keenya adeemsa carraa hojii barbaadufi iyyachuu salphisuun, dargaggoonni hojiisaani akka tarkaanfachisanii fi hawaasa isaanii keessatti dhiibbaa qabatamaa akka gumaachan yoo taasiisu, dhaabbileen ergama isaanii gahumsaan akka agarsiisan, carraalee akka tarreessan fi adeemsa qacarrii sirreessuu fi fooyyessuudhaan dhiibbaa hojimaata dadhabsiisaa fi yeroo fudhatu hir’isuuf hojjeta.",
+      "title": "Waa'ee Masar"
+    },
+    "contactUsForm": {
+      "emailAddressLabel": "Imeelii",
+      "errorMessages": {
+        "emailIsRequired": "Imeelii barbaachisaa dha",
+        "message": "Ergaa dhiyeessi.",
+        "nameIsRequired": "Maqaan barbaachisaa dha"
+      },
+      "messageAreaLabel": "Ergaa",
+      "nameAreaLabel": "Maqaa",
+      "submitButtonText": "Ergaa",
+      "title": "Nu Quunnamaa"
+    },
+    "copyright": "Mirga Qorannoo Hunda Qaba.",
+    "loginAsAnOrganization": "Dhaabbata Ta'ee Seeni",
+    "mission": {
+      "description": "Masar keessatti ergamni keenya waltajjii ammayyaa adeemsa dargagoota gahumsa qaban argachuu salphisu dhiyeessuudhaan bulchiinsa iyyaatootaa dhaabbileef warraaqsa fiduudha. Dhaabbileen yeroo baayyee namoota dhuunfaa kaka’umsaafi muxannoo qaban argachuuf yeroo yaalan qormaata isaan mudatu furuuf waadaa seennee jirra. Galmi keenya haala qacarri caalaatti bu’a qabeessaa fi bu’a qabeessa taasisuun, gama ba’aa fi yeroo fudhatu hir’isuun, dhaabbileen ergama isaanii murteessaa ta’e irratti xiyyeeffachuu akka danda’an goochudha.",
+      "title": "Ergama Keenya"
+    },
+    "vision": {
+      "description": "Mul’anni keenya Masar keessatti addunyaa dhaabbilee fi namooota ogummaa fi quuqama qaban waliin salphaatti wal qunnamsiisuu danda’u uumuudhaan, kaayyoo isaanii haala bu’a qabeessaa fi gahumsaan galmaan ga’uu danda’u uumuudha. Dhaabbilee guddina hundaaf qacarrii sirreessuu fi fooyyessuu furmaata itti deemnu ta’uuf kaayyeffanna. Dhaabbilee i dargagoota gidduutti walta’iinsa hiika qabu haala mijeessuudhaan, jijjiirama gaarii fi guddina hawaasa addunyaa irratti gumaachuu ni abdanna.",
+      "title": "Mul'ata Keenya"
+    }
+  },
+  "AkilMotto": {
+    "title": "Tajaajiluu, Qunnamuu, Guddachuu"
+  },
+  "ApplicantDetailPage": {
+    "acceptButtonText": "Eeyyama",
+    "additionalResponses": "Deebii Dabalataa",
+    "applicantProfile": "Profaayilii Hirmaataa",
+    "categories": "Kaateegorii",
+    "certifyButtonText": "Mirkaneessi",
+    "completedButtonText": "Xumurameera",
+    "confirmationPopup": {
+      "accepted": "Tarkaanfiin kun carraa kanaaf fudharama argachuu isaanii hirmaataaf beeksisa ni eerga.",
+      "certified": "Tarkaanfiin kun mirkanaa'uu isaanii hirmaataaf beeksisa ni eerga.  ",
+      "completed": "Hirmaataan kun hojii isaanii dhaabata keessan kessatti xumurani jiru? Yoo akkas ta'e, haala isaani gara 'Xumurameeraa'tti haaroomsaa.",
+      "declined": "Tarkaanfiin kun carraa kanaaf fudhatama akka hin qabne hirmaataaf beeksisa ni eerga.",
+      "inProgress": "Hirmaataan yeroo ammaa dhaabbata keessan keessatti hojii hojjechaa jiraa? Erga fudhatama argatanii yoo  xiqqaate al tokko hojii yoo hojjetan, haala isaanii gara 'Adeemsa irra'itti haaromsaa. ",
+      "inReview": "Tarkaanfiin kun galmeen isaanii gamaaggama keessa akka jiru hirmaataaf beeksisa ni erga.",
+      "shortlisted": "Tarkaanfiin kun hirmaataaf iyyatni isaanii tarree gabaabaa keessa akka jiru beeksisa ni erga.",
+      "title": "Mirkaneeffatteettaa?"
+    },
+    "dateApplied": "Guyyaa Galmee",
+    "declineButtonText": "Dhisii",
+    "documents": {
+      "resume": "Resuume/SiVii",
+      "title": "Dokumentoota"
+    },
+    "inProgressButtonText": "Adeemsa irra",
+    "inReviewButtonText": "Gamagamarra",
+    "notProvided": "HIN KENNAMNE",
+    "pageTitle": "Odeeffannoo Hirmaataa",
+    "participationType": "Gosa Hirmaannaa",
+    "personalInformation": {
+      "about": "Waa'ee",
+      "age": "Umrii",
+      "associatedOrganization": "Dhaabbilee Walitti Dhufeenya Qaban",
+      "contact": {
+        "email": "Imeelii",
+        "linkedIn": "LinkedIn",
+        "phone": "Bilbila",
+        "telegram": "Telegram",
+        "title": "Qunnamtii",
+        "whatsapp": "WhatsApp"
+      },
+      "gender": "Saala",
+      "location": "Bakka"
+    },
+    "shortlistButtonText": "Galmee Gababaa",
+    "skillSets": "Dandeettii",
+    "status": "Sadarkaa",
+    "workHistory": "Seenaa Hojii"
+  },
+  "Organizations Rates and Reviews": "Sadarkaa fi Gamaggama Dhaabbilee",
+  "browseOrganizations": {
+    "allOrganizations": "Dhaabbilee Hunda",
+    "causeArea": "Sababa",
+    "city": "Magaalaa",
+    "next": "kan itti aanu",
+    "NGO_TYPE_OPTIONS": {
+      "International": "Idil-addunyaa",
+      "Local": "Naannoo"
+    },
+    "ORGANIZATION_TYPE_OPTIONS": {
+      "Non-Profit": "Buu'aaf kan hin hundoofne",
+      "For-Profit": "Buu'aaf kan hundaa'e"
+    },
+    "noOpportunities": "Carraan hoji hin jiru",
+    "of": "/",
+    "open": "banaa",
+    "opportunities": "Carraalee",
+    "opportunity": "Carraa",
+    "organizations": "Dhaabbilee",
+    "organizationType": "Gosa Dhaabbataa",
+    "operationalReach": "Dhaqabummaa Dhaabbataa",
+    "page": "Fuula",
+    "previous": "Dura",
+    "search": "Barbaadaa",
+    "searchOrganization": "Dhaabbilee barbaadaa",
+    "showingResults": "Bu'aa Mil'isaa jira ",
+    "since": "erga",
+    "sortBy": "Tartiiba",
+    "sortOptions": {
+      "ascendingOrder": "Guddaa Gara Xiqqaa",
+      "descendingOrder": "Xiqqaa Gara Guddaa",
+      "leastOpportunities": "Carraa Xiqqaa",
+      "mostOpportunities": "Carraa Baay'ee",
+      "newestFirst": "Haaraa ",
+      "oldestFirst": "Kan duraa"
+    },
+    "subtitle": "Dhaabbilee Naannoo Keessanitti Argaman Barbaadaa",
+    "title": "Dhaabbilee Ilaali"
+  },
+  "editOrganizationProfilePage": {
+    "basicInformation": {
+      "description": "Kun odeeffannoo dhaabbataa yeroo kamiyyuu haala salphaan fooyyessuu dandeessuu dha.",
+      "title": "Odeeffannoo Ijoo"
+    },
+    "buttonText": "Galmeessi",
+    "certificate": {
+      "description": "Ragaa galmee dhaabbata keessanii ykn sanada barbaachisaa ta'e kan akka Xalayaa Galateeffannaa mootummaa irraa olkaa'aa.",
+      "title": "Ragaa Galmee"
+    },
+    "organizationLogo": {
+      "description": "Suuraan kun akka loogoo dhaabbatichaa ifatti ni agarsiifama.",
+      "title": "Loogoo Dhaabbataa"
+    },
+    "successPopup": {
+      "buttonText": "Tole",
+      "subTitle": "Profaayilii keessan ilaaluuf tole isa jedhu cuqaasaa",
+      "title": "Profaayiliin Keessan Milkaa'inaan Fooyyeffame"
+    },
+    "title": "Profaayilii Fooyyeessi"
+  },
+  "editOrgUserProfilePage": {
+    "labels": {
+      "profile": "Suuraa Profaayilii",
+      "email": "Imeelii",
+      "name": "Maqaa"
+    },
+    "saveButtonText": "Jijjiirraa Galmeessi",
+    "saveName": "Maqaa Qusadhu",
+    "title": "Profaayilii Keessan Fooyyeessaa"
+  },
+  "EditProfile": {
+    "About Me": "Waa'ee Koo",
+    "About Me Updated successfully!": "Waa'ee Koo milkaa'inaan haaroomfameera!",
+    "Cancel": "Haqi",
+    "Certificate": "Waraqaawwan Ragaa",
+    "Certificate of Completion": "Waraqaa Ragaa Xumuraa",
+    "Contact": "Quunnamtii",
+    "Deleting": "Haaqaa jira",
+    "Edit": "Fooyyeessi",
+    "Edit About Me": "Waa'ee Koo Fooyyeessi",
+    "Edit Skills": "Dandeettiilee Fooyyeessi",
+    "Edit your contact": "Quunnamtii keessan Fooyyeessi",
+    "Edit your social": "Odeeffannoo hawaasummaa keessan fooyyeessi",
+    "File size should not exceed 5MB": "Hammi faayilii 5MB caalu hin qabu",
+    "Invalid file type": {
+      " Please upload a PDF or Word document": {
+        "": "Gosa faayilii sirrii hin taane. Faayiila PDF ykn Word galchaa."
+      }
+    },
+    "No Ceritifcate Received": "Waraqaa Ragaa Hin Fudhanne",
+    "No resume uploaded": "Resuume/SiVii hin jiru",
+    "No reviews yet": "Ammatti gamaaggama hin qabu",
+    "Only image files are allowed": "Faayila suuraa qoofaatu eeyyamama",
+    "Organization reviews": "Gamagama Dhaabbataa",
+    "Profile updated successfully!": "Profaayili milkaa'inaan haaromfameera!",
+    "Resume Deleted successfully!": "Resuumeen milkaa'inaan haaqameera!",
+    "Resume Updated successfully!": "Resuumee milkaa'inaan haaromfameera!",
+    "Resume/CV": "Resuume/SiVii",
+    "SAVE": "GALMEESSII",
+    "Skills": "Dandeettiilee",
+    "Skills updated successfully!": "Dandeettiiwwan milkaa'inaan haaromfameera!",
+    "Languages updated successfully!": "Afaanota Languages milkaa'inaan haaromfameera!",
+    "Social": "Hawaasummaa",
+    "Uploading": "Ol-ka'aa Jira..."
+  },
+  "EmptyDashboard": {
+    "contactUsButtonText": "Masar Qunnamaa",
+    "declinedAccount": {
+      "message": "Dhiifama, akkaawunti keessan hin eeyyamamne. Profaayilii keessan fooyyessuun fi irra deebi'aa yaalaa yookaan gargaarsa dabalataa aargachuud nu quunamaa.",
+      "title": "Akkaawunti Siinif Hin Eeyyamamne!"
+    },
+    "disabledAccount": {
+      "message": "Dhiifama, akkaawunti keessan cufameera. Odeeffannoo dabalataa yookaan deeggarsa argachuuf nu qunnamaa.",
+      "title": "Akkaawunti Keessan Cufameera!"
+    },
+    "editOrgProfileButtonText": "Profaayilii Dhaabbataa Fooyyessaa",
+    "info": "Ammatti dhaabbanni keessan carraa hojii hin maxxansiine. Carraa haaraa maxxansuun jalqabaa.",
+    "notVerifiedAccount": {
+      "message": "Akkaawuntii keessan hanga ammaatti hin mirkanoofne. Yeroo ammaa kana akkaawuntii keessan ilaalaa jirra, adeemsa mirkaneessuu dafnee ni xumurra. Obsa keessaniif galatoomaa.",
+      "title": "Akkaawunti Hin Mirkanoofne!"
+    },
+    "opportunityListing": {
+      "subTitle": "Tarreen haala Carraalee isin maxxansitani kunooti.",
+      "title": "Tarreeffama Carraa"
+    },
+    "postButtonText": "Carraa Maxxansaa",
+    "viewOrgProfileButtonText": "Profaayilii Ilaali",
+    "welcome": "Baga nagaan dhufte, {name} !"
+  },
+  "findOpportunities": {
+    "categories": "Kaategoriiwwan",
+    "city": "Magaalaa",
+    "next": "kan itti aanu",
+    "of": "/",
+    "opportunities": "Carraalee",
+    "organizationType": "Gosa Dhaabbataa",
+    "operationalReach": "Dhaqabummaa Dhaabbataa",
+    "page": "Fuula",
+    "previous": "Dura",
+    "search": "Barbaadaa",
+    "searchOpportunities": "Carraa barbaadaa",
+    "showingResults": "Bu'aa Mil'isaa jira ",
+    "sortBy": "Tarressa",
+    "sortOptions": {
+      "farthestDeadline": "Yeroo galmee xumuraa fagoo",
+      "leastApplicants": "Galmoftota xiqqoo",
+      "leastViewed": "Kan xiqqoo laalame",
+      "mostApplicants": "Galmoftota baay'ee",
+      "mostRecent": "Kan yeroo dhihoo",
+      "mostViewed": "Kan baay'ee laalame",
+      "nearestDeadline": "Yeroo galmee xumuraa dhihoo",
+      "oldestFirst": "Kan durii"
+    },
+    "subtitle": "Carraalee Hojii Naannoo keessan Jiran barbaadaa",
+    "title": "Carraa barbaadaa",
+    "typeOfEmployment": "Gosa Hojii"
+  },
+  "ForgotPasswordPage": {
+    "continue": "Itti fufaa",
+    "emailAddressLabel": "Imeelii",
+    "emailAddressPlaceholder": "Imeelii keessan galchaa",
+    "message": "Hin yaaddinaa. Imeelii keessan nuuf ergaa.",
+    "resetPassword": {
+      "confirmPasswordFieldLabel": "Jecha icciitii mirkaneessaa",
+      "confirmPasswordFieldPlaceholder": "Jecha icciitii irradeebiin galchaa",
+      "continue": "Itti fufaa",
+      "newPasswordFieldLabel": "Jecha icciitii haaraa",
+      "newPasswordFieldPlaceholder": "Jecha icciitii haaraa galchaa",
+      "otpFieldLabel": "Koodii galchaa",
+      "title": "Jecha icciitii keessan haaromsaa",
+      "verificationMessage": "Koodii mirkaneessaa imeelii nuuf kennitan irraan siniif ergineerra. Jecha icciitii keessan haaromsuuf, koodii eergamee fi jecha icciitii haaraa galchaa."
+    },
+    "title": "Jecha icciitii dagattani?"
+  },
+  "LocaleSwitcher": {
+    "label": "Afaan",
+    "switchLocale": "{locale, select, am {አማ} en {En} om {Om} ara {عر} other {Unknown}}"
+  },
+  "LoginPage": {
+    "continueWithGoogle": "Karaa Google itti fufa",
+    "emailAddressLabel": "Tessoo Imeelii ",
+    "emailAddressPlaceholder": "Imeelii keessan galchaa",
+    "forgotPassword": "Jecha icciitii dagattani?",
+    "loginWithEmail": "Yookaan Imeelii Waliin Seenaa",
+    "noAccount": "Akaawuntii hin qabdani?",
+    "passwordAreaLabel": "Jecha Icciitii",
+    "passwordAreaPlaceholder": "Jecha icciitii keessan galcha",
+    "signup": "Galmaa’aa",
+    "submit": "Seenaa",
+    "title": "Baga Nagaan Dhuftan!",
+    "username": "Maqaa",
+    "welcome": "Baga Nagaan Dhuftan"
+  },
+  "ngoAreaOptions": {
+    "Children and Youth": "Ijoollee fi Dargaggoota",
+    "Community Development": "Misooma Hawaasaa",
+    "Education and Literacy": "Barnootaa fi Baruumsaa",
+    "Environment": "Naannoo",
+    "Health and Medicine": "Fayyaa fi Dawaa",
+    "Homeless and Housing": "Ogeessaa fi Manatti",
+    "Maintenance": "Suupaa",
+    "Media and Broadcasting": "Miidiyaa fi Tamsaasa",
+    "People with Disabilities": "Qaama Midhamtoota",
+    "Sports and Recreation": "Isportii fi Bashannanaa",
+    "Technology": "Teeknooloojii",
+    "Women's Empowerment": "Dubartoota Aangessuu",
+    "Project management": "Hoggansa Pirojektii",
+    "Project Developement ": "Misooma Pirojektii",
+    "Marketing": "Marketing",
+    "Maternity Care": "Haati kunuunsa",
+    "Social Media": "Hogganaa miidiyaa hawaasaa"
+  },
+  "OrganizationSignupPage": {
+    "aboutOrganizationSection": {
+      "aboutOrganization": {
+        "description": "Dhaabbanni keessan akkamitti akka jalqabe, bu'uura irrarri ijaaramee fi iddowwan garaagarumma irratti uumuf hojeetu barreessi. ",
+        "title": "Waa'ee Dhaabbataa"
+      },
+      "certificate": {
+        "description": "Ragaa galmee dhaabbata keessanii ykn sanada barbaachisaa ta'e kan akka Xalayaa Galateeffannaa mootummaa irraa olkaa'aa.",
+        "title": "Ragaa galmee"
+      },
+      "futurePlan": {
+        "description": "Galmoota, pirojektoota ykn tooftaalee dhaabbati keessan mul’ata isaa galmaan ga’uuf karoorfate ibsaa.",
+        "title": "Karoora Fuulduraa"
+      },
+      "inputAreaLabels": {
+        "description": "Ibsa",
+        "facebook": "Facebook",
+        "futurePlan": "Karoorri Fuulduraa",
+        "instagram": "Karoora Fuulduraa",
+        "linkedIn": "LinkedIn",
+        "mission": "Ergama",
+        "telegram": "Telegraama",
+        "vision": "Mul'ata",
+        "website": "Weebsaayitii",
+        "whatsapp": "Whatsapp"
+      },
+      "Invalid url": "Linkii sirri hintaane",
+      "mission": {
+        "description": "Ergama ijoo dhaabbata keessani ibsaa\n",
+        "title": "Ergama"
+      },
+      "organizationSocials": {
+        "description": "Miidiyaa hawaasaa dhaabbatichaa galchaa. Kun walitti dhuffeenya  keessan guddifachuuf gargaara.",
+        "title": "Miidiyaalee Hawaasaa Dhaabbataa"
+      },
+      "vision": {
+        "description": "Tattaaffii dhaabbata keetiin gara fuulduraatti hojjechaa jirtu ibsi. Yeroo dheeraa keessatti jijjiirama ykn dhiibbaa akkamii galmaan ga’uuf kaayyeffattan?",
+        "title": "Mul'ata"
+      }
+    },
+    "buttonText": {
+      "back": "Duubatti",
+      "finish": "Xumura",
+      "logout": "Keessaa bahaa",
+      "next": "kan itti anuu"
+    },
+    "organizationDetailsSection": {
+      "basicInformation": {
+        "description": "Kun odeeffannoo dhaabbataa yeroo kamiyyuu haala salphaan fooyyessuu dandeessuu dha.",
+        "title": "Odeeffannoo Ijoo"
+      },
+      "contactInformations": {
+        "description": "Lakkoofsa bilbilaa fi imeelii dhaabbatichaa nuuf kennaa.",
+        "inputAreaLabels": {
+          "emailAddress": "Teessoo Imeelii",
+          "primaryPhoneNumber": "Lakkoofsa Bilbilaa Jalqabaa",
+          "secondaryPhoneNumber": "Lakkoofsa Bilbilaa Lammaffaa"
+        },
+        "title": "Odeeffannoo Quunnamtii"
+      },
+      "organizationDetails": {
+        "description": "Odeeffannoo dhaabbatichaa bu'uuraa fayyadamtootaaf ibsa laatuu guutaa.",
+        "inputAreaLabels": {
+          "areaOfCause": "Xiyyeeffannaa Hojii",
+          "location": "Bakka",
+          "ngoType": "Gosa Dhaabbataa",
+          "oldName": "Maqaa Duraanii",
+          "organizationName": "Maqaa Dhaabbataa",
+          "shorthandName": "Maqaa Gabaajee",
+          "yearFounded": "Bara Hundeeffamaa",
+          "operationalReach": "Dhaqabummaa Dhaabbataa",
+          "googleMaps": "Google Maps",
+          "locationDetails": "Bakka/Tessoo Google Map irratti",
+          "locationDetailsDescription": "Masar irratti bakki aargama keessani sirrin akka mul'atuf bakka aargama keessani sirrin kaa'uuf yaalaa"
+        },
+        "title": "Odeeffannoo Dhaabbataa"
+      },
+      "organizationLogo": {
+        "description": "Suuraan kun akka loogoo dhaabbata keessaniitti namoota huddatti mul'ata.",
+        "title": "Loogoo Dhaabbataa",
+        "uploadImageAreaText": "<upload>Suuraa fe'aa</upload> yookaan harkisuun bakka kanatti fe'aa <imageForm>SVG, PNG, JPG yookaan GIF (max. 400 x 400px)</imageForm>"
+      }
+    },
+    "reviewSection": {
+      "labelTitles": {
+        "about": "Waa'ee Dhaabbataa",
+        "areaOfCause": "Xiyyeeffannaa Hojii",
+        "contact": "Quunnamtii",
+        "email": "Imeelii",
+        "facebook": "Facebook",
+        "futurePlan": "Karoorra Fuulduraa",
+        "instagram": "Instagram",
+        "linkedIn": "LinkedIn",
+        "location": "Bakka",
+        "mission": "Ergama",
+        "ngoType": "Dhaqabummaa Dhaabbataa",
+        "oldName": "Maqaa Duraanii",
+        "organizationType": "Gosa Dhaabbataa",
+        "primaryPhoneNumber": "Lakkoofsa Bilbilaa Jalqabaa",
+        "secondaryPhoneNumber": "Lakkoofsa Bilbilaa Lammaffaa",
+        "socialMedia": "Miidiyaa Hawaasaa",
+        "telegram": "Telegraama",
+        "vision": "Mul'ata",
+        "website": "Weebsaayitii",
+        "whatsapp": "Whatsapp",
+        "yearFounded": "Bara Hundeeffamaa",
+        "certificateOfRegistration": "Ragaa Galmee",
+        "googleMaps": "Google Maps"
+      },
+      "notProvided": "HIN JIRU"
+    },
+    "successPopup": {
+      "buttonText": "Tole",
+      "subTitle": "Hanga gaaffii keessan mirkaneessinutti obsaan nu eegaa. Dhaabbata keessan erga mirkaneessinee booda beeksisa imeelii isiniif ergina.",
+      "title": " Masar irratti galmaa'u keessaniif galatoomaa."
+    }
+  },
+  "orgOpportunities": {
+    "headerButtonText": "Carraa Maxxansaa",
+    "pageTitle": "Tarreeffama Carraa",
+    "subTitle": "Tarreen haala Carraalee isin maxxansitani kunooti.",
+    "tableHeaders": {
+      "applicants": "Iyyatoota",
+      "datePosted": "Guyyaa Maxxanfame",
+      "deadline": "Guyyaa galmee xumuraa",
+      "opportunityType": "Gosa Carraa",
+      "role": "Ga'ee",
+      "status": "Haala",
+      "subTitle": "Odeeffannoo waa'ee Carraalee dhaabbata keessanii",
+      "title": "Carraalee"
+    }
+  },
+  "orgProfile": {
+    "headerButtonText": "Odeeffannoo Fooyyessaa",
+    "title": "Profaayila Dhaabbataa"
+  },
+  "PostOpportunityPage": {
+    "detailsSection": {
+      "categories": {
+        "description": "Kaategoorii carraa hojii heddumminan filachuu dandeessu",
+        "inputAreaPlaceholder": "fkn. Muuxannoo Barnoota Afaan Oromoo yookaan gosa wal fakkaataa barsiisuu ",
+        "label": "Kaategoorii Carraa Filadhu",
+        "title": "Kaategooriiwwan"
+      },
+      "details": {
+        "description": "Ibsa carraa, ulaagaalee, itti gaafatamummaa, gosoota, fi sanadoota carraa sanaaf barbaachisan itti dabalaa.",
+        "title": "Odeeffannoo Gadifageenyaan"
+      },
+      "fields": {
+        "categories": "Kaategoorii Carraa Filadhu",
+        "description": "Ibsa",
+        "idealCandidate": "Kadhimamaa filatamaa",
+        "requirements": "Ulaagaalee",
+        "responsibilities": "Itti Gaafatamummaa",
+        "title": "Mata Duree "
+      },
+      "idealCandidate": {
+        "description": "Ibsa kaadhimamaa filatamaa gita hojii sanaaf",
+        "inputAreaPlaceholder": "fkn. Muuxannoo Barnoota Afaan Oromoo yookaan gosa wal fakkaataa barsiisuu ",
+        "title": "Kadhimamaa filatamaa"
+      },
+      "opportunityDescription": {
+        "description": "Ibsi Carraa gita hojii tokko qofa ibsuu qaba",
+        "inputAreaPlaceholder": "fkn. Barsiisaa Afaan Oromoo ta'un  garee keenyatti akka tola oolaatti/ttutti makamaa. Akka barsiisaa tokkootti barattoonni dandeettii dubbisuu, barreessuu, dubbachuu fi dhaggeeffachuu isaanii akka guddifatan ni deeggarttu. Kun jireenya nama tokkoo irratti dhiibbaa gaarii uumuu fi imala barnootaa isaa keessatti gumaacha gochuuf carraa gaarii dha.",
+        "title": "Ibsa"
+      },
+      "opportunityTitle": {
+        "description": "Mata dureen carraa gita hojii iddoo tokko qofa ibsuu qaba",
+        "inputAreaPlaceholder": "fkn. Barsiisaa Afaan Oromoo",
+        "title": "Mata Duree Carraa"
+      },
+      "requirements": {
+        "description": "Ulaagaalee gita hojii kanaa tarreessaa",
+        "inputAreaPlaceholder": "fkn. Dandeettii Afaan Oromoo",
+        "title": "Ulaagaalee"
+      },
+      "responsibilities": {
+        "description": "Itti gaafatamummaa ikoo gita hojii kanaa tarressaa",
+        "inputAreaPlaceholder": "fkn. Caaslugaa, jechoota, sagaleessa fi haasawa barsiisuu",
+        "title": "Itti Gaafatamummaa"
+      },
+      "opportunityVisibility": {
+        "title": "Mul'ata Carraa",
+        "description": "Carraa keessan mul'ataaf filadhaa."
+      },
+      "privateOpportunity": {
+        "title": "Imeelii Kaadhimamaa Dabaluu",
+        "description": "Teessoo imeelii fayyadamtoota carraa dhuunfaa kana ilaaluu danda'an ifteessi. Koomaadhaan addaan baasi.",
+        "inputAreaPlaceholder": "e.g. jane@example.com, john@example.com"
+      }
+    },
+    "opportunityInformationSection": {
+      "basicInformation": {
+        "description": "Odeeffannoon kun ifatti nama hundaaf kan mul'atu yoo ta'u yeroo barbaaddanitti haaromsuu dandeessu.",
+        "title": "Odeeffannoo Bu'uuraa"
+      },
+      "engagementType": {
+        "title": "Gosa carraa",
+        "description": "Gosa carraa ibsi"
+      },
+      "opType": {
+        "title": "Bakka hojii",
+        "description": "Iddoo hojii ibsi"
+      },
+
+      "country": {
+        "title": "Country",
+        "description": "Specify the country"
+      },
+
+      "city": {
+        "title": "City",
+        "description": "Specify the city"
+      },
+
+      "deadline": {
+        "description": "Guyyaa galmee xumuraa ibsaa",
+        "label": "Guyyaa galmee xumuraa",
+        "placeHolder": "Guyyaa galmee xumura kaa'aa",
+        "title": "Guyyaa Galmee Xumuraa"
+      },
+      "location": {
+        "description": "Bakka heddumminaan filachuu ni dandeessu",
+        "title": "Bakka"
+      },
+      "isPaid": {
+        "title": "Kaffaltii",
+        "description": " Carraan kun kaffaltii qabaa?"
+      },
+      "startDate": {
+        "title": "Guyyaa hojii jalqabuu",
+        "description": "Guyyaa jalqabaa ifteessi"
+      },
+      "salary": {
+        "title": "Mindaa",
+        "description": "Mindaa maallaqaan ibsi",
+        "inputAreaPlaceholder": "1000"
+      },
+
+      "EndDate": {
+        "title": "Guyyaa hojii dhumaa",
+        "description": "Guyyaa hojii isa dhumaa ibsi"
+      },
+      "onboardingSession": {
+        "description": "Sagantaa marii jalqaba hirmaattoota waliin",
+        "inputAreaPlaceholder": "fkn. Galma AAU keessatti Ebla 18, 2023 tti geggeeffama",
+        "title": "Yoom fi Eessa"
+      },
+      "opportunityType": {
+        "description": "Gosa Carraa ibsaa",
+        "title": "Gosa Carraa"
+      },
+      "or": "Ykn",
+      "perksAndBenefits": {
+        "description": "Faayidaa addaa dhaabbanni keessan kennuuf jiru tarreessaa",
+        "inputAreaLabel": "Faayidaa adda Dabalaa",
+        "title": "Faayidaa addaa",
+        "type": {
+          "commuteStipend": "Kaffaltii geejibaa",
+          "internetPackage": "Paakeeji interneetaa",
+          "Salary / Compensation": "Kaffaltin"
+        }
+      },
+      "locationOnMap": {
+        "title": "Teessoo kaartaa irratti argamu",
+        "description": "Teessoo kee isa sirrii kaartaa irratti akeek"
+      },
+
+      "requiredSkills": {
+        "description": "Dandeettii barbaachisu itti dabalaa",
+        "inputAreaLabel": "Dandeettii Barbaachisu Dabalaa",
+        "title": "Dandeettii Barbaachisu"
+      },
+      "rolling": {
+        "description": "Carraan kun guyyaa galmee xumuraa dhaabbataa hin qabu.",
+        "title": "Itti fufinsaan"
+      },
+      "startEndDate": {
+        "description": "Guyyaa eegalaa fi xumuraa ibsaa",
+        "title": "Guyyaa Eegalee fi Xumuraa"
+      }
+    },
+    "pageTitle": "Carraa Maxxansuu",
+    "reviewSection": {
+      "categories": "Kaategoorii",
+      "deadline": "Guuyyaa Galmee Xumura",
+      "description": "Ibsa",
+      "idealCandidate": "Kaadhimamaa Filatamaa",
+      "isPaid": "Kaffalti",
+      "Yes": "Eeyyee",
+      "No": "Lakki",
+      "locations": "Tessoo",
+      "notProvided": "HIN KENNAMNE",
+      "opportunityType": "Gosa Carraa",
+      "perksAndBenefits": "Faayidaa fi Bu'aa",
+      "postedOn": "Yeroo Galmee",
+      "requiredSkills": "Dandeettiiwwan Barbaachisan",
+      "requirements": "Ulaagaalee",
+      "responsibilities": "Itti Gaafatamummaa",
+      "successPopupModal": {
+        "buttonText": "Okay",
+        "subTitle": "Fuula Tarreeffama Carraalee argachuuf  Tole isa jeedhu cuuqaasii",
+        "title": "Carraan Milkaa'inaan Uumame!"
+      },
+      "timeline": {
+        "endDate": "Guyyaa Xumuraa",
+        "startDate": "Guyyaa Eegalee",
+        "title": "Yeroo"
+      },
+      "city": "City",
+      "country": "Country",
+      "title": "Mirkaneessa",
+      "whenAndWhere": "Yoom & Eessa"
+    },
+    "saveButton": "Fooyya'iinsa Galmeessaa",
+    "successPopup": {
+      "buttonText": "Okay",
+      "subTitle": "Carraa hojii ilaaluuf 'Okay' tuqi",
+      "title": "Carraan Milkaa'inaan Fooyya'e"
+    }
+  },
+
+  "RepostOpportunityPage": {
+    "postedOn": "Guyyaa Maxxanfame",
+    "pageTitle": "Irra deebi'uun maxxansaa",
+    "opportunityTitle": "Mata Duree Carraa",
+    "startEndDate": {
+      "title": "Guyyaa Eegalaafi Xumuraa",
+      "description": "Guyyaa eegalaafi xumuraa ibsaa",
+      "placeHolder": "Reenjii Guyyaa Filadha"
+    },
+
+    "deadline": {
+      "title": "Guyyaa Galmee Xumuraa",
+      "description": "Guyyaa galmee xumuraa ibsaa",
+      "placeHolder": "GuSyyaa galmee xumuraa kaa'aa"
+    },
+    "or": "Yookan",
+
+    "rolling": {
+      "title": "Itti fufinsaan",
+      "description": "Carraan kun guyyaa galmee xumuraa dhaabbataa hin qabu."
+    },
+    "buttonText": "Maxxansaa"
+  },
+  "RoleSelectionPage": {
+    "pleaseUseTelegramOrMobile": "Akkawuntii banachuu yoo barbaaddan Telegraama Masar yookaan Applikeeshinii Mobayilii fayyadamaa",
+    "title": "Isiin bakka bu'aa dhaabbataa moo tola oolaa/ooltuu dha?",
+    "volunteer": {
+      "buttonText": {
+        "aboutMasar": "Waa'ee Masar",
+        "toMasarBot": "Telegraama Masar Galaa"
+      },
+      "message": "Akkawuntii tola ooltumaaf banachuu yoo barbaaddan Telegraama Masar yookaan Applikeeshinii Mobayilii fayyadamaa",
+      "title": "Marsariitii Kun Ammaaf Dhaabbilee Qofaaf tajaajila",
+      "welcome": "Baga Nagaan Dhuftan!"
+    }
+  },
+  "SideBarOptions": {
+    "changeEmail": "Imeelii Jijjiiraa",
+    "editProfile": "Profaayilii Fooyyessaa",
+    "helpCenter": "Gargaarsa",
+    "logout": "Keessaa bahaa",
+    "opportunities": "Carraalee",
+    "organizationProfile": "Profaayilii Dhaabbataa",
+    "otherOrganizations": "Dhaabbilee Biroo",
+    "settings": "Qindaa'inoota",
+    "volunteerPool": "Puuii Tola Ooltotaa",
+    "pricing": "Gatii fi Pirojeektoota",
+    "representatives": "bakka bu’oota"
+  },
+  "SignupPage": {
+    "alreadyHaveAccount": "Akkaawuntii ni qabduu?",
+    "confirmPassword": "Jecha darbii mirkaneessaa",
+    "confirmPasswordPlaceholder": "Jecha darbii irra-deebiin galchaa",
+    "continue": "Itti Fufaa",
+    "continueWithGoogle": "Googliin Itti Fufaa",
+    "emailAddressLabel": "Teessoo Imeelii",
+    "emailAddressPlaceholder": "Imeelii galchaa",
+    "fullName": "Maqaa Guutuu",
+    "login": "Seenaa",
+    "nameAreaPlaceholder": "Maqaa guutuu galchaa",
+    "organization": "Dhaabbata",
+    "passwordAreaLabel": "Jecha darbii",
+    "passwordAreaPlaceholder": "Jecha darbii galchaa",
+    "pleaseUseTelegramOrMobile": "Maqaa gargaaraa galmeessuuf galchii Telegraama Masar yookaan Applikeeshinii Mobayilii fayyadamaa",
+    "signupWithEmail": "Yookaan Imeeliidhaan banadha",
+    "terms": {
+      "acceptanceMessage": "Itti fufuuf yoo cuuqaastan , <ts>Haalawwaanii </ts> fi <pp>Dambilee</pp> dubbisuu keessanii fi fudhachuu keessan mirkaneessaa."
+    },
+    "title": "Akkaawuntii haaraa banadha",
+    "toMasarBot": "Telegraama Masar Galaa",
+    "volunteer": "Tola oolaa/ooltuu"
+  },
+  "tableInfo": {
+    "next": "kan itti anuu",
+    "of": "/",
+    "page": "Fuula",
+    "previous": "duraa",
+    "search": "Barbaadaa"
+  },
+  "ThreeStageStepper": {
+    "organizationSignup": {
+      "aboutOrganization": "Waa'ee Dhaabbata",
+      "organizationDetails": "Odeeffannoo Dhaabbata",
+      "review": "Mirkaneessa"
+    },
+    "postOpportunity": {
+      "additionalQuestions": "Gaafiwwan Dabablataa",
+      "opportunityDescription": "Ibsa Carraa",
+      "opportunityInformation": "Odeeffannoo Carraa",
+      "review": "Mirkaneessa"
+    },
+    "postOpportuntySteps": {
+      "step1": "Sadarkaa 1/4",
+      "step2": "Sadarkaa 2/4",
+      "step3": "Sadarkaa 3/4",
+      "step4": "Sadarkaa 4/4"
+    },
+    "steps": {
+      "step1": "Sadarkaa 1/3",
+      "step2": "Sadarkaa 2/3",
+      "step3": "Sadarkaa 3/3"
+    }
+  },
+  "underlineTabs": {
+    "Applicants": "Iyyatoota",
+    "Certificate": "Waraqaa Ragaa",
+    "Home": "Fuula Jalqabaa",
+    "NGOs": "Dhaabbilee",
+    "Opportunities": "Carraalee",
+    "Opportunities By Other NGOs": "Carraalee Dhaabatoota Biroo",
+    "Opportunity Details": "Odeeffannoo Carraa",
+    "Other Organizations": "Dhaabbilee Biroo",
+    "Profile": "Profaayilii",
+    "Rates and Reviews": "Sadarkaa fi Gamaggama",
+    "Reviews": "Gamagamoota",
+    "Volunteers": "Tola ooltota",
+    "Opportunities By Other Organizations": "Carraa dhaabbileen biroo maxxansan"
+  },
+  "updateEmailPage": {
+    "continueButtonText": "Itti fufi",
+    "emailFieldPlaceholder": "Imeelii haaraa galchaa",
+    "labels": {
+      "email": "Teessoo Imeelii"
+    },
+    "subtitle": "Salphaa ta’uu qaba, imeelii haaraa nuuf ergaa",
+    "title": "Imeelii Jijjiiruu barbaadduu?",
+    "verifiyEmail": {
+      "otpFieldLabel": "Koodii OTP Galcha",
+      "subtitle": "Lakkoofsa mirkaneessaa teessoo imeelii kan isiin nuuf kennitanin ergineerra. Imeelii keessan haaraa jijjiiruuf, lakkoofsa asitti galchaa.",
+      "title": "Imeelii Haaraa Mirkaneessaa"
+    }
+  },
+  "validationErrors": {
+    "Deadline is required": "Yeroo galmee xumura barbaachisaadha",
+    "Description cannot be empty": "Ibsi duwwaa ta'uu hin danda'u",
+    "Description cannot exceed 500 characters": "Ibsi qubee 500 ol ta'uu hin danda'u",
+    "Email is required": "Imeelii barbaachisa",
+    "Job End Date is required": "Guyyaa xumura barbaachisa",
+    "Full name is required": "Maaltu guutamuu qaba",
+    "Future Plans cannot be empty": "Karoora fuulduraa duwwaa ta'uu hin danda'u",
+    "Ideal Candidate description cannot exceed 500 characters": "Ibsi kaadhimamaa filatamaa qubee 500 ol ta'uu hin danda'u",
+    "Invalid email": "Imeelii sirrii hin taane",
+    "Location cannot be empty": "Bakka keessan barreessaa",
+    "Mission cannot be empty": "Ergama kessan barressaa",
+    "NGO Type needs to be a valid option": "Gosni dhaabbataa filatamu sirrii ta'uu qaba",
+    "Opportunity title is required": "Maqaan carraa barbaachisa",
+    "Opportunity type is required": "Gosni carraa barbaachisa",
+    "Organization name cannot be empty": "Maqaan dhaabbata duwwaa ta'uu hin danda'u",
+    "OTP is required": "Koodiin OTP barbaachisa",
+    "OTP must be 4 characters long": "Koodiin OTP lakkoofsa 4 qabaachuu qaba",
+    "Password is required": "Jechii iccitii barbaachisa",
+    "Passwords don't match": "Jechoonni iccitii wal faallessu",
+    "Primary phone number is not valid": "Lakkoofsi bilbila jalqabaa sirrii miti",
+    "Primary phone number is required": "Lakkoofsi bilbila jalqabaa barbaachisaa dha",
+    "Requirements cannot be empty": "Barbaachisummaa duwwaa ta'uu hin danda'u",
+    "Requirements cannot exceed 500 characters": "Barbaachisummaa herrega 500 ol ta'uu hin danda'u",
+    "Responsibilities cannot be empty": "Itti gaafatamummaan duwwaa ta'uu hin danda'u",
+    "Responsibilities cannot exceed 500 characters": "Itti gaafatamummaan herrega 500 ol ta'uu hin danda'u",
+    "Secondary phone number is not valid": "Lakkoofsi bilbila lammaffaa sirrii miti",
+    "Job Start Date is required": "Guyyaa jalqaba barbaachisa",
+    "String must contain at least 1 character(s)": "yoo xiqqate  qubee tokko qabaachuu qaba",
+    "String must contain at least 6 character(s)": "Jecha darbii keessa herrega xiqqate 6 qabaachuu qaba",
+    "Vision cannot be empty": "Muul'ata keessan barreessaa",
+    "When and Where information is required": "Odeeffannoon yoom fi eessaa barbaachisaadha",
+    "Year Founded needs to be a valid option": "Barri hundeeffamaa filannoon sirrii ta'uu qaba",
+    "Year must be an integer between 1800 and the current year": "Barri hundeeffamaa bara 1800 jalqabee haanga ammaatti ta'u qaba",
+    "You need to select at least one Required Skill": "Dandeettii barbaachisaa tokko filachuu qabdu",
+    "You need to select at least one Category": "Yoo xiqqaate kaateegorii tokko filachuu qabdu",
+    "You need to select at least one Location": "Yoo xiqqaate bakka tokko filachuu qabdu",
+    "You need to select at least one Organization Area": "Yoo xiqqaate kutaa dhaabbata tokko filachuu qabdu",
+    "You need to select at least one language": "Yoo xiqqaate afaan tokko filachuu qabda"
+  },
+  "ViewOpportunityInfoPage": {
+    "closeOpportunity": {
+      "buttonText": "Cufi",
+      "confirmationPopup": {
+        "subTitle": "Erga maxxansii kun cufamuee, hirmaatooti carraa kanaaf galmaa'uu hin danda'an.",
+        "title": "Mirkaneeffattanittu"
+      }
+    },
+    "NGO_TYPE_OPTIONS": {
+      "International": "Idil-addunyaa",
+      "Local": "Biyya keessa"
+    },
+    "OP_TYPE_OPTIONS": {
+      "Hybrid": "Qaamaanifi Fageenyaan",
+      "In Person": "Qaamaan",
+      "Remote": "Fageenyaan"
+    },
+    "OP_PAID_OPTIONS": {
+      "Yes": "Eeyyee",
+      "No": "Lakki"
+    },
+    "openOpportunity": {
+      "buttonText": "Irra deebi'uun banaa",
+      "confirmationPopup": {
+        "subTitle": "Maxxansii kun erga irra deebi'uun banamee, hirmaatooti carraa kanaaf galmaa'uu ni danda'u.",
+        "title": "Mirkaneeffattanittu"
+      }
+    },
+    "statusChangePopup": {
+      "accepted": "Eeyyamame",
+      "applicants": "Iyyatoota",
+      "cancelButton": "Haqi",
+      "deadline": "Guyyaa galmee xumuraa",
+      "declined": "Haafoo",
+      "inReview": "Gamagamarra"
+    },
+    "tabs": {
+      "applicants": "Iyyatoota",
+      "certificate": "Waraqaa Ragaa",
+      "opportunityDetails": "Odeeffannoo Carraa"
+    },
+    "topSection": {
+      "deadline": "Guyyaa Galmee Xumuraa ",
+      "editButtonText": "Carraa Fooyyessaa",
+      "opportunityType": "Gosa Carraa",
+      "postedOn": "Guyyaa Maxxanfame"
+    },
+    "repostOpportunity": {
+      "buttonText": "Irra deebi'uun maxxansaa",
+      "confirmationPopup": {
+        "title": "Mirkaneeffattanittu",
+        "subTitle": "Maxxansi kun erga irra deebi'in maxxamfamee, akka carraa haaraatti tarree caraalee irratti ni mul'ata."
+      }
+    }
+  },
+  "VolunteerHomePage": {
+    "buttonText": {
+      "aboutMasar": "Waa'ee Masar",
+      "toMasarBot": "Telegraama Masar Galaa"
+    },
+    "message": "Ammaaf marsariitii keenya fooyyeessuuf hojjechaa jirra. Yeroo kanatti, carraalee tola ooltuummaa argachuuf appliikeeshinii mobayilii yookaan Telegraama fayyadamaa.",
+    "welcome": "Baga Nagaan Deebitanii Dhuftan, {name}!"
+  },
+  "volunteerPool": {
+    "details": {
+      "subtitle": "Kun tarree tola ooltota yeroo kamittu waamicha keessan fudhachuuf waligalandha",
+      "volunteers": "Tola ooltota"
+    },
+    "of": "/",
+    "page": "fuula",
+    "tableFilters": {
+      "all": "hundaa",
+      "interested": "fedhii qabu",
+      "saved": "qusatame",
+      "myPool": "myPool jedhu"
+    },
+    "tableHeaders": {
+      "gender": "Saala",
+      "interestInYourCompany": "Fedhii dhaabbata keessan irratti",
+      "skills": "dandeettiwwan",
+      "user": "Fayadamaa"
+    },
+    "title": "Tola ooltota jiran"
+  },
+  "volunteerSide": {
+    "applicationPage": {
+      "button": "Hirmaadhaa",
+      "description": "Har'a galmaa'uudhaan imala keessan ammuma jalqaba!",
+      "title": "Sirna galmee keessan salphisuuf qophooftani?"
+    },
+    "elevatePage": {
+      "button": "Har’a Galmaa'aa",
+      "description": "Masar, teknooloojii qacarrii fi qunnamtii salphaa godhu fayyadamuun akkaataa tola ooltonni dhaabbilee miti mootummaa waliin walqunnaman jijjiira",
+      "subtitle1": "Pirojektoota Dhiibbaa Qaban Agarsiisa",
+      "subtitle1description": "Ilaalcha dhaabbata keessani olkaasaa: proojektoota, milkaa’ina, fi carraalee qabdan tola ooltota biraan gahaa.",
+      "subtitle2": "Qorannoo Hojjettoota Salphisaa",
+      "subtitle2description": "Galmee ilaali, ragaa kenni, fi hojjettoota filachuu, eeyamamuu, yookaan haquu sirna salphaan bulchi.",
+      "title1": "Masar waliin",
+      "title2": "Bulchiinsa Tola Ooltummaa",
+      "title3": "Keessan Olkaasaa"
+    },
+    "experiancePage": {
+      "card1": {
+        "description1": "Namoota dhuunfaa quuqama qaban",
+        "description2": "dhaabbilee miti mootummaa waliin wal qunnamsiisna, ",
+        "description3": " muuxannoo tola ooltummaa haala qindoomina qabun ni dhiheessina.",
+        "title1": "Tola ooltummaa",
+        "title2": "haala salphaan"
+      },
+      "card2": {
+        "description1": "Namoota dhuunfaa innisheetivoota",
+        "description2": "adda addaa akka deeggaranfi",
+        "description3": "hawaasa addunyaa akka guddisan jajjabessu.",
+        "title1": "Sababoota",
+        "title2": "Addaddaa"
+      },
+      "card3": {
+        "description1": "Dhaabbilee miti mootummaa haala salphaan",
+        "description2": "argachuu fi tola ooltota jijjiram addunyaarra ",
+        "description3": "fiduuf hojeetan walin walqunnamsisa.",
+        "title1": "Hawaasa",
+        "title2": "Jajjabeessuu"
+      },
+      "title1": "Adeemsa Sirna ",
+      "title2": "Galmeessaa Salphaa",
+      "title3": "Masar Waliin Qabaadha"
+    },
+    "footer": {
+      "contactUs": "Nu Quunnamaa",
+      "copyRight": "2024 Masar. Mirgi seeraan kan eegame.",
+      "description": "Masar waltajjii fayyadamtootaaf mijatu yoo ta’u, dhaabbileefi dargaggoota carrraawwan hojii garagaraa barbaadan waliin kan walqunnamsiisudha. Qulqullinni addaa Masar, waltajjii giddugaleessa ta’e, adeemsa bulchiinsa dhaabbilee sirreessuu fi dhaabbilee fi dargagoota gidduutti qunnamtii gahumsa qabu guddisuu keessatti argama.",
+      "resourcesButton": {
+        "aboutUs": "Waa'ee Keenya",
+        "getTheApp": "Appilikeeshiini aargadha",
+        "title": "Qabeenya",
+        "tryTelegramBot": "Botii Telegram Fayyadamaa"
+      },
+      "quickContact": "Ergaa saffisaa "
+    },
+    "homePage": {
+      "browseOrganizations": "Dhaabbilee Ilaalaa",
+      "connect": "Qunnamuu,",
+      "description": "Masar namoota fedhii qaban dhaabbilee miti mootumma waliin walitti walqunnamsisuudhaan hawaasa addunyaa mara jajjabeessa.",
+      "findOpportunities": "Carraa barbaadaa",
+      "grow": "Guddachuu",
+      "login": "Seenaa",
+      "serve": "Tajaajiluu, ",
+      "signUp": "Galmaa'aa",
+      "startHereButton": "Asitti Jalqabaa"
+    },
+    "impactPage": {
+      "button": "Carraa Barbaadaa",
+      "subtitle1": "Masar barbaachisummaa marsaa hawaasummaa adda addaa fi haasaa afaaniin haquudha.",
+      "subtitle2": "Marsariiti keenya irra",
+      "subtitle3": "carraa garaagaraafi bal'aa argachuuf salphisaa.",
+      "title1": "Bu'aa gaarii hawaasa keessan",
+      "title2": "keessatti fiduuf carraa",
+      "title3": "hojii tola ooltummaa barbaadaa jirtuu?"
+    },
+    "makeDifferencePage": {
+      "button": "Appii Buusi",
+      "description": "Dhaabbilee miti mootummaa walin wal barun, carraalee dandeettii fi fedhii keessan waliin wal simatan argadha ",
+      "description1": "Hojii tola ooltummaa adda addaa fedhii fi dandeettii keessan waliin simatu argadha",
+      "description2": "Carraalee tola ooltummaa irratti akka salphatti galmaa'uun galmee keesssan bakka tokkotti hordofaa",
+      "description3": "Namoota fi dhaabbilee kutannoo qaban kanneen addunyaa gaarii uumuuf of kennan keessa hirmaataa ta'aa.",
+      "subtitle1": "Carraawwan Argadha",
+      "subtitle2": "Galmee Salphaa",
+      "subtitle3": "Hawaasa Jijjiiramaa",
+      "title1": "Jijjirama ",
+      "title2": "Fiidaa"
+    },
+    "navBar": {
+      "aboutUs": "Waa'ee Keenya",
+      "applications": "Galmee",
+      "bookMark": "Gulaallii ",
+      "browseOrganizations": "Dhaabbilee Ilaalaa",
+      "findOpportunities": "Carraa barbaadaa",
+      "home": "Fuula Jalqabaa",
+      "logIn": "Seenaa",
+      "logOut": "Keessaa bahaa",
+      "MyBookMark": "Gulaallii koo",
+      "profile": "Profaayilii",
+      "signUp": "Galmaa'aa"
+    }
+  },
+  "LandingPage": {
+    "heroSection": {
+      "moto": {
+        "serve": "Tajaajiluu,",
+        "connect": "Qunnamuu,",
+        "grow": "Guddachuu"
+      },
+      "description": "Hawaasa ofii of keennuun tajaajiluu, dargaggoota kaayyoo issaani waliin walitti fiduun egeree ifa ta'eef waliin guddachuu.",
+      "btn": {
+        "findOpportunities": "Carraa barbaadaa",
+        "postOpportunities": "Carraa Maxxansaa"
+      }
+    },
+
+    "forOrganizations": {
+      "title": {
+        "for": "Dhaabbileef",
+        "organizations": ""
+      },
+      "text1": "Masar keessatti rakkolee dhaabbileen ergama isaanii babal'isuu fi namoota dhuunfaa ogummaa qaban qacaruuf isaan mudatu ni hubanna.",
+      "text2": "Kanaafis pilaatfoormiin keenya tajaajiloota kanneen armaan gadii ni laata",
+      "cards": {
+        "expandYourReach": {
+          "title": "Dhaqqabummaa Keessan Babal'istan",
+          "description": "Fayyadamtoota Masar dargagoota dandeetti qaban haala saffisaan guddachaa jiru kallattin argatu."
+        },
+        "manageOpportunities": {
+          "title": "Carraalee Keessan Hordoofaatan",
+          "description": "Carraalee keessa haala salphaan maxxansuu fi hordoffii goochu isiin dandeessisa."
+        },
+        "donationChannel": {
+          "title": "Chaanaalii Arjooma Ittin Argattan",
+          "description": "Dhaabbila tola-oltummaaf fillannoo chaanaali arjoomaa dabalataa ni aargamsiisa."
+        }
+      }
+    },
+
+    "GetYourIdeal": {
+      "title": {
+        "main": "Kaadhimamaa filatamaa keessan",
+        "steps": "tarkaanfii salphaa 3n argadha"
+      },
+      "cards": {
+        "registerOrg": {
+          "title": "Dhaabbata Keessan Galmeessaa",
+          "description": "Dhaabbata keessan carraa barbaadootaa keenya wajjiin wal barsiisuuf galmeessaa."
+        },
+        "postOpportunities": {
+          "title": "Carraa Maxxansaa",
+          "description": "Gargaarsa barreessaa AI keenya fayyadamuun haala salphaan carraa ykn gita hojii qabdan maxxansaa."
+        },
+        "manageApplications": {
+          "title": "Carraa Hordoofaa",
+          "description": "Iyyannoowwan salphaatti ilaaluun fi gulaaluun adeemsa qaccarrii keessani hordoofaa."
+        }
+      }
+    },
+
+    "ForVolunteers": {
+      "words": {
+        "for": "Carraa",
+        "opportunitySeekers": "Barbaadoottaaf"
+      },
+      "paragraph": {
+        "text1": "Carraa dandeetti, fedhii fi yeroo keessan wajjiin walsimu argadha.",
+        "text2": "Masar tajaajiloota armaan gadii isiinif laata:"
+      },
+      "cards": {
+        "discoverOpportunities": {
+          "title": "Carralee Garagaraa",
+          "description": "Dhaabbilee hedduu fi carraalee hojii adda adda argattu."
+        },
+        "aiAssistance": {
+          "title": "Gargaarsa AI",
+          "description": "AI fayyadamuun carraalee gara garaa haals salphaan argachuu."
+        },
+        "trackApplications": {
+          "title": "Hordooffii Iyyannoo",
+          "description": "Iyyannoowwanii fi deebii kennaman dadhabbii malee hordofuu."
+        }
+      }
+    },
+
+    "DownloadMobile": {
+      "title": "Applikeeshiini buufadha",
+      "description": "Carrawwaan quba haarka keessan jallatti."
+    },
+
+    "BrowseOpportunity": {
+      "title": {
+        "text1": "Carraalee gosa gosaan",
+        "text2": "ilaalaa"
+      },
+      "description": "Carraa ogummaa, fedhii fi yeroo keessan wajjin walsimu argadha."
+    },
+
+    "ForThrive": {
+      "title": {
+        "text1": "Hawaasa addunyaa",
+        "text2": "ijaruuf hojenna"
+      },
+      "description": "Masar hawaasa addunyaa carraan dargaggootaaf dhaqqabamaa, hunda hammatee fi dhiibbaa uumuu danda'u ijaaruuf hojeeta."
+    },
+
+    "RecentOpportunity": {
+      "title": "Carraalee Dhihoo Maxxanan",
+      "description": "Carraalee dandeettii, fedhii fi yeroo keessan wajjin walsiman argadha.",
+      "seeAll": "Hunda Ilaalaa"
+    },
+
+    "FactsAndFigures": {
+      "community": "Dhiibbaa",
+      "impact": "Hawaassummaa",
+      "description": "Hawaasa hirmaannaan hundi hiika qabuu fi hawaasa hunda hammateef gumaachu uumuudhaan namoota jijjiirama fidan humneessuu.",
+      "facts": {
+        "orgRegistered": "Dhaabbilee Galmaa'aan",
+        "opportunitySeekers": "Carraa barbaaddoota",
+        "opportunitiesConnected": "Hariiroo Hojii Milkaa'aan"
+      }
+    },
+
+    "OurPartners": {
+      "title": {
+        "our": "Miltoowwan",
+        "partners": "Keenya"
+      },
+      "description": "Dhaabbilee jijjiirama hiika qabu irratti hojjeetan waliin tumsa gochuun keenyaan ni boonna."
+    }
+  }
+}

@@ -1,0 +1,1211 @@
+{
+  "Index": {},
+
+  "AkilMotto": {
+    "title": "Serve, Connect, Grow"
+  },
+
+  "LoginPage": {
+    "title": "Welcome!",
+    "welcome": "Welcome",
+    "continueWithGoogle": "Continue with Google",
+    "loginWithEmail": "or log in with email",
+    "username": "Username",
+    "emailAddressLabel": "Email Address",
+    "emailAddressPlaceholder": "Enter your email address",
+    "passwordAreaPlaceholder": "Enter your password",
+    "passwordAreaLabel": "Password",
+    "forgotPassword": "Forgot Password?",
+    "submit": "Login",
+    "noAccount": "Don’t have an account yet?",
+    "signup": "Sign Up"
+  },
+  "ForgotPasswordPage": {
+    "title": "Forgot Password?",
+    "message": "Don’t worry, it happens. Just send us your Email",
+    "emailAddressLabel": "Email Address",
+    "emailAddressPlaceholder": "Enter your email address",
+    "continue": "Continue",
+    "resetPassword": {
+      "title": "Reset your password",
+      "verificationMessage": "We've sent a verification code to the email address you provided. To reset your password, please enter the code along side your new password here.",
+      "otpFieldLabel": "Enter OTP",
+      "newPasswordFieldLabel": "New Password",
+      "newPasswordFieldPlaceholder": "Enter New Password",
+      "confirmPasswordFieldLabel": "Confirm Password",
+      "confirmPasswordFieldPlaceholder": "Re-enter Password",
+      "continue": "Continue"
+    }
+  },
+
+  "SignupPage": {
+    "title": "Create an Account",
+    "pleaseUseTelegramOrMobile": "Please Use HOOPOE Telegram Bot or Mobile Application to Sign Up as a Volunteer",
+    "toAkilBot": "Goto HOOPOE Telegram Bot",
+    "organization": "Organization",
+    "volunteer": "Volunteer",
+    "continueWithGoogle": "Continue with Google",
+    "signupWithEmail": "or sign up with email",
+    "fullName": "Full Name",
+    "nameAreaPlaceholder": "Enter your full name",
+    "emailAddressLabel": "Email Address",
+    "emailAddressPlaceholder": "Enter your email address",
+    "passwordAreaLabel": "Password",
+    "passwordAreaPlaceholder": "Enter your password",
+
+    "confirmPassword": "Confirm Password",
+    "confirmPasswordPlaceholder": "Re-enter Password",
+
+    "alreadyHaveAccount": "Already have an account?",
+    "login": "Log In",
+    "continue": "Continue",
+    "terms": {
+      "acceptanceMessage": "By clicking 'Continue', you acknowledge that you have read and accept the <ts>Terms of Service</ts> and <pp>Privacy Policy</pp>."
+    }
+  },
+
+  "RoleSelectionPage": {
+    "title": "Are you an Organization Representative or an Opportunity Seeker?",
+    "pleaseUseTelegramOrMobile": "Please Use HOOPOE Telegram Bot or Mobile Application to Sign Up as a Volunteer",
+    "OpportunitySeekerDesc": "Choose this option if you’re looking to explore opportunities",
+    "OrganizationRepresentativeDesc": "Choose this option if you’re representing an organization",
+    "volunteer": {
+      "welcome": "Welcome !",
+      "title": "This Website is Currently Only for Organizations",
+      "message": "Please Use HOOPOE Telegram Bot or Mobile Application to Sign Up as a Volunteer",
+      "buttonText": {
+        "toAkilBot": "Go to HOOPOE Telegram Bot",
+        "aboutAkil": "About HOOPOE"
+      }
+    }
+  },
+
+  "VolunteerHomePage": {
+    "welcome": "Welcome back, {name} !",
+    "message": "We're currently working on improving our website to be accessible for volunteers like you. In the meantime, we recommend using our mobile app or Telegram bot to stay connected and access volunteering opportunities",
+    "buttonText": {
+      "toAkilBot": "Goto HOOPOE Telegram Bot",
+      "aboutAkil": "About HOOPOE"
+    }
+  },
+
+  "AboutUsPage": {
+    "aboutMasar": {
+      "title": "About HOOPOE",
+      "description": "HOOPOE is a centralized platform designed to connect youth with a wide range of opportunities, including jobs, internships, and volunteering roles. It bridges the gap between organizations seeking talent and young individuals looking for experiences that match their skills and passions. By providing a unified space, HOOPOE simplifies the process of finding and applying for opportunities, making it easier for youth to advance their careers and make meaningful contributions to their communities, while also enabling organizations to efficiently showcase their missions, list opportunities, and manage recruitment."
+    },
+    "mission": {
+      "title": "Our Mission",
+      "description": "At HOOPOE, our mission is to transform how organizations connect with talented youth by offering an innovative platform that streamlines the recruitment process. We are dedicated to overcoming the challenges organizations face in finding passionate and skilled individuals for their meaningful initiatives. Our goal is to make recruitment simpler and more effective, eliminating time-consuming hurdles so organizations can concentrate on advancing their vital missions."
+    },
+
+    "vision": {
+      "title": "Our Vision",
+      "description": "We envision a world where everyone can find and engage with a wide range of opportunities that align with their skills and passions. HOOPOE thrives to build a global community where opportunities are accessible, inclusive, and impactful for youth."
+    },
+
+    "aboutA2SV": {
+      "title": "Who We Are",
+      "description": "We're a dynamic team of ten software and electrical engineers. Each of us brings a unique perspective to the table, rooted in a deep understanding of the challenges our communities face. Our journey is amplified by the guidance of seasoned mentors, who not only bring decades of industry experience but also share our commitment to leveraging technology for social good."
+    },
+
+    "contactUsForm": {
+      "title": "Contact Us",
+      "nameAreaLabel": "Name",
+      "emailAddressLabel": "Email",
+      "messageAreaLabel": "Message",
+      "submitButtonText": "Submit",
+      "errorMessages": {
+        "nameIsRequired": "Name is required",
+        "emailIsRequired": "Email is required",
+        "message": "Please leave a message."
+      }
+    },
+    "loginAsAnOrganization": "Login as an Organization",
+    "copyright": "All Rights Reserved."
+  },
+
+  "OrganizationSignupPage": {
+    "organizationDetailsSection": {
+      "basicInformation": {
+        "title": "Basic Information",
+        "description": "This is organization information that you can update anytime."
+      },
+      "organizationLogo": {
+        "title": "Organization Logo",
+        "description": "This image will be shown publicly as your organization's logo.",
+        "uploadImageAreaText": "<upload>Click to upload</upload> or drag and drop <imageForm>SVG, PNG, JPG or GIF (max. 400 x 400px)</imageForm> "
+      },
+
+      "organizationDetails": {
+        "title": "Organization Details",
+        "description": "Fillout your organization's core information to users by filling up organization details.",
+        "inputAreaLabels": {
+          "organizationName": "Organization Name",
+          "shorthandName": "Shorthand Name",
+          "oldName": "Old Name",
+          "location": "Location",
+          "operationalReach": "Operational Reach",
+          "organizationType": "Organization Type",
+          "yearFounded": "Year Founded",
+          "areaOfCause": "Area of Cause",
+          "googleMaps": "Google Maps",
+          "locationDetails": "Location on Google Map",
+          "locationDetailsDescription": "To ensure the accuracy of your location for our platform, please pinpoint your exact location",
+          "donation": "Add your Donation Information",
+          "chooseBank": "Choose Bank",
+          "bankInfo": "Account Number",
+          "donateWebsite": "Donation Website Link",
+          "addMoreBank": "Add More Bank",
+          "remove": "Remove"
+        }
+      },
+
+      "contactInformations": {
+        "title": "Contact Information",
+        "description": "Give us your organization's phone number and email. It will help in advancing your community.",
+        "inputAreaLabels": {
+          "primaryPhoneNumber": "Primary Phone Number",
+          "secondaryPhoneNumber": "Secondary Phone Number",
+          "emailAddress": "Email Address"
+        }
+      }
+    },
+
+    "aboutOrganizationSection": {
+      "Invalid url": "Invalid url",
+      "aboutOrganization": {
+        "title": "About Organization",
+        "description": "Provide a concise overview of how your organization came to be, the foundational values it stands upon, and the key impact areas of your work."
+      },
+      "mission": {
+        "title": "Mission",
+        "description": "Describe the core mission of your organization - the primary purpose that motivates your team and guides your initiatives."
+      },
+
+      "vision": {
+        "title": "Vision",
+        "description": "Outline the future you are working towards through your organization's efforts. What change or impact do you aim to achieve in the long term?"
+      },
+
+      "futurePlan": {
+        "title": "Future Plan",
+        "description": "Detail the upcoming goals, projects, or strategies your organization plans to implement in order to move closer to achieving its vision."
+      },
+      "certificate": {
+        "title": "Business  License",
+        "description": "UPlease attach your business legal documents for our records and verification. Please note that these documents are not required for any publication rather diligence and business entity verification."
+      },
+      "organizationSocials": {
+        "title": "Organization Socials",
+        "description": "List your organization's active social media profiles and website URL to facilitate connections, updates, and community engagement."
+      },
+
+      "inputAreaLabels": {
+        "description": "Description",
+        "mission": "Mission",
+        "vision": "Vision",
+        "futurePlan": "Future Plan",
+        "facebook": "Facebook",
+        "website": "Website",
+        "linkedIn": "LinkedIn",
+        "telegram": "Telegram",
+        "whatsapp": "Whatsapp",
+        "instagram": "Instagram"
+      }
+    },
+
+    "reviewSection": {
+      "notProvided": "Not Provided",
+      "labelTitles": {
+        "facebook": "Facebook",
+        "linkedIn": "LinkedIn",
+        "telegram": "Telegram",
+        "website": "Website",
+        "whatsapp": "Whatsapp",
+        "instagram": "Instagram",
+        "primaryPhoneNumber": "Primary Phone Number",
+        "secondaryPhoneNumber": "Secondary Phone Number",
+        "email": "Email",
+        "oldName": "Old Name",
+        "ngoType": "Operational Reach",
+        "organizationType": "Organization Type",
+        "yearFounded": "Founded",
+        "location": "Location",
+        "contact": "Contacts",
+        "socialMedia": "Social Media",
+        "areaOfCause": "Area of Cause",
+        "about": "About",
+        "vision": "Vision",
+        "mission": "Mission",
+        "futurePlan": "Future Plan",
+        "googleMaps": "Google Maps",
+        "certificateOfRegistration": "Certificate of Registration"
+      }
+    },
+
+    "successPopup": {
+      "title": "Thank you for  registering on HOOPOE",
+      "subTitle": "Please wait until we verify your request. We will send you email notification after we verify your organization.",
+      "buttonText": "Okay"
+    },
+
+    "buttonText": {
+      "next": "Next",
+      "back": "Back",
+      "finish": "Finish",
+      "logout": "Logout"
+    }
+  },
+
+  "organizationDashboard": {
+    "title": "Opportunity Review",
+    "description": "Here are list of opportunities posted by you.",
+    "chartTitle": "Daily Applicants",
+    "chartSubTitle": "View the number of applicants per day",
+    "Applicants Review": "Applicants Review",
+    "Applicants Review Graph": "Applicants Status",
+    "opportunityCard": {
+      "open": "Open Opportunities",
+      "closed": "Closed Opportunities",
+      "all": "All Opportunities"
+    }
+  },
+
+  "editOrganizationProfilePage": {
+    "title": "Edit Profile",
+    "basicInformation": {
+      "title": "Basic Information",
+      "description": "This is organization information that you can update anytime."
+    },
+    "organizationLogo": {
+      "title": "Organization Logo",
+      "description": "This image will be shown publicly as company logo."
+    },
+    "certificate": {
+      "title": "Certificate of Registration",
+      "description": "Upload your organization's certificate of registration or any other relevant document like Acknowledgment Letter from the government."
+    },
+    "buttonText": "Save",
+    "successPopup": {
+      "title": "Profile Updated Successfully",
+      "subTitle": "Click Okay to see your profile",
+      "buttonText": "Okay"
+    }
+  },
+
+  "PostOpportunityPage": {
+    "pageTitle": "Post Opportunity",
+    "detailsSection": {
+      "details": {
+        "title": "Details",
+        "description": "Provide detailed information about the opportunity, including its title, description, requirements, responsibilities, ideal candidate profile, and category."
+      },
+      "opportunityTitle": {
+        "title": "Title",
+        "description": "Provide a clear and concise title that describes a single position.",
+        "inputAreaPlaceholder": "e.g. English Tutor"
+      },
+
+      "opportunityDescription": {
+        "title": "Description",
+        "description": "Give a detailed description of the opportunity, focusing on the role and its impact.",
+        "inputAreaPlaceholder": "e.g. Join our team as a Volunteer English Tutor, helping learners enhance their English language skills in reading, writing, speaking, and listening."
+      },
+
+      "requirements": {
+        "title": "Requirements",
+        "description": "List the essential qualifications or skills needed for the position.",
+        "inputAreaPlaceholder": "e.g. Proficiency in English language"
+      },
+
+      "responsibilities": {
+        "title": "Responsibilities",
+        "description": "Define the key tasks and duties associated with the position.",
+        "inputAreaPlaceholder": "e.g. Teaching grammar, vocabulary, pronunciation, and conversation skills"
+      },
+
+      "idealCandidate": {
+        "title": "Ideal Candidate",
+        "description": "Describe the ideal candidate's qualifications and background for the role.",
+        "inputAreaPlaceholder": "e.g. Background in English language teaching or related field"
+      },
+
+      "opportunityVisibility": {
+        "title": "Opportunity Visibility",
+        "description": "Choose the visibility for your opportunity, Select 'Private' or 'Public."
+      },
+      "privateOpportunity": {
+        "title": "Add Candiadte Emails",
+        "description": "Specify email addresses of users who can view this private opportunity. Separate them with commas.",
+        "inputAreaPlaceholder": "e.g. jane@example.com, john@example.com"
+      },
+
+      "opportunityVisibilityOptions": {
+        "Private": "Private",
+        "Public": "Public"
+      },
+
+      "categories": {
+        "title": "Categories",
+        "description": "Select or input the relevant categories that best describe this opportunity.",
+        "inputAreaPlaceholder": "e.g. Language Education, Volunteering",
+        "label": "Select Opportunity Categories"
+      },
+
+      "fields": {
+        "title": "Title",
+        "description": "Description",
+        "requirements": "Requirements",
+        "responsibilities": "Responsibilities",
+        "idealCandidate": "Ideal Candidate",
+        "categories": "Select Opportunity Categories"
+      }
+    },
+
+    "opportunityInformationSection": {
+      "or": "Or",
+      "basicInformation": {
+        "title": "Basic Information",
+        "description": "Provide comprehensive information about the opportunity, ensuring clarity on key aspects and expectations."
+      },
+
+      "engagementType": {
+        "title": "Opportunity Type",
+        "description": "Specify the Opportunity Type"
+      },
+
+      "opType": {
+        "title": "Work Location",
+        "description": "Specify the work location"
+      },
+      "startDate": {
+        "title": "Start Date",
+        "description": "Specify the start date"
+      },
+
+      "EndDate": {
+        "title": "End Date",
+        "description": "Specify the end date"
+      },
+
+      "isPaid": {
+        "title": "Salary / Compensation",
+        "description": " Is it a paid opportunity?"
+      },
+
+      "salary": {
+        "title": "Salary",
+        "description": "Specify the salary for the opportunity with the currency",
+        "inputAreaPlaceholder": "1000"
+      },
+
+      "deadline": {
+        "title": "Application Deadline",
+        "description": "Specify the deadline to submit an application",
+        "label": "Deadline",
+        "placeHolder": "Set the deadline"
+      },
+
+      "rolling": {
+        "title": "Rolling",
+        "description": "This opportunity doesn't have a specific deadline and duration."
+      },
+
+      "location": {
+        "title": "City",
+        "description": "Specify the city where the opportunity is located, you can select multiple cities"
+      },
+
+      "locationOnMap": {
+        "title": "Location on Map",
+        "description": "To ensure the accuracy of your location for our platform, please pinpoint your exact location"
+      },
+
+      "requiredSkills": {
+        "title": "Required Skills",
+        "description": "Specify the skills the applicant needs to have for the opportunity",
+        "inputAreaLabel": "Add Skill"
+      },
+      "perksAndBenefits": {
+        "title": "Perks and Benefits",
+        "description": "Please list the perks and benefits that your organization will offer in this section.",
+        "inputAreaLabel": "Add Perks and Benefits"
+      },
+      "onboardingSession": {
+        "title": "When & Where",
+        "description": "Provide details about the onboarding session, including the date, time, and location.",
+        "inputAreaPlaceholder": "e.g. The event will take place  18th Jan, 2023 in AAU Auditerium"
+      }
+    },
+
+    "reviewSection": {
+      "title": "Review",
+      "notProvided": "Not Provided",
+      "isPaid": "Salary / Compensation",
+      "Yes": "Yes",
+      "No": "No",
+      "postedOn": "Posted On",
+      "deadline": "Deadline",
+      "engagementType": "Opportunity Type",
+      "opType": "Work Location",
+      "description": "Description",
+      "requirements": "Requirements",
+      "responsibilities": "Responsibilities",
+      "idealCandidate": "Ideal Candidate",
+      "whenAndWhere": "When & Where",
+      "locationOnGoogleMap": "Location on Google Map",
+      "timeline": {
+        "title": "Duration",
+        "startDate": "Start Date",
+        "endDate": "End Date"
+      },
+      "cities": "Cities",
+      "categories": "Categories",
+      "requiredSkills": "Required Skills",
+      "perksAndBenefits": "Perks and Benefits",
+      "successPopupModal": {
+        "title": "Opportunity Created Successfully !",
+        "subTitle": "Click Okay to see the opportunity listing page",
+        "buttonText": "Okay"
+      }
+    },
+
+    "saveButton": "Save Changes",
+    "successPopup": {
+      "title": "Opportunity Updated Successfully",
+      "subTitle": "Click Okay to see the opportunity",
+      "buttonText": "Okay"
+    }
+  },
+
+  "RepostOpportunityPage": {
+    "postedOn": "Posted On",
+    "pageTitle": "Repost Opportunity",
+    "opportunityTitle": "Opportunity Title",
+    "startEndDate": {
+      "title": "Start and End Date",
+      "description": "Specify the start and end date",
+      "placeHolder": "Select a date range"
+    },
+
+    "deadline": {
+      "title": "Application Deadline",
+      "description": "Specify the deadline to submit an application",
+      "placeHolder": "Set the deadline"
+    },
+    "or": "Or",
+
+    "rolling": {
+      "title": "Rolling",
+      "description": "This is for opportunity that does not have a specific deadline."
+    },
+    "buttonText": "Repost"
+  },
+
+  "ThreeStageStepper": {
+    "steps": {
+      "step1": "Step 1/3",
+      "step2": "Step 2/3",
+      "step3": "Step 3/3"
+    },
+    "postOpportuntySteps": {
+      "step1": "Step 1/4",
+      "step2": "Step 2/4",
+      "step3": "Step 3/4",
+      "step4": "Step 4/4"
+    },
+
+    "organizationSignup": {
+      "organizationDetails": "Organization Profile Setup",
+      "aboutOrganization": "Organization Details",
+      "review": "Review"
+    },
+
+    "postOpportunity": {
+      "opportunityDescription": "Opportunity Details",
+      "opportunityInformation": "Opportunity Information",
+      "additionalQuestions": "Additional Questions",
+      "review": "Review"
+    }
+  },
+
+  "orgOpportunities": {
+    "pageTitle": "Opportunity Listings",
+    "subTitle": "View and manage the opportunities posted by your organization here",
+    "headerButtonText": "Post an Opportunity",
+    "tableHeaders": {
+      "role": "Role",
+      "status": "Status",
+      "datePosted": "Date Posted",
+      "deadline": "Deadline",
+      "engagementType": "Opportunity Type",
+      "opportunityType": "Opportunity Type",
+      "applicants": "Applicants",
+      "title": "Opportunities",
+      "subTitle": "Information about opportunities in your organization"
+    }
+  },
+
+  "orgProfile": {
+    "title": "Organization Profile",
+    "headerButtonText": "Edit Details"
+  },
+
+  "SideBarOptions": {
+    "opportunities": "Opportunities",
+    "organizationProfile": "Organization Profile",
+    "pricing": "Pricing",
+    "settings": "Settings",
+    "helpCenter": "Help Center",
+    "logout": "Logout",
+    "representatives": "Representatives",
+    "changeEmail": "Change Email",
+    "editProfile": "Edit Profile",
+    "volunteerPool": "Talent Pool",
+    "otherOrganizations": "Other Organizations"
+  },
+
+  "EmptyDashboard": {
+    "welcome": "Welcome back, {name} !",
+    "info": "Currently, there are no opportunity postings for your organization. Get started by adding a new opportunity.",
+    "postButtonText": "Post an Opportunity",
+    "viewOrgProfileButtonText": "View Profile Page",
+    "contactUsButtonText": "Contact HOOPOE",
+    "editOrgProfileButtonText": "Edit Org Profile",
+    "declinedAccount": {
+      "title": "Account Declined !",
+      "message": "We're sorry, but your account has been declined. Please edit your profile and try again or contact us for further information or assistance."
+    },
+    "disabledAccount": {
+      "title": "Account Disabled !",
+      "message": "We're sorry, but your account has been disabled. Please contact us for further information or assistance."
+    },
+
+    "notVerifiedAccount": {
+      "title": "Account Not Verified !",
+      "message": "Your account has not been verified yet. We're currently reviewing your account and will complete the verification process as soon as possible. Thank you for your patience."
+    },
+
+    "opportunityListing": {
+      "title": "Opportunity Listings",
+      "subTitle": "View and manage the opportunities posted by your organization here."
+    }
+  },
+
+  "ViewOpportunityInfoPage": {
+    "topSection": {
+      "editButtonText": "Edit Opportunity",
+      "postedOn": "Posted On",
+      "deadline": "Deadline",
+      "engagementType": "Opportunity Type",
+      "opType": "Work Location"
+    },
+    "tabs": {
+      "opportunityDetails": "Opportunity Details",
+      "applicants": "Applicants",
+      "certificate": "Certificate"
+    },
+    "openOpportunity": {
+      "buttonText": "Reopen",
+      "confirmationPopup": {
+        "title": "Are you sure",
+        "subTitle": "Once a post is Reopened volunteers will be able to apply."
+      }
+    },
+    "closeOpportunity": {
+      "buttonText": "Close",
+      "confirmationPopup": {
+        "title": "Are you sure",
+        "subTitle": "Once a post is closed volunteers will no longer be able to apply."
+      }
+    },
+
+    "repostOpportunity": {
+      "buttonText": "Repost",
+      "confirmationPopup": {
+        "title": "Are you sure",
+        "subTitle": "Once a post is Reposted it will appear on top as a new opportunity."
+      }
+    },
+
+    "statusChangePopup": {
+      "deadline": "Deadline",
+      "applicants": "Applicants",
+      "inReview": "In Review",
+      "accepted": "Accepted",
+      "declined": "Declined",
+      "cancelButton": "Cancel"
+    },
+
+    "OP_TYPE_OPTIONS": {
+      "In Person": "In Person",
+      "Remote": "Remote",
+      "Hybrid": "Hybrid"
+    },
+
+    "OP_PAID_OPTIONS": {
+      "Yes": "Yes",
+      "No": "No"
+    },
+    "NGO_TYPE_OPTIONS": {
+      "Local": "Local",
+      "International": "International"
+    }
+  },
+
+  "ApplicantDetailPage": {
+    "pageTitle": "Applicant Details",
+    "dateApplied": "Date Applied",
+    "status": "Status",
+    "personalInformation": {
+      "age": "Age",
+      "gender": "Gender",
+      "location": "Location",
+      "associatedOrganization": "Associated Organizations",
+      "about": "About",
+      "contact": {
+        "title": "Contacts",
+        "email": "Email",
+        "phone": "Phone",
+        "linkedIn": "LinkedIn",
+        "whatsapp": "Whatsapp",
+        "telegram": "Telegram"
+      }
+    },
+    "documents": {
+      "title": "Documents",
+      "resume": "Resume/CV"
+    },
+
+    "applicantProfile": "Applicant Profile",
+    "workHistory": "Work History",
+
+    "additionalResponses": "Additional Responses",
+    "participationType": "Participation Type",
+    "skillSets": "Skill Set",
+    "categories": "Categories",
+    "response": "Response",
+
+    "notProvided": "Not Provided",
+    "organizationsRatesAndReviews": "Organizations Rates and Reviews",
+
+    "acceptButtonText": "Accept",
+    "declineButtonText": "Decline",
+    "inReviewButtonText": "In Review",
+    "interviewButtonText": "Interview",
+    "offerExtendedButtonText": "Offer Extended",
+    "hireButtonText": "Hire",
+    "certifyButtonText": "Certify",
+    "confirmationPopup": {
+      "title": "Are you sure?",
+      "declined": "This action will send a notification to the applicant that they are not accepted to this opportunity.",
+      "inReview": "This action will send a notification to the applicant that their application is in review.",
+      "interview": "This action will send a notification to the applicant that they have been selected for an interview.",
+      "offerExtended": "This action will send a notification to the applicant that an offer has been extended to them.",
+      "hired": "This action will send a notification to the applicant that they have been hired for this opportunity.",
+      "certified": "This action will send a notification to the applicant that they are certified."
+    }
+  },
+
+  "validationErrors": {
+    "Full name is required": "Full name is required",
+    "Email is required": "Email is required",
+    "Invalid email": "Invalid email",
+    "Password is required": "Password is required",
+    "String must contain at least 6 character(s)": "Password must be at least 6 characters long",
+    "String must contain at least 1 character(s)": "String must contain at least 1 character(s)",
+    "String must contain at least 2 character(s)": "Name must contain at least 1 character(s)",
+    "Passwords don't match": "Passwords don't match",
+    "OTP is required": "OTP is required",
+    "OTP must be 4 characters long": "OTP must be 4 characters long",
+    "Year must be an integer between 1800 and the current year": "Please enter a valid year between 1800 and now",
+    "Organization name cannot be empty": "Organization name cannot be empty",
+    "Location cannot be empty": "Location cannot be empty",
+    "Organization Type needs to be a valid option": "Organization type needs to be a valid option",
+    "Year Founded needs to be a valid option": "Year Founded needs to be a valid option",
+    "You need to select at least one Organization Area": "You need to select at least one Organization Area",
+    "Primary phone number is required": "Primary phone number is required",
+    "Primary phone number is not valid": "Primary phone number is not valid",
+    "Secondary phone number is not valid": "Secondary phone number is not valid",
+    "Title cannot be empty": "Title cannot be empty",
+    "Description cannot be empty": "Description cannot be empty",
+    "Description cannot exceed 500 characters": "Description cannot exceed 500 characters",
+    "Vision cannot be empty": "Vision cannot be empty",
+    "Mission cannot be empty": "Mission cannot be empty",
+    "Future Plans cannot be empty": "Future Plans cannot be empty",
+    "Opportunity title is required": "Opportunity title is required",
+    "Responsibilities cannot be empty": "Responsibilities cannot be empty",
+    "Responsibilities cannot exceed 500 characters": "Responsibilities cannot exceed 500 characters",
+    "Requirements cannot be empty": "Requirements cannot be empty",
+    "Requirements cannot exceed 500 characters": "Requirements cannot exceed 500 characters",
+    "Ideal Candidate description cannot exceed 500 characters": "Ideal Candidate description cannot exceed 500 characters",
+    "You need to select at least one Category": "You need to select at least one Category",
+    "You need to select at least one Opportunity Type": "You need to select at least one Opportunity Type",
+    "Start date is required": "Start date is required",
+    "End date is required": "End date is required",
+    "Deadline is required": "Deadline is required",
+    "You need to select at least one City": "You need to select at least one City",
+    "You need to select at least one Required Skill": "You need to select at least one Required Skill",
+    "When and Where information is required": "When and Where information is required",
+    "You need to select at least one skill": "You need to select at least one skill",
+    "You need to select at least one language": "You need to select at least one language",
+    "Required": "current profession is required",
+    "Invalid phone number": "Invalid phone number",
+    "Phone number is required": "Phone number is required",
+    "Name must be at least 3 characters long": "Name must be at least 3 characters long",
+    "Work Location cannot be empty": "Work Location cannot be empty",
+    "Please specify whether the opportunity is paid or not": "Please specify whether the opportunity is paid or not",
+    "Start date cannot be in the past": "Start date cannot be in the past",
+    "End date cannot be in the past": "End date cannot be in the past",
+    "Deadline cannot be in the past": "Deadline cannot be in the past",
+    "You need to select at least one operational area": "You need to select at least one operational area",
+    "User already exists with the given email": "User already exists with the given email"
+  },
+
+  "editOrgUserProfilePage": {
+    "title": "Edit Your Profile",
+    "saveButtonText": "Save Change",
+    "saveName": "Save Name",
+    "labels": {
+      "profile": "Profile Picture",
+      "name": "Name",
+      "email": "Email Address"
+    }
+  },
+
+  "updateEmailPage": {
+    "title": "Want to Change Email ?",
+    "subtitle": "It should be easy, just send us your new email",
+
+    "continueButtonText": "Continue",
+    "emailFieldPlaceholder": "Enter your new email address",
+    "labels": {
+      "email": "Email Address"
+    },
+    "verifiyEmail": {
+      "title": "Verify New Email",
+      "subtitle": "We've sent a verification code to the email address you provided. To Change your email successfully, please enter the code here.",
+      "otpFieldLabel": "Enter OTP"
+    }
+  },
+
+  "LocaleSwitcher": {
+    "label": "Language",
+    "switchLocale": "{locale, select, en {En} ara {ara} other {Unknown}}"
+  },
+
+  "tableInfo": {
+    "previous": "previous",
+    "next": "next",
+    "page": "page",
+    "of": "of",
+    "search": "Search"
+  },
+  "volunteerPool": {
+    "title": "Available Talents",
+    "details": {
+      "opportunitySeekers": "Opportunity Seekers",
+      "subtitle": "This is a list of people who have opted in for invitation"
+    },
+    "tableFilters": {
+      "all": "all",
+      "interested": "interested",
+      "saved": "saved",
+      "myPool": "My Pool"
+    },
+    "tableHeaders": {
+      "user": "user",
+      "skills": "skills",
+      "interestInYourCompany": " Interest in your company",
+      "gender": "Gender",
+      "invitedBy": "Invited By",
+      "status": "Status",
+      "invitedOn": "Invitation Date"
+    },
+    "page": "page",
+    "of": "of"
+  },
+
+  "volunteerSide": {
+    "navBar": {
+      "home": "Home",
+      "findOpportunities": "Find Opportunities",
+      "browseOrganizations": "Browse Organizations",
+      "aboutUs": "About Us",
+      "logIn": "Log In",
+      "signUp": "Sign Up",
+      "profile": "Profile",
+      "applications": "Applications",
+      "logOut": "Logout",
+      "bookMark": "Bookmarks",
+      "MyBookMark": "My Bookmarks"
+    },
+    "homePage": {
+      "grow": "Grow.",
+      "connect": "Connect,",
+      "serve": "Serve,",
+      "description": "connects passionate individuals with impactful organizations, empowering communities worldwide.",
+      "startHereButton": "Start Here",
+      "findOpportunities": "Find Opportunities",
+      "browseOrganizations": "Browse Organizations",
+      "login": "Log In",
+      "signUp": "Sign Up"
+    },
+    "impactPage": {
+      "title1": "Are you a volunteer looking to  ",
+      "title2": "make a positive impact",
+      "title3": "in your community?",
+      "subtitle1": "HOOPOE eliminates the need to navigate various social media platforms and word-of-mouth",
+      "subtitle2": "communication. Our platform provides streamlined access to centralized",
+      "subtitle3": "and a wide array of diverse opportunities.",
+      "button": "Search Opportunity"
+    },
+    "makeDifferencePage": {
+      "title1": "Make a ",
+      "title2": " Difference",
+      "description": "Connect with passionate NGOs and find impactful opportunities that align with your skills and interests.",
+      "description1": "Explore diverse volunteer roles tailored to your interests and expertise",
+      "description2": "Easily apply for opportunities and track your applications in one place",
+      "description3": "Join a network of passionate individuals & organizations dedicated to creating better world",
+      "subtitle1": "Discover Opportunities",
+      "subtitle2": "Easy Application",
+      "subtitle3": "Community of Change",
+      "button": "Download App"
+    },
+    "elevatePage": {
+      "title1": "Elevate Your",
+      "title2": "Volunteer Management",
+      "title3": " with HOOPOE",
+      "description": "Changing how volunteers connect with NGOs, HOOPOE uses technology for easier recruitment and communication.",
+      "subtitle1": "Showcase Impactful Projects",
+      "subtitle1description": "Elevate your NGO's visibility: highlight projects, achievements, and upcoming opportunities to our dedicated volunteer network.",
+      "subtitle2": "Streamlined Volunteer Evaluation",
+      "subtitle2description": "Review applications, issue certifications, and easily manage the process of shortlisting, accepting, or declining applicants.",
+      "button": "Sign UP Today"
+    },
+    "applicationPage": {
+      "title": "Ready to Streamline your application process?",
+      "description": "Start your journey now by signing up today!",
+      "button": "Join Us"
+    },
+    "footer": {
+      "resourcesButton": {
+        "title": "Resources",
+        "getTheApp": "Get The App",
+        "aboutUs": "About Us",
+        "tryTelegramBot": "Try Telegram Bot"
+      },
+      "description": "HOOPOE is a platform designed to connect organizations with youth seeking opportunities. By simplifying the process of managing opportunities and enhancing communication, HOOPOE helps organizations find the right talent while offering individuals tailored opportunities that align with their skills and interests.",
+      "contactUs": "Contact Us",
+      "copyRight": " HOOPOE. All rights reserved.",
+      "quickContact": "Quick Contact: Get in Touch"
+    },
+    "experiancePage": {
+      "title1": "Experience",
+      "title2": "Seamless Application",
+      "title3": "Process with HOOPOE",
+      "card1": {
+        "title1": "Streamlined",
+        "title2": "Volunteering",
+        "description1": "We link passionate individuals",
+        "description2": " with NGOs, offering tailored",
+        "description3": "volunteering experiences."
+      },
+      "card2": {
+        "title1": "Diverse",
+        "title2": "Causes",
+        "description1": "Empowering individuals to",
+        "description2": "support diverse initiatives and",
+        "description3": "foster a global community."
+      },
+      "card3": {
+        "title1": "Empowering",
+        "title2": "Communities",
+        "description1": "Streamlines NGO outreach",
+        "description2": "and matches volunteers",
+        "description3": "driving global change."
+      }
+    }
+  },
+
+  "findOpportunities": {
+    "title": "Find Opportinities",
+    "subtitle": "Find Opportunities Near Your Area",
+    "searchOpportunities": "Search Opportunities",
+    "city": "City",
+    "search": "Search",
+    "opportunities": "Opportunities",
+    "operationalReach": "Operational Reaches",
+    "sortBy": "sortBy",
+    "showingResults": "Showing Results",
+    "previous": "previous",
+    "next": "next",
+    "page": "page",
+    "of": "of",
+    "sortOptions": {
+      "mostRecent": "Most Recent",
+      "oldestFirst": "Oldest First",
+      "mostApplicants": "Most Applicants",
+      "leastApplicants": "Least Applicants",
+      "farthestDeadline": "Farthest Deadline",
+      "nearestDeadline": "Nearest Deadline",
+      "mostViewed": "Most Viewed",
+      "leastViewed": "Least Viewed"
+    },
+    "typeOfEmployment": "engagement types",
+    "organizationType": "Organization Type",
+    "categories": "Categories"
+  },
+  "browseOrganizations": {
+    "title": "Browse Organization",
+    "subtitle": "Find Organizations Near Your Area",
+    "searchOrganization": "Search Organizations",
+    "city": "City",
+    "search": "Search",
+    "organizations": "Organizations",
+    "operationalReach": "Operational Reaches",
+    "allOrganizations": "Organizations",
+    "sortBy": "sortBy",
+    "showingResults": "Showing Results",
+    "previous": "previous",
+    "next": "next",
+    "page": "page",
+    "of": "of",
+    "sortOptions": {
+      "newestFirst": "Newest First",
+      "oldestFirst": "Oldest First",
+      "mostOpportunities": "Most Opportunities",
+      "leastOpportunities": "Least Opportunities",
+      "ascendingOrder": "Ascending Order",
+      "descendingOrder": "Descending Order"
+    },
+    "NGO_TYPE_OPTIONS": {
+      "Local": "Local",
+      "International": "International"
+    },
+    "ORGANIZATION_TYPE_OPTIONS": {
+      "Non-Profit": "Non-Profit",
+      "For-Profit": "For Profit"
+    },
+    "causeArea": "Cause areas",
+    "organizationType": "Organization Types",
+    "opportunities": "Opportunities",
+    "opportunity": "Opportunity",
+    "noOpportunities": "No Opportinities"
+  },
+  "ngoAreaOptions": {
+    "Education and Literacy": "Education and Literacy",
+    "Technology": "Technology",
+    "Children and Youth": "Children and Youth",
+    "Health and Medicine": "Health and Medicine",
+    "People with Disabilities": "People with Disabilities",
+    "Sports and Recreation": "Sports and Recreation",
+    "Homeless and Housing": "Homeless and Housing",
+    "Environment": "Environment",
+    "Community Development": "Community Development",
+    "Women's Empowerment": "Women's Empowerment",
+    "Media and Broadcasting": "Media and Broadcasting",
+    "Maintenance": "Maintenance",
+    "Project management": "Project Management",
+    "Project Developement ": "Project Development",
+    "Marketing": "Marketing",
+    "Maternity Care": "Maternity Care",
+    "Social Media": "Social Media"
+  },
+
+  "underlineTabs": {
+    "Home": "Home",
+    "Organizations": "Organizations",
+    "Profile": "Profile",
+    "Opportunities": "Opportunities",
+    "Reviews": "Reviews",
+    "Opportunity Seekers": "Opportunity Seekers",
+    "Other Organizations": "Other Organizations",
+    "Opportunities By Other Organizations": "Opportunities By Other Organizations",
+    "Opportunity Details": "Opportunity Details",
+    "Applicants": "Applicants",
+    "Certificate": "Certificate",
+    "Applicant Profile": "Applicant Profile",
+    "Notes": "Notes",
+    "Additional Responses": "Additional Responses"
+  },
+  "EditProfile": {
+    "Skills": "Skills",
+    "Skills Description": "Adding your skills highlights your expertise and helps recruiters match you with the right opportunities.",
+    "Edit Skills": "Edit Skills",
+    "Save": "Save",
+    "Edit About Me": "Edit About Me",
+    "About Me": "About Me",
+    "About": "About",
+    "About Description": "Completing your About section gives recruiters a glimpse into your personality, goals, and what makes you unique.",
+    "Uploading": "Uploading...",
+    "Resume/CV": "Resume/CV",
+    "Resume Updated successfully!": "Resume Updated successfully!",
+    "Edit": "Edit",
+    "Socials": "Socials",
+    "Cancel": "Cancel",
+    "Skills updated successfully!": "Skills updated successfully!",
+    "Languages updated successfully!": "Languages updated successfully!",
+    "Edit your social": "Edit your social",
+    "Contact": "Contacts",
+    "Profile updated successfully!": "Profile updated successfully!",
+    "Edit your contact": "Edit your contact",
+    "About Me Updated successfully!": "About Me Updated successfully!",
+    "Invalid file type": "Invalid file type. Please upload a PDF or Word document.",
+    "File size should not exceed 5MB": "File size should not exceed 5MB",
+    "Only image files are allowed": "Only image files are allowed",
+    "No resume uploaded": "No Resume Uploaded ",
+    "Certificate": "Certificates",
+    "No Certificate Received": "No Certificate Received",
+    "Certificate of Completion": "Certificate of Completion",
+    "Organization reviews": "Organization reviews",
+    "Resume Deleted successfully!": "Resume Deleted successfully!",
+    "No reviews yet": "No reviews yet",
+    "Deleting": "Deleting",
+    "Languages": "Languages",
+    "Languages Description": "Adding your languages highlights your expertise and helps recruiters match you with the right opportunities.",
+    "Edit Language": "Edit Language",
+    "Language updated successfully!": "Language updated successfully!",
+    "Personal Details": "Personal Details",
+    "Email": "Email",
+    "Phone Number": "Phone Number",
+    "Location": "Location",
+    "Contacts Description": "Adding your contact information makes it easier for recruiters to reach out to you quickly.",
+    "LinkedIn": "LinkedIn",
+    "X": "X",
+    "Website": "Website",
+    "Socials Description": "Linking your social media profiles allows recruiters to learn more about your professional journey and connect with you seamlessly.",
+    "Profile Completion": "Profile Completion",
+    "Profile picture removed successfully": "Profile picture removed successfully."
+  },
+
+  "LandingPage": {
+    "heroSection": {
+      "moto": { "serve": "Serve,", "connect": "Connect,", "grow": "Grow" },
+      "description": "Serving communities with dedication, connecting youth with purpose, growing together for a brighter future.",
+      "btn": {
+        "findOpportunities": "Find Opportunities",
+        "postOpportunities": "Post Opportinities"
+      }
+    },
+
+    "forOrganizations": {
+      "title": {
+        "for": "For",
+        "organizations": "Organizations"
+      },
+      "text1": "At HOOPOE, we understand the challenges organizations face in spreading their mission and recruiting skilled individuals.",
+      "text2": "Our platform offers you the tools to:",
+      "cards": {
+        "expandYourReach": {
+          "title": "Expand Your Reach",
+          "description": "Direct access to HOOPOE's fast-growing community of talented youth."
+        },
+        "manageOpportunities": {
+          "title": "Manage Opportunities",
+          "description": "Effortless opportunity posting and management, with easy application tracking."
+        },
+        "donationChannel": {
+          "title": "Donation Channel",
+          "description": "An alternative channel for donations for non-profit organizations."
+        }
+      }
+    },
+
+    "GetYourIdeal": {
+      "title": {
+        "main": "Get ideal candidates",
+        "steps": "in 3 easy steps"
+      },
+      "cards": {
+        "registerOrg": {
+          "title": "Register your Organization",
+          "description": "Create a detailed profile to introduce your organization to our opportunity seekers."
+        },
+        "postOpportunities": {
+          "title": "Post Opportunities",
+          "description": "Utilize our integrated AI writer for compelling postings."
+        },
+        "manageApplications": {
+          "title": "Manage Applications",
+          "description": "Easily review, accept, or decline applications and monitor applicants progress."
+        }
+      }
+    },
+
+    "ForVolunteers": {
+      "words": {
+        "for": "For",
+        "opportunitySeekers": "Opportunity Seekers"
+      },
+      "paragraph": {
+        "text1": "Discover opportunities that match your skills, interests, and availability.",
+        "text2": "HOOPOE offers you the tools to:"
+      },
+      "cards": {
+        "discoverOpportunities": {
+          "title": "Discover Opportunities",
+          "description": "Access to many organizations and diverse opportunities."
+        },
+        "aiAssistance": {
+          "title": "AI Assistance",
+          "description": "Smart opportunity matching using AI."
+        },
+        "trackApplications": {
+          "title": "Track Applications",
+          "description": "Track applications and responses effortlessly."
+        }
+      }
+    },
+
+    "DownloadMobile": {
+      "title": "Download the app",
+      "description": "Opportunities at your fingertips, readily accessible to you, just waiting for you to take advantage of them."
+    },
+
+    "BrowseOpportunity": {
+      "title": {
+        "text1": "Browse opportunities",
+        "text2": "by category"
+      },
+      "description": "Discover opportunities that match your skills, interests, and availability."
+    },
+
+    "ForThrive": {
+      "title": {
+        "text1": "We thrive",
+        "text2": "to build a global community"
+      },
+      "description": "HOOPOE thrives to build a global community where opportunities are accessible, inclusive, and impactful for youth."
+    },
+
+    "RecentOpportunity": {
+      "words": {
+        "recent": "Recent",
+        "opportunities": "Opportunities"
+      },
+      "description": "Discover opportunities that match your skills, interests, and availability.",
+      "seeAll": "See All"
+    },
+
+    "FactsAndFigures": {
+      "community": "Community",
+      "impact": "Impact",
+      "description": "Empowering change-makers by creating a vibrant community where every engagement is meaningful and contributes to a more inclusive society.",
+      "facts": {
+        "orgRegistered": "Organizations Registered",
+        "opportunitySeekers": "Opportunity Seekers",
+        "opportunitiesConnected": "Opportinities Connected"
+      }
+    },
+
+    "OurPartners": {
+      "title": {
+        "our": "Our",
+        "partners": "Partners"
+      },
+      "description": "We're proud to partner with organizations driving meaningful change."
+    }
+  }
+}
